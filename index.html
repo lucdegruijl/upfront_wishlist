@@ -69,6 +69,30 @@
     border-radius: 3px;
   }
 
+  .name-row {
+    margin-top: 14px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  #user-name {
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    padding: 8px 10px;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    background: var(--card);
+    color: var(--ink);
+    max-width: 220px;
+  }
+
+  .name-status {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--forest);
+  }
+
   main {
     padding: 20px;
     max-width: 640px;
@@ -210,6 +234,10 @@
   <h1>Upfront Tracker</h1>
   <div class="last-updated" id="last-updated">Data laden…</div>
   <div class="shipping-note" id="shipping-note">Gratis verzending vanaf €59</div>
+  <div class="name-row">
+    <input type="text" id="user-name" placeholder="Jouw naam (bijv. Wouter)" />
+    <span id="name-status" class="name-status"></span>
+  </div>
 </header>
 
 <main id="product-list">
@@ -226,13 +254,55 @@
 
 <script>
 let DATA = null;
-const basket = {}; // variantId -> {price, qty, title}
+let basket = {}; // variantId -> {price, qty, title}
+let currentUser = '';
+
+function basketKey(name) {
+  return `upfront-basket-${name.trim().toLowerCase()}`;
+}
+
+function loadBasketForUser(name) {
+  const raw = localStorage.getItem(basketKey(name));
+  basket = raw ? JSON.parse(raw) : {};
+}
+
+function saveBasketForUser(name) {
+  if (!name.trim()) return;
+  localStorage.setItem(basketKey(name), JSON.stringify(basket));
+}
+
+function initNameField() {
+  const input = document.getElementById('user-name');
+  const status = document.getElementById('name-status');
+
+  const lastUsed = localStorage.getItem('upfront-last-user') || '';
+  input.value = lastUsed;
+  if (lastUsed) {
+    currentUser = lastUsed;
+    loadBasketForUser(lastUsed);
+    status.textContent = `Welkom terug, ${lastUsed}`;
+  }
+
+  input.addEventListener('change', () => {
+    const name = input.value.trim();
+    if (!name) {
+      status.textContent = '';
+      return;
+    }
+    currentUser = name;
+    localStorage.setItem('upfront-last-user', name);
+    loadBasketForUser(name);
+    status.textContent = `Mandje geladen voor ${name}`;
+    if (DATA) { render(); renderBasket(); }
+  });
+}
 
 async function loadData() {
   try {
     const res = await fetch('products_data.json');
     DATA = await res.json();
     render();
+    renderBasket();
   } catch (e) {
     document.getElementById('product-list').innerHTML =
       '<div class="empty-note">Kon products_data.json niet laden. Draai eerst de monitor via GitHub Actions.</div>';
@@ -291,14 +361,16 @@ function render() {
     minus.textContent = '−';
     const qtyVal = document.createElement('span');
     qtyVal.className = 'qty-val';
-    qtyVal.textContent = '0';
-    const plus = document.createElement('button');
-    plus.className = 'qty-btn';
-    plus.textContent = '+';
 
     function currentVariant() {
       return p.variants.find(v => String(v.id) === select.value);
     }
+
+    qtyVal.textContent = basket[currentVariant().id]?.qty || 0;
+
+    const plus = document.createElement('button');
+    plus.className = 'qty-btn';
+    plus.textContent = '+';
 
     function updateQty(delta) {
       const v = currentVariant();
@@ -310,6 +382,7 @@ function render() {
         basket[key] = { price: v.price, qty, title: `${p.title} (${v.title})` };
       }
       qtyVal.textContent = qty;
+      saveBasketForUser(currentUser);
       renderBasket();
     }
 
@@ -343,6 +416,7 @@ function renderBasket() {
   document.getElementById('basket-total').textContent = `€${(subtotal + shipping).toFixed(2)}`;
 }
 
+initNameField();
 loadData();
 </script>
 
