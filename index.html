@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Upfront Tracker</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=JetBrains+Mono:wght@400;600&family=Inter:wght@400;500;600&display=swap');
+
+  :root {
+    --paper: #F7F5EF;
+    --ink: #14201A;
+    --forest: #1F4A32;
+    --amber: #E8A33D;
+    --line: #D8D3C3;
+    --card: #FFFFFF;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Inter', sans-serif;
+    padding-bottom: 140px;
+  }
+
+  header {
+    padding: 28px 20px 20px;
+    border-bottom: 2px solid var(--ink);
+    position: sticky;
+    top: 0;
+    background: var(--paper);
+    z-index: 10;
+  }
+
+  .eyebrow {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--forest);
+    margin: 0 0 6px;
+  }
+
+  h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 28px;
+    margin: 0;
+    letter-spacing: -0.01em;
+  }
+
+  .last-updated {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: #6B6558;
+    margin-top: 8px;
+  }
+
+  .shipping-note {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    background: var(--forest);
+    color: var(--paper);
+    padding: 8px 12px;
+    margin-top: 14px;
+    display: inline-block;
+    border-radius: 3px;
+  }
+
+  main {
+    padding: 20px;
+    max-width: 640px;
+    margin: 0 auto;
+  }
+
+  .product {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 16px;
+    margin-bottom: 14px;
+    display: flex;
+    gap: 14px;
+    align-items: center;
+  }
+
+  .product img {
+    width: 56px;
+    height: 56px;
+    object-fit: cover;
+    border-radius: 4px;
+    background: var(--line);
+    flex-shrink: 0;
+  }
+
+  .product-info { flex: 1; min-width: 0; }
+
+  .product-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    margin: 0 0 2px;
+  }
+
+  .product-type {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: #8A8474;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  select {
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    padding: 6px 8px;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    margin-top: 6px;
+    max-width: 100%;
+  }
+
+  .price {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--forest);
+    white-space: nowrap;
+  }
+
+  .qty-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 8px;
+  }
+
+  .qty-btn {
+    width: 26px;
+    height: 26px;
+    border: 1px solid var(--ink);
+    background: var(--card);
+    border-radius: 4px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 14px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .qty-btn:hover { background: var(--ink); color: var(--paper); }
+
+  .qty-val {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 14px;
+    min-width: 18px;
+    text-align: center;
+  }
+
+  #basket-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: var(--ink);
+    color: var(--paper);
+    padding: 16px 20px 20px;
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  .basket-inner {
+    max-width: 640px;
+    margin: 0 auto;
+  }
+
+  .basket-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    opacity: 0.75;
+    margin-bottom: 3px;
+  }
+
+  .basket-total {
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 6px;
+    padding-top: 8px;
+    border-top: 1px solid #3A4A40;
+  }
+
+  .basket-total .amber { color: var(--amber); }
+
+  .empty-note {
+    font-family: 'JetBrains Mono', monospace;
+    color: #8A8474;
+    text-align: center;
+    padding: 40px 20px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <p class="eyebrow">Prijs- &amp; productmonitor</p>
+  <h1>Upfront Tracker</h1>
+  <div class="last-updated" id="last-updated">Data laden…</div>
+  <div class="shipping-note" id="shipping-note">Gratis verzending vanaf €59</div>
+</header>
+
+<main id="product-list">
+  <div class="empty-note">Producten laden…</div>
+</main>
+
+<div id="basket-bar" style="display:none;">
+  <div class="basket-inner">
+    <div class="basket-row"><span>Subtotaal</span><span id="basket-subtotal">€0.00</span></div>
+    <div class="basket-row"><span>Verzendkosten</span><span id="basket-shipping">€0.00</span></div>
+    <div class="basket-total"><span>Totaal</span><span class="amber" id="basket-total">€0.00</span></div>
+  </div>
+</div>
+
+<script>
+let DATA = null;
+const basket = {}; // variantId -> {price, qty, title}
+
+async function loadData() {
+  try {
+    const res = await fetch('products_data.json');
+    DATA = await res.json();
+    render();
+  } catch (e) {
+    document.getElementById('product-list').innerHTML =
+      '<div class="empty-note">Kon products_data.json niet laden. Draai eerst de monitor via GitHub Actions.</div>';
+  }
+}
+
+function render() {
+  const list = document.getElementById('product-list');
+  const updated = new Date(DATA.last_updated);
+  document.getElementById('last-updated').textContent =
+    'Laatst bijgewerkt: ' + updated.toLocaleString('nl-NL');
+  document.getElementById('shipping-note').textContent =
+    `Gratis verzending vanaf €${DATA.free_shipping_threshold.toFixed(2)} · anders €${DATA.shipping_cost.toFixed(2)}`;
+
+  if (!DATA.products.length) {
+    list.innerHTML = '<div class="empty-note">Nog geen producten gevonden.</div>';
+    return;
+  }
+
+  list.innerHTML = '';
+  DATA.products.forEach(p => {
+    const div = document.createElement('div');
+    div.className = 'product';
+
+    const img = document.createElement('img');
+    img.src = p.image || '';
+    img.onerror = () => { img.style.display = 'none'; };
+    div.appendChild(img);
+
+    const info = document.createElement('div');
+    info.className = 'product-info';
+
+    const title = document.createElement('p');
+    title.className = 'product-title';
+    title.textContent = p.title;
+    info.appendChild(title);
+
+    const type = document.createElement('div');
+    type.className = 'product-type';
+    type.textContent = p.product_type || '';
+    info.appendChild(type);
+
+    const select = document.createElement('select');
+    p.variants.forEach(v => {
+      const opt = document.createElement('option');
+      opt.value = v.id;
+      opt.textContent = `${v.title} — €${v.price.toFixed(2)}`;
+      select.appendChild(opt);
+    });
+    info.appendChild(select);
+
+    const qtyRow = document.createElement('div');
+    qtyRow.className = 'qty-row';
+    const minus = document.createElement('button');
+    minus.className = 'qty-btn';
+    minus.textContent = '−';
+    const qtyVal = document.createElement('span');
+    qtyVal.className = 'qty-val';
+    qtyVal.textContent = '0';
+    const plus = document.createElement('button');
+    plus.className = 'qty-btn';
+    plus.textContent = '+';
+
+    function currentVariant() {
+      return p.variants.find(v => String(v.id) === select.value);
+    }
+
+    function updateQty(delta) {
+      const v = currentVariant();
+      const key = v.id;
+      const qty = Math.max(0, (basket[key]?.qty || 0) + delta);
+      if (qty === 0) {
+        delete basket[key];
+      } else {
+        basket[key] = { price: v.price, qty, title: `${p.title} (${v.title})` };
+      }
+      qtyVal.textContent = qty;
+      renderBasket();
+    }
+
+    minus.onclick = () => updateQty(-1);
+    plus.onclick = () => updateQty(1);
+    select.onchange = () => { qtyVal.textContent = basket[currentVariant().id]?.qty || 0; };
+
+    qtyRow.appendChild(minus);
+    qtyRow.appendChild(qtyVal);
+    qtyRow.appendChild(plus);
+    info.appendChild(qtyRow);
+
+    div.appendChild(info);
+    list.appendChild(div);
+  });
+}
+
+function renderBasket() {
+  const items = Object.values(basket);
+  const bar = document.getElementById('basket-bar');
+  if (items.length === 0) {
+    bar.style.display = 'none';
+    return;
+  }
+  bar.style.display = 'block';
+  const subtotal = items.reduce((sum, i) => sum + i.price * i.qty, 0);
+  const shipping = subtotal >= DATA.free_shipping_threshold ? 0 : DATA.shipping_cost;
+  document.getElementById('basket-subtotal').textContent = `€${subtotal.toFixed(2)}`;
+  document.getElementById('basket-shipping').textContent =
+    shipping === 0 ? 'Gratis' : `€${shipping.toFixed(2)}`;
+  document.getElementById('basket-total').textContent = `€${(subtotal + shipping).toFixed(2)}`;
+}
+
+loadData();
+</script>
+
+</body>
+</html>
