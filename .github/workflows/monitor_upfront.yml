@@ -1,0 +1,38 @@
+name: Upfront Prijs- & Productmonitor
+ 
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # elke 6 uur -- prijzen/nieuwe producten veranderen niet elke 5 min
+  workflow_dispatch: {}
+ 
+permissions:
+  contents: write
+ 
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+ 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+ 
+      - name: Installeer dependencies
+        run: pip install requests
+ 
+      - name: Draai monitor
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python monitor_upfront.py
+ 
+      - name: Commit bijgewerkte data
+        run: |
+          git config user.name "upfront-tracker-bot"
+          git config user.email "actions@github.com"
+          git add products_data.json seen_products.json
+          git diff --staged --quiet || git commit -m "Update product data [skip ci]"
+          git push
