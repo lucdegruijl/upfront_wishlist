@@ -1,1 +1,3286 @@
-{"last_updated": "", "shipping_cost": 4.95, "free_shipping_threshold": 59.00, "products": []}
+{
+  "last_updated": "2026-08-13T15:08:28.746392+00:00",
+  "shipping_cost": 4.95,
+  "free_shipping_threshold": 59.0,
+  "products": [
+    {
+      "id": 15717783830911,
+      "title": "Eiwit Puur",
+      "handle": "eiwit-milkshake-puur",
+      "url": "https://upfront.nl/products/eiwit-milkshake-puur",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitPuur_PP_LoadingFrame_v1_1171c824-a656-47b6-a094-1e34e99f7dd4.png?v=1783092195",
+      "variants": [
+        {
+          "id": 57890623750527,
+          "title": "Puur",
+          "price": 36.0,
+          "available": true,
+          "sku": "KGWHPU-1"
+        }
+      ]
+    },
+    {
+      "id": 15674523582847,
+      "title": "Fiber Soda",
+      "handle": "fiber-soda",
+      "url": "https://upfront.nl/products/fiber-soda",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_FiberSoda_LimoenGember_PP_LoadingFrame_v1_3a624cde-ce37-4221-b48a-c933fff2a448.png?v=1785257661",
+      "variants": [
+        {
+          "id": 57504959725951,
+          "title": "Limoen Gember",
+          "price": 8.0,
+          "available": true,
+          "sku": "RDFSGL-4"
+        },
+        {
+          "id": 57504959758719,
+          "title": "Mango Passievrucht",
+          "price": 8.0,
+          "available": true,
+          "sku": "RDFSMP-4"
+        }
+      ]
+    },
+    {
+      "id": 15717891178879,
+      "title": "Vegan Eiwit Shake",
+      "handle": "vegan-eiwit-3-0",
+      "url": "https://upfront.nl/products/vegan-eiwit-3-0",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitShake_Vanille_PP_LoadingFrame_v2_81e8c14c-a7f1-4b80-891b-ca592011153a.png?v=1784891507",
+      "variants": [
+        {
+          "id": 57736516075903,
+          "title": "Vanille",
+          "price": 29.0,
+          "available": true,
+          "sku": "7GVFVA-1"
+        },
+        {
+          "id": 57736516108671,
+          "title": "Chocolade",
+          "price": 29.0,
+          "available": true,
+          "sku": "7GVFCH-1"
+        }
+      ]
+    },
+    {
+      "id": 15749595038079,
+      "title": "Clear Whey + Shaker 2.0",
+      "handle": "clear-whey-shaker-2-0",
+      "url": "https://upfront.nl/products/clear-whey-shaker-2-0",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Bundle_ClearWheyShaker_AardbeiCitroen-Stevia_PP_LoadingFrame_v1.png?v=1782741329",
+      "variants": [
+        {
+          "id": 57859312353663,
+          "title": "Aardbei Citroen",
+          "price": 38.0,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 57859312845183,
+          "title": "Zwarte Bes",
+          "price": 38.0,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 57859313992063,
+          "title": "Limoen Munt",
+          "price": 38.0,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 57859314057599,
+          "title": "Citrus",
+          "price": 38.0,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 57859314090367,
+          "title": "Passievrucht",
+          "price": 38.0,
+          "available": true,
+          "sku": null
+        }
+      ]
+    },
+    {
+      "id": 15777907900799,
+      "title": "Eiwit IJskoffie",
+      "handle": "eiwit-ijskoffie-2",
+      "url": "https://upfront.nl/products/eiwit-ijskoffie-2",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitIjskoffieRTD_Cappuccino_PP_LoadingFrame_v1.5_1.png?v=1783615809",
+      "variants": [
+        {
+          "id": 57939826278783,
+          "title": "Cappuccino (2st)",
+          "price": 4.0,
+          "available": true,
+          "sku": "RDI2CA-2"
+        },
+        {
+          "id": 57939826311551,
+          "title": "Cappuccino 1st",
+          "price": 2.0,
+          "available": true,
+          "sku": "RDI2CA-1"
+        }
+      ]
+    },
+    {
+      "id": 14944627163519,
+      "title": "Pre Run",
+      "handle": "pre-run",
+      "url": "https://upfront.nl/products/pre-run",
+      "product_type": "Sport Supplements",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_PreRun_Aardbei_00000_d03bfb5d-6fe9-42ae-b3dd-20a9f4774339.png?v=1758198475",
+      "variants": [
+        {
+          "id": 55112117715327,
+          "title": "Sinaasappel",
+          "price": 8.0,
+          "available": true,
+          "sku": "D7PRSI-1"
+        },
+        {
+          "id": 55112117748095,
+          "title": "Aardbei",
+          "price": 8.0,
+          "available": true,
+          "sku": "D7PRAA-1"
+        }
+      ]
+    },
+    {
+      "id": 15594337599871,
+      "title": "Eiwitrepen Try-Out Box",
+      "handle": "eiwitreep-mixdoos",
+      "url": "https://upfront.nl/products/eiwitreep-mixdoos",
+      "product_type": "mix",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Eiwitrepen_TryOutBox_PP_LoadingFrame_v1.png?v=1774168238",
+      "variants": [
+        {
+          "id": 57124726767999,
+          "title": "Try-Out Box",
+          "price": 24.0,
+          "available": true,
+          "sku": "FOBATR-12"
+        }
+      ]
+    },
+    {
+      "id": 14914865922431,
+      "title": "Flavour Powder",
+      "handle": "flavor-powder",
+      "url": "https://upfront.nl/products/flavor-powder",
+      "product_type": "Protein",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_FlavorPowder_Vanille_PP_LoadingFrame_v2_68518692-5882-490e-abf7-e1ebbecf3f83.png?v=1783588615",
+      "variants": [
+        {
+          "id": 54959783444863,
+          "title": "Vanille",
+          "price": 11.0,
+          "available": false,
+          "sku": "P1F2VA-1"
+        },
+        {
+          "id": 57504949666175,
+          "title": "Speculoos",
+          "price": 11.0,
+          "available": false,
+          "sku": "P1F2SP-1"
+        },
+        {
+          "id": 57504949698943,
+          "title": "Passievrucht Perzik [ARCHIVED]",
+          "price": 11.0,
+          "available": false,
+          "sku": "P1F2PP-1"
+        },
+        {
+          "id": 57755692302719,
+          "title": "Passievrucht Perzik",
+          "price": 11.0,
+          "available": true,
+          "sku": "P1FPPP-1"
+        }
+      ]
+    },
+    {
+      "id": 15411183845759,
+      "title": "Medjoul Dadels",
+      "handle": "dadels",
+      "url": "https://upfront.nl/products/dadels",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/CollectionPage_v2-WebsiteRender_MedjoulDadels_Still_v1.jpg?v=1763996613",
+      "variants": [
+        {
+          "id": 56455623704959,
+          "title": "Dadels",
+          "price": 8.0,
+          "available": true,
+          "sku": "SNMDBS25-1"
+        }
+      ]
+    },
+    {
+      "id": 15012389683583,
+      "title": "BIO Alpenwhey",
+      "handle": "alpen-whey",
+      "url": "https://upfront.nl/products/alpen-whey",
+      "product_type": "Protein",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Bio_AlpenWhey_Loading_Frame.png?v=1770966909",
+      "variants": [
+        {
+          "id": 55574983508351,
+          "title": "Puur BIO",
+          "price": 28.0,
+          "available": true,
+          "sku": "7GAWPU-1"
+        },
+        {
+          "id": 55637432009087,
+          "title": "Banaan",
+          "price": 28.0,
+          "available": false,
+          "sku": "7GAWBA-1"
+        }
+      ]
+    },
+    {
+      "id": 15674518503807,
+      "title": "Magnesium PRO",
+      "handle": "magnesium-pro",
+      "url": "https://upfront.nl/products/magnesium-pro",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Vitamins_MagnesiumPro_PP_LoadingFrame_v2.png?v=1781248000",
+      "variants": [
+        {
+          "id": 57504924926335,
+          "title": "Magnesium PRO",
+          "price": 29.0,
+          "available": true,
+          "sku": "GFSUPM-1"
+        }
+      ]
+    },
+    {
+      "id": 15717912576383,
+      "title": "Baked Oats 2.1kg",
+      "handle": "baked-oats-3-pack",
+      "url": "https://upfront.nl/products/baked-oats-3-pack",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_OatsBaked_BlauweBes_PP_LoadingFrame_v1.png?v=1773384433",
+      "variants": [
+        {
+          "id": 57736612807039,
+          "title": "Blauwe Bes",
+          "price": 50.0,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 57736612839807,
+          "title": "Banaan Choco Chip",
+          "price": 50.0,
+          "available": true,
+          "sku": null
+        }
+      ]
+    },
+    {
+      "id": 15710630576511,
+      "title": "Keltisch Zeezout",
+      "handle": "keltisch-zeezout",
+      "url": "https://upfront.nl/products/keltisch-zeezout",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/SWebsite_ZeezoutFlakes_PP_LoadingFrame_v1.png?v=1781197296",
+      "variants": [
+        {
+          "id": 57732224287103,
+          "title": "Flakes",
+          "price": 4.5,
+          "available": true,
+          "sku": "SMZZFL18-1"
+        }
+      ]
+    },
+    {
+      "id": 15657344958847,
+      "title": "Eiwit Drinks Mixdoos",
+      "handle": "mixdoos",
+      "url": "https://upfront.nl/products/mixdoos",
+      "product_type": "mix",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Mixdoos_EiwitDrinks_PP_LoadingFrame_v1.png?v=1777453653",
+      "variants": [
+        {
+          "id": 57432274108799,
+          "title": "Mixdoos",
+          "price": 20.4,
+          "available": true,
+          "sku": "RDDRMX-1"
+        }
+      ]
+    },
+    {
+      "id": 15660436849023,
+      "title": "Granola Repen",
+      "handle": "granola-repen-2-0",
+      "url": "https://upfront.nl/products/granola-repen-2-0",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_GranolaReep_Honing_PP_LoadingFrame_v2.png?v=1777653548",
+      "variants": [
+        {
+          "id": 57446439485823,
+          "title": "Honing doosje",
+          "price": 3.0,
+          "available": true,
+          "sku": "FOG2HO-1"
+        }
+      ]
+    },
+    {
+      "id": 15658961699199,
+      "title": "Whey Isolaat Stevia",
+      "handle": "whey-isolaat-2-0",
+      "url": "https://upfront.nl/products/whey-isolaat-2-0",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitIsolaat_Vanille_PP_LoadingFrame_v1.png?v=1777582699",
+      "variants": [
+        {
+          "id": 57438078697855,
+          "title": "Vanille",
+          "price": 38.0,
+          "available": true,
+          "sku": "7GWCVA-1"
+        }
+      ]
+    },
+    {
+      "id": 15657281683839,
+      "title": "Eiwit Matcha",
+      "handle": "eiwit-matcha-1",
+      "url": "https://upfront.nl/products/eiwit-matcha-1",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitMatchaRTD_MatchaLatte_PP_LoadingFrame_v1.png?v=1777450893",
+      "variants": [
+        {
+          "id": 57431986143615,
+          "title": "Matcha (2st)",
+          "price": 4.0,
+          "available": true,
+          "sku": "RDIJMA-2"
+        },
+        {
+          "id": 57434424869247,
+          "title": "Matcha 1st",
+          "price": 2.0,
+          "available": true,
+          "sku": "RDIJMA-1"
+        },
+        {
+          "id": 57438242505087,
+          "title": "Matcha (12st)",
+          "price": 0.0,
+          "available": true,
+          "sku": "RDIJMA-12"
+        }
+      ]
+    },
+    {
+      "id": 15245084131711,
+      "title": "Whey Isolaat",
+      "handle": "whey-isolaat",
+      "url": "https://upfront.nl/products/whey-isolaat",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitIsolaat_Vanille_PP_LoadingFrame_v2.png?v=1786000366",
+      "variants": [
+        {
+          "id": 55903707365759,
+          "title": "Vanille",
+          "price": 38.0,
+          "available": true,
+          "sku": "7GWIVA-1"
+        },
+        {
+          "id": 55903707398527,
+          "title": "Choco",
+          "price": 38.0,
+          "available": false,
+          "sku": "7GWICA-1"
+        },
+        {
+          "id": 55903707431295,
+          "title": "Banaan",
+          "price": 38.0,
+          "available": false,
+          "sku": "7GWIBA-1"
+        }
+      ]
+    },
+    {
+      "id": 15495022870911,
+      "title": "Baked Oats",
+      "handle": "oats-baked",
+      "url": "https://upfront.nl/products/oats-baked",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_OatsBaked_Brownie_PP_LoadingFrame_v2_1.png?v=1786344119",
+      "variants": [
+        {
+          "id": 56748437340543,
+          "title": "Blauwe Bes",
+          "price": 19.0,
+          "available": true,
+          "sku": "7GBOBB-1"
+        },
+        {
+          "id": 56748437373311,
+          "title": "Banaan Choco Chip",
+          "price": 19.0,
+          "available": true,
+          "sku": "7GBOBC-1"
+        },
+        {
+          "id": 57755598127487,
+          "title": "Brownie 2.0",
+          "price": 19.0,
+          "available": false,
+          "sku": "7GBOBR-1"
+        }
+      ]
+    },
+    {
+      "id": 15633258512767,
+      "title": "Caffeine Drink",
+      "handle": "caffeine-drink",
+      "url": "https://upfront.nl/products/caffeine-drink",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_CaffeineRTD_MangoChili_PP_LoadingFrame_v1.png?v=1776617361",
+      "variants": [
+        {
+          "id": 57320153743743,
+          "title": "Mango Chili (2st)",
+          "price": 4.0,
+          "available": false,
+          "sku": "RDCAMC-2"
+        },
+        {
+          "id": 57374957961599,
+          "title": "Zwarte Bes (2st)",
+          "price": 4.0,
+          "available": false,
+          "sku": "RDCAZB-2"
+        },
+        {
+          "id": 57375268667775,
+          "title": "Mango Chili (1st)",
+          "price": 2.0,
+          "available": false,
+          "sku": "RDCAMC-1"
+        },
+        {
+          "id": 57375268700543,
+          "title": "Zwarte Bes (1st)",
+          "price": 2.0,
+          "available": false,
+          "sku": "RDCAZB-1"
+        },
+        {
+          "id": 57438245388671,
+          "title": "Mango Chili (12st)",
+          "price": 24.0,
+          "available": false,
+          "sku": "RDCAMC-12"
+        },
+        {
+          "id": 57438246568319,
+          "title": "Zwarte Bes (12st)",
+          "price": 24.0,
+          "available": false,
+          "sku": "RDCAZB-12"
+        },
+        {
+          "id": 58015094833535,
+          "title": "Aardbei Yuzu (2st)",
+          "price": 4.0,
+          "available": false,
+          "sku": "RDCAAA-2"
+        },
+        {
+          "id": 58015094866303,
+          "title": "Aardbei Yuzu (12st)",
+          "price": 24.0,
+          "available": false,
+          "sku": "RDCAAA-12"
+        },
+        {
+          "id": 58015111741823,
+          "title": "Witte Perzik (2st)",
+          "price": 4.0,
+          "available": false,
+          "sku": "RDCAWP-2"
+        },
+        {
+          "id": 58015111774591,
+          "title": "Witte Perzik (12st)",
+          "price": 24.0,
+          "available": false,
+          "sku": "RDCAWP-12"
+        },
+        {
+          "id": 58106934231423,
+          "title": "Mango (2st)",
+          "price": 4.0,
+          "available": false,
+          "sku": "B5CAMA-2"
+        },
+        {
+          "id": 58106934264191,
+          "title": "Mango (12st)",
+          "price": 24.0,
+          "available": false,
+          "sku": "B5CAMA-12"
+        }
+      ]
+    },
+    {
+      "id": 15621127373183,
+      "title": "Fiber Blend",
+      "handle": "fiber-blend",
+      "url": "https://upfront.nl/products/fiber-blend",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_FiberBlend_Sachet_Puur_PP_LoadingFrame_v2.png?v=1776245105",
+      "variants": [
+        {
+          "id": 57262532133247,
+          "title": "Puur",
+          "price": 35.0,
+          "available": true,
+          "sku": "FOFBPU-1"
+        },
+        {
+          "id": 57262532166015,
+          "title": "Sinaasappel",
+          "price": 35.0,
+          "available": true,
+          "sku": "FOFBSA-1"
+        }
+      ]
+    },
+    {
+      "id": 9839027945821,
+      "title": "Rauwe Honing",
+      "handle": "honing",
+      "url": "https://upfront.nl/products/honing",
+      "product_type": "Meals",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Honing_PP_LoadingFrame_v2_f611b3d8-d9f5-408c-8809-a100cfbf173a.png?v=1781508723",
+      "variants": [
+        {
+          "id": 57735751074175,
+          "title": "Honing",
+          "price": 5.0,
+          "available": true,
+          "sku": "35PHOBS-1"
+        }
+      ]
+    },
+    {
+      "id": 15621335056767,
+      "title": "Performance Tee",
+      "handle": "performance-tee",
+      "url": "https://upfront.nl/products/performance-tee",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Tee_PP_LoadingFrame_v1.png?v=1775552688",
+      "variants": [
+        {
+          "id": 57263947874687,
+          "title": "S",
+          "price": 45.0,
+          "available": true,
+          "sku": "TSKLZS-1"
+        },
+        {
+          "id": 57263947907455,
+          "title": "M",
+          "price": 45.0,
+          "available": false,
+          "sku": "TSKLZM-1"
+        },
+        {
+          "id": 57263947940223,
+          "title": "L",
+          "price": 45.0,
+          "available": false,
+          "sku": "TSKLZL-1"
+        },
+        {
+          "id": 57263947972991,
+          "title": "XL",
+          "price": 45.0,
+          "available": false,
+          "sku": "TSKLZX-1"
+        }
+      ]
+    },
+    {
+      "id": 15620404838783,
+      "title": "Creatine Sticks",
+      "handle": "creatine-sticks",
+      "url": "https://upfront.nl/products/creatine-sticks",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_CreatineSticks_Mango_PP_LoadingFrame_v1_c532ccc8-e5e5-417e-8fd0-2a05cdc0111a.png?v=1774972944",
+      "variants": [
+        {
+          "id": 57257923379583,
+          "title": "Mango 30st",
+          "price": 18.0,
+          "available": true,
+          "sku": "3PCRMA-1"
+        },
+        {
+          "id": 57311690490239,
+          "title": "Mango 10st",
+          "price": 18.0,
+          "available": false,
+          "sku": "1PCRMA-1"
+        }
+      ]
+    },
+    {
+      "id": 15417014518143,
+      "title": "Meat Jerky",
+      "handle": "meat-snacks",
+      "url": "https://upfront.nl/products/meat-snacks",
+      "product_type": "Meals",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/SWebsite_Jerky_Turkey_PP_LoadingFrame_v1_1.png?v=1774537975",
+      "variants": [
+        {
+          "id": 56466054709631,
+          "title": "Beef Jerky",
+          "price": 3.5,
+          "available": true,
+          "sku": "SNGVRN40-1"
+        },
+        {
+          "id": 56466054742399,
+          "title": "Turkey Jerky",
+          "price": 3.5,
+          "available": true,
+          "sku": "SNGVTJ40-1"
+        },
+        {
+          "id": 56466054775167,
+          "title": "Beef Jerky doosje",
+          "price": 17.5,
+          "available": false,
+          "sku": "SNGVRN40-5"
+        },
+        {
+          "id": 56466054807935,
+          "title": "Turkey Jerky doosje",
+          "price": 17.5,
+          "available": false,
+          "sku": "SNGVTJ40-5"
+        }
+      ]
+    },
+    {
+      "id": 8452151214429,
+      "title": "Eiwit IJskoffie",
+      "handle": "eiwit-ijskoffie",
+      "url": "https://upfront.nl/products/eiwit-ijskoffie",
+      "product_type": "Drinks",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitIjskoffie_Cappuccino_PP_LoadingFrame_v1.png?v=1765203487",
+      "variants": [
+        {
+          "id": 47160496226653,
+          "title": "Cappuccino",
+          "price": 32.0,
+          "available": false,
+          "sku": "KGWHIJ-1"
+        },
+        {
+          "id": 50780910584157,
+          "title": "Karamel",
+          "price": 32.0,
+          "available": false,
+          "sku": "KGWHCM-1"
+        },
+        {
+          "id": 51016124629341,
+          "title": "Cappuccino 450",
+          "price": 14.5,
+          "available": false,
+          "sku": "4GWHIJ-1"
+        },
+        {
+          "id": 52185754861917,
+          "title": "Sachet IJskoffie",
+          "price": 1.5,
+          "available": false,
+          "sku": "SAWHIJ-1"
+        },
+        {
+          "id": 54339332047197,
+          "title": "Espresso Martini 700",
+          "price": 32.0,
+          "available": false,
+          "sku": "7GWHEM-1"
+        },
+        {
+          "id": 54615149347165,
+          "title": "Cappuccino 700",
+          "price": 32.0,
+          "available": true,
+          "sku": "7GWHCP-1"
+        },
+        {
+          "id": 54615149379933,
+          "title": "Karamel 700",
+          "price": 32.0,
+          "available": false,
+          "sku": "7GWHCM-1"
+        },
+        {
+          "id": 54713569870173,
+          "title": "Cappuccino 300",
+          "price": 10.0,
+          "available": false,
+          "sku": "3GWHCP-1"
+        }
+      ]
+    },
+    {
+      "id": 15603204882815,
+      "title": "Eiwit Milkshake Stevia",
+      "handle": "eiwit-milkshake-stevia",
+      "url": "https://upfront.nl/products/eiwit-milkshake-stevia",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitMilkshake_Vanille_PP_LoadingFrame_v1.png?v=1774338983",
+      "variants": [
+        {
+          "id": 57183913116031,
+          "title": "Mango",
+          "price": 36.0,
+          "available": false,
+          "sku": "KGWCMA-1"
+        },
+        {
+          "id": 57183913148799,
+          "title": "Chocolade",
+          "price": 36.0,
+          "available": false,
+          "sku": "KGWCCH-1"
+        },
+        {
+          "id": 57183913181567,
+          "title": "Vanille",
+          "price": 29.0,
+          "available": true,
+          "sku": "KGWCVA-1"
+        },
+        {
+          "id": 57200722641279,
+          "title": "Banaan",
+          "price": 36.0,
+          "available": false,
+          "sku": "KGWCBA-1"
+        },
+        {
+          "id": 57307880096127,
+          "title": "Aardbei",
+          "price": 29.0,
+          "available": true,
+          "sku": "KGWCAA-1"
+        }
+      ]
+    },
+    {
+      "id": 15594336747903,
+      "title": "Eiwitreep Choco",
+      "handle": "eiwitreep-choco",
+      "url": "https://upfront.nl/products/eiwitreep-choco",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_ChocoEiwitreep_Framboos_PP_LoadingFrame_v1_3.png?v=1774168241",
+      "variants": [
+        {
+          "id": 57124750131583,
+          "title": "Pinda Zeezout",
+          "price": 25.0,
+          "available": true,
+          "sku": "FOCRPZ-12"
+        },
+        {
+          "id": 57124750164351,
+          "title": "Hazelnoot",
+          "price": 25.0,
+          "available": true,
+          "sku": "FOCRCH-12"
+        },
+        {
+          "id": 57124750197119,
+          "title": "Pistache",
+          "price": 25.0,
+          "available": true,
+          "sku": "FOCRPI-12"
+        },
+        {
+          "id": 57124750229887,
+          "title": "Framboos (V)",
+          "price": 10.0,
+          "available": true,
+          "sku": "FOCRVF-12"
+        },
+        {
+          "id": 57124750262655,
+          "title": "Pinda Zeezout 1st",
+          "price": 2.9,
+          "available": true,
+          "sku": "FOCRPZ-1"
+        },
+        {
+          "id": 57124750295423,
+          "title": "Hazelnoot 1st",
+          "price": 2.9,
+          "available": true,
+          "sku": "FOCRCH-1"
+        },
+        {
+          "id": 57124750328191,
+          "title": "Pistache 1st",
+          "price": 2.9,
+          "available": true,
+          "sku": "FOCRPI-1"
+        },
+        {
+          "id": 57124750360959,
+          "title": "Framboos (V) 1st",
+          "price": 2.9,
+          "available": true,
+          "sku": "FOCRVF-1"
+        },
+        {
+          "id": 57504915521919,
+          "title": "Kokos",
+          "price": 25.0,
+          "available": true,
+          "sku": "FOCRKO-12"
+        },
+        {
+          "id": 57504915554687,
+          "title": "Kokos 1st",
+          "price": 2.9,
+          "available": true,
+          "sku": "FOCRKO-1"
+        },
+        {
+          "id": 57874146165119,
+          "title": "Bananenmelk",
+          "price": 25.0,
+          "available": false,
+          "sku": "FOCRBM-12"
+        },
+        {
+          "id": 57874146197887,
+          "title": "Bananenmelk 1st",
+          "price": 2.9,
+          "available": false,
+          "sku": "FOCRBM-1"
+        }
+      ]
+    },
+    {
+      "id": 15594336551295,
+      "title": "Eiwitreep Crispy",
+      "handle": "eiwitreep-crispy",
+      "url": "https://upfront.nl/products/eiwitreep-crispy",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Eiwitcrisp_AardbeiYoghurt_PP_LoadingFrame_v1.png?v=1779374653",
+      "variants": [
+        {
+          "id": 57124783194495,
+          "title": "Framboos Witte Choco",
+          "price": 25.0,
+          "available": true,
+          "sku": "FOCBFW-12"
+        },
+        {
+          "id": 57124783227263,
+          "title": "Framboos Witte Choco 1st",
+          "price": 2.5,
+          "available": true,
+          "sku": "FOCBFW-1"
+        },
+        {
+          "id": 57124783260031,
+          "title": "Matcha Witte Choco",
+          "price": 25.0,
+          "available": true,
+          "sku": "FOCBMW-12"
+        },
+        {
+          "id": 57124783292799,
+          "title": "Matcha Witte Choco 1st",
+          "price": 2.5,
+          "available": true,
+          "sku": "FOCBMW-1"
+        },
+        {
+          "id": 57124783325567,
+          "title": "Mango Yoghurt",
+          "price": 25.0,
+          "available": true,
+          "sku": "FOCBMY-12"
+        },
+        {
+          "id": 57124783358335,
+          "title": "Mango Yoghurt 1st",
+          "price": 2.5,
+          "available": true,
+          "sku": "FOCBMY-1"
+        },
+        {
+          "id": 57124783391103,
+          "title": "Bosvruchten Honing",
+          "price": 25.0,
+          "available": true,
+          "sku": "FOCBBH-12"
+        },
+        {
+          "id": 57124783423871,
+          "title": "Bosvruchten Honing 1st",
+          "price": 2.5,
+          "available": true,
+          "sku": "FOCBBH-1"
+        },
+        {
+          "id": 57504916996479,
+          "title": "Aardbei Yoghurt",
+          "price": 25.0,
+          "available": false,
+          "sku": "FOCBAY-12"
+        },
+        {
+          "id": 57504917029247,
+          "title": "Aardbei Yoghurt 1st",
+          "price": 2.5,
+          "available": false,
+          "sku": "FOCBAY-1"
+        },
+        {
+          "id": 57874100420991,
+          "title": "Kaneel Witte Choco",
+          "price": 25.0,
+          "available": false,
+          "sku": "FOC2KW-12"
+        },
+        {
+          "id": 57874100453759,
+          "title": "Kaneel Witte Choco 1st",
+          "price": 2.5,
+          "available": false,
+          "sku": "FOC2KW-1"
+        },
+        {
+          "id": 58014768955775,
+          "title": "Aardbei Yoghurt 2.0",
+          "price": 25.0,
+          "available": false,
+          "sku": "F2CBAY-12"
+        },
+        {
+          "id": 58014768988543,
+          "title": "Aardbei Yoghurt 1st 2.0",
+          "price": 2.5,
+          "available": false,
+          "sku": "F2CBAY-1"
+        }
+      ]
+    },
+    {
+      "id": 15594336354687,
+      "title": "Eiwitreep",
+      "handle": "eiwitreep-1",
+      "url": "https://upfront.nl/products/eiwitreep-1",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_VeganEiwitreep_PecanMaple_PP_LoadingFrame_v3.png?v=1774436443",
+      "variants": [
+        {
+          "id": 57124887888255,
+          "title": "Pistache Framboos",
+          "price": 17.5,
+          "available": true,
+          "sku": "F2BAPF-12"
+        },
+        {
+          "id": 57124887921023,
+          "title": "Pistache Framboos 1st",
+          "price": 2.7,
+          "available": true,
+          "sku": "F2BAPF-1"
+        },
+        {
+          "id": 57124887953791,
+          "title": "Appel Kaneel",
+          "price": 25.0,
+          "available": true,
+          "sku": "F2BAAK-12"
+        },
+        {
+          "id": 57124887986559,
+          "title": "Appel Kaneel 1st",
+          "price": 2.7,
+          "available": true,
+          "sku": "F2BAAK-1"
+        },
+        {
+          "id": 57124888019327,
+          "title": "Pecan Maple (V)",
+          "price": 25.0,
+          "available": true,
+          "sku": "FOVBPM-12"
+        },
+        {
+          "id": 57124888052095,
+          "title": "Pecan Maple (V) 1st",
+          "price": 2.7,
+          "available": true,
+          "sku": "FOVBPM-1"
+        },
+        {
+          "id": 57124888084863,
+          "title": "Choco Chip (V)",
+          "price": 25.0,
+          "available": true,
+          "sku": "FOVBCC-12"
+        },
+        {
+          "id": 57124888117631,
+          "title": "Choco Chip (V) 1st",
+          "price": 2.7,
+          "available": true,
+          "sku": "FOVBCC-1"
+        },
+        {
+          "id": 57504914178431,
+          "title": "Banaan Pindakaas",
+          "price": 25.0,
+          "available": true,
+          "sku": "F2BABP-12"
+        },
+        {
+          "id": 57504914211199,
+          "title": "Banaan Pindakaas 1st",
+          "price": 2.7,
+          "available": true,
+          "sku": "F2BABP-1"
+        },
+        {
+          "id": 57874079711615,
+          "title": "Matcha Mango",
+          "price": 25.0,
+          "available": false,
+          "sku": "FOBAMM-12"
+        },
+        {
+          "id": 57874079744383,
+          "title": "Matcha Mango 1st",
+          "price": 2.7,
+          "available": false,
+          "sku": "FOBAMM-1"
+        },
+        {
+          "id": 57890704818559,
+          "title": "Bananenmelk",
+          "price": 25.0,
+          "available": false,
+          "sku": "FOCRBM-12"
+        },
+        {
+          "id": 57890704851327,
+          "title": "Bananenmelk 1st",
+          "price": 2.7,
+          "available": false,
+          "sku": "FOCRBM-1"
+        }
+      ]
+    },
+    {
+      "id": 14866638406015,
+      "title": "Eiwit Granola",
+      "handle": "eiwit-granola",
+      "url": "https://upfront.nl/products/eiwit-granola",
+      "product_type": "Meals",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_Granola_Chocolade_00000.png?v=1773835302",
+      "variants": [
+        {
+          "id": 54874047709567,
+          "title": "Naturel",
+          "price": 3.75,
+          "available": false,
+          "sku": "GRFBBA-1"
+        },
+        {
+          "id": 55299505717631,
+          "title": "Naturel doosje",
+          "price": 3.75,
+          "available": false,
+          "sku": "3DGRBA-1"
+        },
+        {
+          "id": 55068834070911,
+          "title": "Choco",
+          "price": 3.75,
+          "available": false,
+          "sku": "GRFBCH-1"
+        },
+        {
+          "id": 55299502080383,
+          "title": "Choco doosje",
+          "price": 3.75,
+          "available": true,
+          "sku": "3DGRCH-1"
+        }
+      ]
+    },
+    {
+      "id": 15597373325695,
+      "title": "Electrolytes (30st)",
+      "handle": "electrolytes-30st",
+      "url": "https://upfront.nl/products/electrolytes-30st",
+      "product_type": "Sachets",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Electrolytes2.0_Appel_PP_LoadingFrame_v1_e5ed0d54-1623-4573-8295-edb7e2b6eb03.png?v=1777454067",
+      "variants": [
+        {
+          "id": 57141256159615,
+          "title": "Aardbei grootverpakking",
+          "price": 25.0,
+          "available": false,
+          "sku": "FOHSAA-20"
+        },
+        {
+          "id": 57141256192383,
+          "title": "Neutraal",
+          "price": 22.0,
+          "available": false,
+          "sku": "3PE2NE-1"
+        },
+        {
+          "id": 57141256225151,
+          "title": "Passievrucht",
+          "price": 22.0,
+          "available": false,
+          "sku": "3PE2PV-1"
+        },
+        {
+          "id": 57432178524543,
+          "title": "Appel",
+          "price": 22.0,
+          "available": true,
+          "sku": "3PE2AP-1"
+        },
+        {
+          "id": 57536143851903,
+          "title": "Sinaasappel",
+          "price": 22.0,
+          "available": false,
+          "sku": "3PE2SI-1"
+        }
+      ]
+    },
+    {
+      "id": 15418148684159,
+      "title": "Clear Whey Limonade Stevia",
+      "handle": "clear-whey-limonade-clean-limoen-munt",
+      "url": "https://upfront.nl/products/clear-whey-limonade-clean-limoen-munt",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitLimonade_Passievrucht_PP_LoadingFrame_v1_2a727b64-6011-4849-9b9a-2f0665bb3d4c.png?v=1779105398",
+      "variants": [
+        {
+          "id": 56705464369535,
+          "title": "Limoen Munt",
+          "price": 38.0,
+          "available": true,
+          "sku": "P7CCLM-1"
+        },
+        {
+          "id": 56705464402303,
+          "title": "Aardbei Citroen",
+          "price": 38.0,
+          "available": true,
+          "sku": "P7CCAC-1"
+        },
+        {
+          "id": 57554875122047,
+          "title": "Citrus",
+          "price": 38.0,
+          "available": true,
+          "sku": "P7CCCI-1"
+        },
+        {
+          "id": 57554876858751,
+          "title": "Passievrucht",
+          "price": 38.0,
+          "available": true,
+          "sku": "P7CCPV-1"
+        },
+        {
+          "id": 57554884985215,
+          "title": "Zwarte Bes",
+          "price": 38.0,
+          "available": true,
+          "sku": "P7CCZB-1"
+        }
+      ]
+    },
+    {
+      "id": 15416956256639,
+      "title": "Magnesium",
+      "handle": "magnesium-1",
+      "url": "https://upfront.nl/products/magnesium-1",
+      "product_type": "Vitamins and Minerals",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Vitamins_Magnesium_B6_PP_LoadingFrame_v1_8ebd8f92-ffef-4432-82ce-598efb8561b5.png?v=1772793780",
+      "variants": [
+        {
+          "id": 56627973882239,
+          "title": "Magnesium",
+          "price": 14.0,
+          "available": true,
+          "sku": "GFSUMP-1"
+        }
+      ]
+    },
+    {
+      "id": 15462299697535,
+      "title": "Gel Natural",
+      "handle": "gel-natural",
+      "url": "https://upfront.nl/products/gel-natural",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_GelNatural_MapleSyrup_PP_LoadingFrame_v1.png?v=1770620240",
+      "variants": [
+        {
+          "id": 56617510076799,
+          "title": "Maple Syrup",
+          "price": 2.3,
+          "available": true,
+          "sku": "FOGNES-1"
+        },
+        {
+          "id": 56617510109567,
+          "title": "Maple Syrup doosje",
+          "price": 29.0,
+          "available": true,
+          "sku": "FOGNES-12"
+        }
+      ]
+    },
+    {
+      "id": 15462300320127,
+      "title": "Gel PRO",
+      "handle": "gel-pro",
+      "url": "https://upfront.nl/products/gel-pro",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_GelPro_Citrus_PP_LoadingFrame_v1.png?v=1775580761",
+      "variants": [
+        {
+          "id": 56617513288063,
+          "title": "Appel",
+          "price": 2.5,
+          "available": true,
+          "sku": "FOGPAP-1"
+        },
+        {
+          "id": 56617513320831,
+          "title": "Appel doosje",
+          "price": 28.0,
+          "available": true,
+          "sku": "FOGPAP-12"
+        },
+        {
+          "id": 56617513353599,
+          "title": "Limoen Munt (ice)",
+          "price": 2.5,
+          "available": true,
+          "sku": "FOGPLM-1"
+        },
+        {
+          "id": 56617513386367,
+          "title": "Limoen Munt (ice) doosje",
+          "price": 28.0,
+          "available": true,
+          "sku": "FOGPLM-12"
+        },
+        {
+          "id": 56617513419135,
+          "title": "Citrus (cafeïne)",
+          "price": 2.5,
+          "available": true,
+          "sku": "FOGPCI-1"
+        },
+        {
+          "id": 56617513451903,
+          "title": "Citrus (cafeïne) doosje",
+          "price": 28.0,
+          "available": true,
+          "sku": "FOGPCI-12"
+        }
+      ]
+    },
+    {
+      "id": 15327629246847,
+      "title": "Pre Endurance",
+      "handle": "pre-endurance",
+      "url": "https://upfront.nl/products/pre-endurance",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_PreEndurance_Aardbei_PP_LoadingFrame_v1.png?v=1771855709",
+      "variants": [
+        {
+          "id": 56189337141631,
+          "title": "Aardbei",
+          "price": 18.0,
+          "available": true,
+          "sku": "P3PEAA-1"
+        },
+        {
+          "id": 56189337174399,
+          "title": "Zwarte Bes",
+          "price": 18.0,
+          "available": true,
+          "sku": "P3PEZB-1"
+        }
+      ]
+    },
+    {
+      "id": 15327613813119,
+      "title": "Intra Endurance",
+      "handle": "intra-endurance",
+      "url": "https://upfront.nl/products/intra-endurance",
+      "product_type": "Drinks",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_IntraEndurance_AppelPeer_v1_f9308f77-04c9-48d1-8c76-485b90792c1c.png?v=1760001074",
+      "variants": [
+        {
+          "id": 56189203743103,
+          "title": "Appel-Peer",
+          "price": 14.0,
+          "available": true,
+          "sku": "D6IEAP-1"
+        },
+        {
+          "id": 56189203775871,
+          "title": "Sinaasappel",
+          "price": 14.0,
+          "available": true,
+          "sku": "D6IESI-1"
+        }
+      ]
+    },
+    {
+      "id": 15411101499775,
+      "title": "Koffie Cups",
+      "handle": "koffie-cups-lungo",
+      "url": "https://upfront.nl/products/koffie-cups-lungo",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_KoffieCups_PP_LoadingFrame_v1.png?v=1765548444",
+      "variants": [
+        {
+          "id": 56455449969023,
+          "title": "Lungo",
+          "price": 7.5,
+          "available": true,
+          "sku": "ONKOCL20-1"
+        }
+      ]
+    },
+    {
+      "id": 15411102515583,
+      "title": "Koffiebonen",
+      "handle": "koffiebonen",
+      "url": "https://upfront.nl/products/koffiebonen",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Koffiebonen_PP_LoadingFrame_v2.png?v=1786461774",
+      "variants": [
+        {
+          "id": 56459934925183,
+          "title": "Koffiebonen",
+          "price": 9.5,
+          "available": true,
+          "sku": "ONKOBN45-1"
+        }
+      ]
+    },
+    {
+      "id": 15551534662015,
+      "title": "Oats",
+      "handle": "oats2-0",
+      "url": "https://upfront.nl/products/oats2-0",
+      "product_type": "Protein",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Oats_Speculaas_PP_LoadingFrame_v1_b414fc08-8a8c-4dff-ac75-68e411aa6bec.png?v=1771249953",
+      "variants": [
+        {
+          "id": 56951367205247,
+          "title": "Appel Kaneel",
+          "price": 13.0,
+          "available": false,
+          "sku": "KGOAAK-1"
+        },
+        {
+          "id": 56951367238015,
+          "title": "Speculaas",
+          "price": 13.0,
+          "available": true,
+          "sku": "KGOASP-1"
+        },
+        {
+          "id": 56951367500159,
+          "title": "Chocolade",
+          "price": 13.0,
+          "available": true,
+          "sku": "KGOACZ-1"
+        },
+        {
+          "id": 56951367926143,
+          "title": "Pistache Framboos",
+          "price": 13.0,
+          "available": true,
+          "sku": "KGOAPF-1"
+        },
+        {
+          "id": 56967134740863,
+          "title": "Vanille",
+          "price": 16.0,
+          "available": false,
+          "sku": null
+        },
+        {
+          "id": 57917645095295,
+          "title": "Chocolade 300gr",
+          "price": 10.4,
+          "available": true,
+          "sku": "3GOACZ-1"
+        }
+      ]
+    },
+    {
+      "id": 15416920080767,
+      "title": "Vitamine D3 + K2",
+      "handle": "vitamine-d3-frosted-60-tabletten",
+      "url": "https://upfront.nl/products/vitamine-d3-frosted-60-tabletten",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Vitamins_D3_PP_LoadingFrame_v2.png?v=1769505270",
+      "variants": [
+        {
+          "id": 56844757369215,
+          "title": "60st",
+          "price": 14.0,
+          "available": true,
+          "sku": "GFSUVD-1"
+        }
+      ]
+    },
+    {
+      "id": 15416919622015,
+      "title": "Omega 3",
+      "handle": "omega-3-frosted-30-tabletten",
+      "url": "https://upfront.nl/products/omega-3-frosted-30-tabletten",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Vitamins_Omega3_PP_LoadingFrame_v2.png?v=1769505090",
+      "variants": [
+        {
+          "id": 56844742525311,
+          "title": "30st",
+          "price": 19.0,
+          "available": true,
+          "sku": "GFSUO3-1"
+        }
+      ]
+    },
+    {
+      "id": 15416920572287,
+      "title": "IJzer",
+      "handle": "ijzer-frosted-60-tabletten",
+      "url": "https://upfront.nl/products/ijzer-frosted-60-tabletten",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Vitamins_Ijzer_PP_LoadingFrame_v1.png?v=1769501573",
+      "variants": [
+        {
+          "id": 56844289671551,
+          "title": "60st",
+          "price": 14.0,
+          "available": true,
+          "sku": "GFSUIJ-1"
+        }
+      ]
+    },
+    {
+      "id": 15416922276223,
+      "title": "Zink",
+      "handle": "zink-frosted-60-tabletten",
+      "url": "https://upfront.nl/products/zink-frosted-60-tabletten",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Vitamins_Zink_PP_LoadingFrame_v2.png?v=1769502218",
+      "variants": [
+        {
+          "id": 56844283412863,
+          "title": "60st",
+          "price": 14.0,
+          "available": true,
+          "sku": "GFSUZI-1"
+        }
+      ]
+    },
+    {
+      "id": 15416924373375,
+      "title": "Algen Multivitamine",
+      "handle": "algen-multivitamine",
+      "url": "https://upfront.nl/products/algen-multivitamine",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Vitamins_AlgenMulti_PP_LoadingFrame_v1.1.png?v=1770967408",
+      "variants": [
+        {
+          "id": 56844299534719,
+          "title": "60st",
+          "price": 15.0,
+          "available": true,
+          "sku": "GFSUAM-1"
+        }
+      ]
+    },
+    {
+      "id": 14723357540701,
+      "title": "Hazelnootpasta",
+      "handle": "hazelnootpasta",
+      "url": "https://upfront.nl/products/hazelnootpasta",
+      "product_type": "Meals",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/SWebsite_Hazelnootpasta_PP_LoadingFrame_v1.png?v=1786525215",
+      "variants": [
+        {
+          "id": 58014765973887,
+          "title": "Hazelnootpasta",
+          "price": 4.5,
+          "available": true,
+          "sku": "ONHPBS27-1"
+        }
+      ]
+    },
+    {
+      "id": 15441282171263,
+      "title": "Eiwit Chiapudding",
+      "handle": "chiapudding",
+      "url": "https://upfront.nl/products/chiapudding",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Chiapudding_MangoPassievrucht_PP_LoadingFrame_v1.png?v=1776246712",
+      "variants": [
+        {
+          "id": 56762197082495,
+          "title": "Mango Passievrucht (V)",
+          "price": 17.0,
+          "available": true,
+          "sku": "7GCPMP-1"
+        },
+        {
+          "id": 56762197115263,
+          "title": "Framboos (V)",
+          "price": 17.0,
+          "available": true,
+          "sku": "7GCPFR-1"
+        },
+        {
+          "id": 57094897566079,
+          "title": "Matcha Aardbei (V)",
+          "price": 17.0,
+          "available": true,
+          "sku": "7GCPMA-1"
+        },
+        {
+          "id": 57735566328191,
+          "title": "Cacao Framboos",
+          "price": 17.0,
+          "available": true,
+          "sku": "7GCPCF-1"
+        },
+        {
+          "id": 57735574716799,
+          "title": "Kiwi Kokos",
+          "price": 17.0,
+          "available": true,
+          "sku": "7GCPKK-1"
+        }
+      ]
+    },
+    {
+      "id": 15502746288511,
+      "title": "Endurance Bar",
+      "handle": "endurance-bar-1",
+      "url": "https://upfront.nl/products/endurance-bar-1",
+      "product_type": "Bars",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EnduranceBar_Cranberry_PP_LoadingFrame_v1_1.png?v=1765811671",
+      "variants": [
+        {
+          "id": 56778183049599,
+          "title": "Cranberry doosje",
+          "price": 18.0,
+          "available": true,
+          "sku": "FOEBCB-12"
+        }
+      ]
+    },
+    {
+      "id": 15411646398847,
+      "title": "Olijfolie",
+      "handle": "supermarkt-olijfolie",
+      "url": "https://upfront.nl/products/supermarkt-olijfolie",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/WebsiteRender_Olijfolie_Still_v2.png?v=1764324798",
+      "variants": [
+        {
+          "id": 56455585104255,
+          "title": "Olijfolie",
+          "price": 10.0,
+          "available": true,
+          "sku": "SMOLBS50-1"
+        }
+      ]
+    },
+    {
+      "id": 15381039120767,
+      "title": "Pump 3.0",
+      "handle": "pump-3-0",
+      "url": "https://upfront.nl/products/pump-3-0",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Pump3.0_Citrus_PP_LoadingFrame_v2.png?v=1772793780",
+      "variants": [
+        {
+          "id": 56335524921727,
+          "title": "Zure Kers",
+          "price": 27.0,
+          "available": true,
+          "sku": "P3PUZK-1"
+        },
+        {
+          "id": 56335524954495,
+          "title": "Zwarte Bes",
+          "price": 27.0,
+          "available": true,
+          "sku": "P3PUZB-1"
+        },
+        {
+          "id": 56619685380479,
+          "title": "Citrus",
+          "price": 27.0,
+          "available": true,
+          "sku": "P3PUCI-1"
+        },
+        {
+          "id": 57366956376447,
+          "title": "Mango Chili",
+          "price": 27.0,
+          "available": true,
+          "sku": "P3PUMC-1"
+        },
+        {
+          "id": 57755734507903,
+          "title": "Aardbei Yuzu",
+          "price": 27.0,
+          "available": false,
+          "sku": "35PPUAA-1"
+        }
+      ]
+    },
+    {
+      "id": 8815007596893,
+      "title": "Pindakaas",
+      "handle": "pindakaas",
+      "url": "https://upfront.nl/products/pindakaas",
+      "product_type": "Meals",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_Pindakaas_00000.png?v=1750622095",
+      "variants": [
+        {
+          "id": 49600231801181,
+          "title": "500g",
+          "price": 6.0,
+          "available": true,
+          "sku": "G5FBPK-1"
+        },
+        {
+          "id": 53013975433565,
+          "title": "500g Buitenbeentje",
+          "price": 4.5,
+          "available": false,
+          "sku": "G5BBPK-1"
+        }
+      ]
+    },
+    {
+      "id": 15175115211135,
+      "title": "Hagel",
+      "handle": "hagel",
+      "url": "https://upfront.nl/products/hagel",
+      "product_type": "Meals",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_Hagelslag_v1_052e8bd0-5e86-47e4-b7e8-293b2940ddf7.png?v=1760627609",
+      "variants": [
+        {
+          "id": 56226918760831,
+          "title": "Puur (Oud)",
+          "price": 3.5,
+          "available": false,
+          "sku": "2DFBHA-1"
+        },
+        {
+          "id": 56483688055167,
+          "title": "Puur",
+          "price": 3.5,
+          "available": true,
+          "sku": "ONHSPU20-1"
+        }
+      ]
+    },
+    {
+      "id": 15380946420095,
+      "title": "Upfront Supermarkt",
+      "handle": "upfront-supermarkt",
+      "url": "https://upfront.nl/products/upfront-supermarkt",
+      "product_type": "Hidden",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/supermarket2.jpg?v=1762333958",
+      "variants": [
+        {
+          "id": 56335459385727,
+          "title": "29 Nov / 10:00 - 11:30 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56374017393023,
+          "title": "29 Nov / 10:30 - 12:00 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56335459418495,
+          "title": "29 Nov / 11:00 - 12:30 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56374017425791,
+          "title": "29 Nov / 11:30 - 13:00 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56335459451263,
+          "title": "29 Nov / 12:00 - 13:30 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56374017458559,
+          "title": "29 Nov / 12:30 - 14:00 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56335459484031,
+          "title": "29 Nov / 13:00 - 14:30 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56374017491327,
+          "title": "29 Nov / 13:30 - 15:00 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56335459516799,
+          "title": "29 Nov / 14:00 - 15:30 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56374017524095,
+          "title": "29 Nov / 14:30 - 16:00 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56350643356031,
+          "title": "29 Nov / 15:00 - 16:30 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56374017556863,
+          "title": "29 Nov / 15:30 - 17:00 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56350648074623,
+          "title": "29 Nov / 16:00 - 17:30 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56374017589631,
+          "title": "29 Nov / 16:30 - 18:00 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56350649909631,
+          "title": "29 Nov / 17:00 - 18:30 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56374017622399,
+          "title": "29 Nov / 17:30 - 19:00 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56350653972863,
+          "title": "29 Nov / 18:00 - 19:30 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56350658789759,
+          "title": "30 Nov / 10:00 - 11:30 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56374017655167,
+          "title": "30 Nov / 10:30 - 12:00 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56350664327551,
+          "title": "30 Nov / 11:00 - 12:30 uur",
+          "price": 0.0,
+          "available": false,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56374017687935,
+          "title": "30 Nov / 11:30 - 13:00 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "tismla-1"
+        },
+        {
+          "id": 56350665408895,
+          "title": "30 Nov / 12:00 - 13:30 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56374017720703,
+          "title": "30 Nov / 12:30 - 14:00 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56350666523007,
+          "title": "30 Nov / 13:00 - 14:30 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56374017753471,
+          "title": "30 Nov / 13:30 - 15:00 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56350667178367,
+          "title": "30 Nov / 14:00 - 15:30 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56374017786239,
+          "title": "30 Nov / 14:30 - 16:00 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56350668063103,
+          "title": "30 Nov / 15:00 - 16:30 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56374017819007,
+          "title": "30 Nov / 15:30 - 17:00 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56350671962495,
+          "title": "30 Nov / 16:00 - 17:30 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56374017851775,
+          "title": "30 Nov / 16:30 - 18:00 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56350678286719,
+          "title": "30 Nov / 17:00 - 18:30 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56374017884543,
+          "title": "30 Nov / 17:30 - 19:00 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        },
+        {
+          "id": 56350679073151,
+          "title": "30 Nov / 18:00 - 19:30 uur",
+          "price": 0.0,
+          "available": true,
+          "sku": "TISMLA-1"
+        }
+      ]
+    },
+    {
+      "id": 15289200148863,
+      "title": "Gel 2.0",
+      "handle": "gel-2-0",
+      "url": "https://upfront.nl/products/gel-2-0",
+      "product_type": "Sport Supplements",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Gel2.0_Cassis_PP_LoadingFrame_v1.png?v=1776703672",
+      "variants": [
+        {
+          "id": 56063533547903,
+          "title": "Appel 50g [OUD]",
+          "price": 2.0,
+          "available": false,
+          "sku": "FOGLAP-1"
+        },
+        {
+          "id": 56063533580671,
+          "title": "Appel doosje [OUD]",
+          "price": 26.0,
+          "available": false,
+          "sku": "FOGLAP-12"
+        },
+        {
+          "id": 56063533613439,
+          "title": "Sinaasappel 50g",
+          "price": 2.0,
+          "available": false,
+          "sku": "FOGLSI-1"
+        },
+        {
+          "id": 56063533646207,
+          "title": "Sinaasappel doosje",
+          "price": 26.0,
+          "available": false,
+          "sku": "FOGLSI-12"
+        },
+        {
+          "id": 56313786630527,
+          "title": "Framboos 50g",
+          "price": 2.0,
+          "available": true,
+          "sku": "FOGLFR-1"
+        },
+        {
+          "id": 56313786958207,
+          "title": "Framboos doosje",
+          "price": 26.0,
+          "available": true,
+          "sku": "FOGLFR-12"
+        },
+        {
+          "id": 56583393608063,
+          "title": "Citroen 50g",
+          "price": 2.0,
+          "available": true,
+          "sku": "FOGLCI-1"
+        },
+        {
+          "id": 56583394656639,
+          "title": "Citroen doosje",
+          "price": 26.0,
+          "available": true,
+          "sku": "FOGLCI-12"
+        },
+        {
+          "id": 56692762542463,
+          "title": "Cassis (cafeïne) 50g",
+          "price": 2.0,
+          "available": false,
+          "sku": "FOGLCS-1"
+        },
+        {
+          "id": 56692762575231,
+          "title": "Cassis (cafeïne) doosje",
+          "price": 26.0,
+          "available": false,
+          "sku": "FOGLCS-12"
+        },
+        {
+          "id": 57866573087103,
+          "title": "Perzik 50g",
+          "price": 2.2,
+          "available": false,
+          "sku": "FOGLPE-1"
+        },
+        {
+          "id": 57866573119871,
+          "title": "Perzik doosje",
+          "price": 23.0,
+          "available": false,
+          "sku": "FOGLPE-12"
+        },
+        {
+          "id": 58015187829119,
+          "title": "Appel 50g",
+          "price": 2.0,
+          "available": false,
+          "sku": "F2GLAP-1"
+        },
+        {
+          "id": 58015187861887,
+          "title": "Appel doosje",
+          "price": 2.0,
+          "available": false,
+          "sku": "F2GLAP-12"
+        }
+      ]
+    },
+    {
+      "id": 7117119782974,
+      "title": "ISO Drink",
+      "handle": "sportdrank",
+      "url": "https://upfront.nl/products/sportdrank",
+      "product_type": "Drinks",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_IsoDrink_Citroen_00000.png?v=1760001411",
+      "variants": [
+        {
+          "id": 39951742959678,
+          "title": "Limoen",
+          "price": 11.0,
+          "available": false,
+          "sku": "P4SUDR-1"
+        },
+        {
+          "id": 48831390777693,
+          "title": "Sinaasappel",
+          "price": 11.0,
+          "available": false,
+          "sku": "P4IDSI-1"
+        },
+        {
+          "id": 48831390810461,
+          "title": "Citroen",
+          "price": 11.0,
+          "available": true,
+          "sku": "P4IDCI-1"
+        },
+        {
+          "id": 52131629236573,
+          "title": "Appel Peer",
+          "price": 11.0,
+          "available": false,
+          "sku": "P4IDAP-1"
+        }
+      ]
+    },
+    {
+      "id": 15165755031935,
+      "title": "Shaker 2.0",
+      "handle": "nieuwe-shaker",
+      "url": "https://upfront.nl/products/nieuwe-shaker",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_TritanShaker00000.png?v=1761215791",
+      "variants": [
+        {
+          "id": 56067194683775,
+          "title": "Shaker",
+          "price": 10.0,
+          "available": true,
+          "sku": "STSHTR-1"
+        }
+      ]
+    },
+    {
+      "id": 8756292944221,
+      "title": "Upfront scoop",
+      "handle": "orange-scoop",
+      "url": "https://upfront.nl/products/orange-scoop",
+      "product_type": "Hidden",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/nw_PlasticScoop_Orange_30ml_Tilted.jpg?v=1758626347",
+      "variants": [
+        {
+          "id": 49226104373597,
+          "title": "Scoop 5 mL / Oranje",
+          "price": 9.0,
+          "available": false,
+          "sku": "ORSC05-1"
+        },
+        {
+          "id": 55516791079295,
+          "title": "Scoop 5 mL / Wit",
+          "price": 9.0,
+          "available": false,
+          "sku": null
+        },
+        {
+          "id": 56677666095487,
+          "title": "Scoop 5 mL / Transparant",
+          "price": 9.0,
+          "available": false,
+          "sku": null
+        },
+        {
+          "id": 49226104406365,
+          "title": "Scoop 15 mL / Oranje",
+          "price": 9.0,
+          "available": false,
+          "sku": "ORSC15-1"
+        },
+        {
+          "id": 55516791112063,
+          "title": "Scoop 15 mL / Wit",
+          "price": 9.0,
+          "available": false,
+          "sku": null
+        },
+        {
+          "id": 56677666128255,
+          "title": "Scoop 15 mL / Transparant",
+          "price": 9.0,
+          "available": false,
+          "sku": null
+        },
+        {
+          "id": 55481348817279,
+          "title": "Scoop 30 ml / Oranje",
+          "price": 0.0,
+          "available": true,
+          "sku": "ORSC30-1"
+        },
+        {
+          "id": 55516791144831,
+          "title": "Scoop 30 ml / Wit",
+          "price": 0.0,
+          "available": false,
+          "sku": "WISC30-1"
+        },
+        {
+          "id": 56677666161023,
+          "title": "Scoop 30 ml / Transparant",
+          "price": 9.0,
+          "available": false,
+          "sku": null
+        },
+        {
+          "id": 49226104439133,
+          "title": "Scoop 45 mL / Oranje",
+          "price": 0.0,
+          "available": true,
+          "sku": "ORSC45-1"
+        },
+        {
+          "id": 55516791177599,
+          "title": "Scoop 45 mL / Wit",
+          "price": 0.0,
+          "available": false,
+          "sku": null
+        },
+        {
+          "id": 56677666193791,
+          "title": "Scoop 45 mL / Transparant",
+          "price": 9.0,
+          "available": false,
+          "sku": null
+        },
+        {
+          "id": 56677583749503,
+          "title": "Scoop 50 mL / Oranje",
+          "price": 0.0,
+          "available": false,
+          "sku": "ORSC50-1"
+        },
+        {
+          "id": 56677583782271,
+          "title": "Scoop 50 mL / Wit",
+          "price": 0.0,
+          "available": false,
+          "sku": null
+        },
+        {
+          "id": 56677666226559,
+          "title": "Scoop 50 mL / Transparant",
+          "price": 0.0,
+          "available": false,
+          "sku": "TRSC50-1"
+        },
+        {
+          "id": 49226104471901,
+          "title": "Scoop 60 mL / Oranje",
+          "price": 1.0,
+          "available": false,
+          "sku": null
+        },
+        {
+          "id": 55516791210367,
+          "title": "Scoop 60 mL / Wit",
+          "price": 9.0,
+          "available": false,
+          "sku": null
+        },
+        {
+          "id": 56677666259327,
+          "title": "Scoop 60 mL / Transparant",
+          "price": 9.0,
+          "available": false,
+          "sku": null
+        }
+      ]
+    },
+    {
+      "id": 14873674219903,
+      "title": "Eiwit Limonade",
+      "handle": "ready-to-drink-limonade",
+      "url": "https://upfront.nl/products/ready-to-drink-limonade",
+      "product_type": "Drinks",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitLimonadeR2D_LimoenMunt_PP_LoadingFrame_v1_71472c44-f883-42ce-9f5c-9d5360acc19f.png?v=1777453531",
+      "variants": [
+        {
+          "id": 54919240614271,
+          "title": "Citroen Munt 6",
+          "price": 15.0,
+          "available": false,
+          "sku": "RDLICM-6"
+        },
+        {
+          "id": 55558363971967,
+          "title": "Passievrucht 1",
+          "price": 2.3,
+          "available": true,
+          "sku": "RDLIPV-1"
+        },
+        {
+          "id": 55558364004735,
+          "title": "Passievrucht 6",
+          "price": 15.0,
+          "available": true,
+          "sku": "RDLIPV-6"
+        },
+        {
+          "id": 55558364070271,
+          "title": "Lychee 6",
+          "price": 15.0,
+          "available": false,
+          "sku": "RDLILY-6"
+        },
+        {
+          "id": 55609054560639,
+          "title": "Citroen Munt 1",
+          "price": 2.7,
+          "available": false,
+          "sku": "RDLICM-1"
+        },
+        {
+          "id": 57432298258815,
+          "title": "Zwarte Bes 6",
+          "price": 15.0,
+          "available": true,
+          "sku": "RDLIZB-6"
+        },
+        {
+          "id": 57432298291583,
+          "title": "Zwarte Bes 1",
+          "price": 2.3,
+          "available": true,
+          "sku": "RDLIZB-1"
+        },
+        {
+          "id": 57432298324351,
+          "title": "Limoen Munt 6",
+          "price": 15.0,
+          "available": true,
+          "sku": "RDLILM-6"
+        },
+        {
+          "id": 57432298357119,
+          "title": "Limoen Munt 1",
+          "price": 2.3,
+          "available": true,
+          "sku": "RDLILM-1"
+        },
+        {
+          "id": 57504940163455,
+          "title": "Passievrucht 2.0 1",
+          "price": 2.3,
+          "available": false,
+          "sku": "RDLIPA-1"
+        },
+        {
+          "id": 57504940196223,
+          "title": "Passievrucht 2.0 6",
+          "price": 15.0,
+          "available": false,
+          "sku": "RDLIPA-6"
+        },
+        {
+          "id": 57866615718271,
+          "title": "Bloedsinaasappel 1",
+          "price": 2.75,
+          "available": false,
+          "sku": "RDLSBS-1"
+        },
+        {
+          "id": 57866615751039,
+          "title": "Bloedsinaasappel 6",
+          "price": 15.0,
+          "available": false,
+          "sku": "RDLSBS-6"
+        },
+        {
+          "id": 57866615783807,
+          "title": "Citrus 1",
+          "price": 2.75,
+          "available": false,
+          "sku": "RDLSCI-1"
+        },
+        {
+          "id": 57866615816575,
+          "title": "Citrus 6",
+          "price": 15.0,
+          "available": false,
+          "sku": "RDLSCI-6"
+        }
+      ]
+    },
+    {
+      "id": 15227133559167,
+      "title": "Overnight Oats",
+      "handle": "overnight-oats-nieuw",
+      "url": "https://upfront.nl/products/overnight-oats-nieuw",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_OvernightOats_MangoKokos_00000.png?v=1770634047",
+      "variants": [
+        {
+          "id": 55823039005055,
+          "title": "Appel Kaneel",
+          "price": 12.0,
+          "available": false,
+          "sku": "KGOOAK-1"
+        },
+        {
+          "id": 55823039299967,
+          "title": "Aardbei Yoghurt",
+          "price": 12.0,
+          "available": true,
+          "sku": "KGOOAY-1"
+        }
+      ]
+    },
+    {
+      "id": 15124820558207,
+      "title": "Eiwit Rijstpudding",
+      "handle": "eiwit-rijstpudding",
+      "url": "https://upfront.nl/products/eiwit-rijstpudding",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_EiwitRijstpudding_Vanille_v3_00000.png?v=1769698070",
+      "variants": [
+        {
+          "id": 55558471876991,
+          "title": "Vanille",
+          "price": 24.0,
+          "available": true,
+          "sku": "KGFBRV-1"
+        },
+        {
+          "id": 55591755481471,
+          "title": "Banaan",
+          "price": 24.0,
+          "available": true,
+          "sku": "KGFBRB-1"
+        }
+      ]
+    },
+    {
+      "id": 8671786500445,
+      "title": "CreaTabs",
+      "handle": "creatabs",
+      "url": "https://upfront.nl/products/creatabs",
+      "product_type": "Sport Supplements",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_CreaTabsPack_Pepermunt_v2_00000.png?v=1756991992",
+      "variants": [
+        {
+          "id": 55908256579967,
+          "title": "Pepermunt",
+          "price": 6.0,
+          "available": true,
+          "sku": "14CTPM-1"
+        },
+        {
+          "id": 48831568249181,
+          "title": "Citroen 21",
+          "price": 6.0,
+          "available": false,
+          "sku": "21SUCT-1"
+        },
+        {
+          "id": 49136151036253,
+          "title": "Citroen 126",
+          "price": 15.0,
+          "available": false,
+          "sku": "21SUCT-6"
+        },
+        {
+          "id": 51018177511773,
+          "title": "Citroen 105",
+          "price": 15.0,
+          "available": false,
+          "sku": "21SUCT-5"
+        },
+        {
+          "id": 55569800003967,
+          "title": "Citroen",
+          "price": 6.0,
+          "available": true,
+          "sku": "14CTCI-1"
+        },
+        {
+          "id": 55569800036735,
+          "title": "Pepermunt 16",
+          "price": 6.0,
+          "available": false,
+          "sku": "14CTPM-3"
+        }
+      ]
+    },
+    {
+      "id": 15124756169087,
+      "title": "Pre PRO 3.0",
+      "handle": "pre-pro-3-0",
+      "url": "https://upfront.nl/products/pre-pro-3-0",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_PrePro3.0_MangoChili_PP_LoadingFrame_v2.png?v=1776616857",
+      "variants": [
+        {
+          "id": 55558061425023,
+          "title": "Groene Appel",
+          "price": 29.0,
+          "available": true,
+          "sku": "P3P3GA-1"
+        },
+        {
+          "id": 55558061457791,
+          "title": "Zwarte Bes",
+          "price": 29.0,
+          "available": true,
+          "sku": "P3P3ZB-1"
+        },
+        {
+          "id": 55753036300671,
+          "title": "Citrus",
+          "price": 29.0,
+          "available": true,
+          "sku": "P3P3CI-1"
+        },
+        {
+          "id": 56064189628799,
+          "title": "Zure Kers",
+          "price": 29.0,
+          "available": true,
+          "sku": "P3P3ZK-1"
+        },
+        {
+          "id": 57374961467775,
+          "title": "Mango Chili",
+          "price": 29.0,
+          "available": true,
+          "sku": "P3P3MC-1"
+        },
+        {
+          "id": 57755731165567,
+          "title": "Aardbei Yuzu",
+          "price": 29.0,
+          "available": false,
+          "sku": "35PP3AA-1"
+        }
+      ]
+    },
+    {
+      "id": 15106194243967,
+      "title": "Limonadesiroop",
+      "handle": "limonadesiroop",
+      "url": "https://upfront.nl/products/limonadesiroop",
+      "product_type": "Drinks",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_Limonadesiroop_PassievruchtMunt_v1_00000.png?v=1758794618",
+      "variants": [
+        {
+          "id": 55514490732927,
+          "title": "Citroen Grapefruit",
+          "price": 2.0,
+          "available": true,
+          "sku": "G5LSCG-1"
+        }
+      ]
+    },
+    {
+      "id": 15006660755839,
+      "title": "Eiwit Kokoswater",
+      "handle": "eiwit-kokoswater",
+      "url": "https://upfront.nl/products/eiwit-kokoswater",
+      "product_type": "Protein",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_Kokoswater_v2_0000.png?v=1758716886",
+      "variants": [
+        {
+          "id": 55481098076543,
+          "title": "Kokos / 700",
+          "price": 22.0,
+          "available": true,
+          "sku": "P7EKKO-1"
+        },
+        {
+          "id": 56431402549631,
+          "title": "Kokos / 300",
+          "price": 19.0,
+          "available": false,
+          "sku": "3GEKKO-1"
+        }
+      ]
+    },
+    {
+      "id": 14873686999423,
+      "title": "Rijstpudding",
+      "handle": "rijstpudding",
+      "url": "https://upfront.nl/products/rijstpudding",
+      "product_type": "Meals",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_Rijstpudding_Puur_v3_00000.png?v=1758310328",
+      "variants": [
+        {
+          "id": 54886071337343,
+          "title": "Puur",
+          "price": 12.0,
+          "available": true,
+          "sku": "KGFBRP-1"
+        }
+      ]
+    },
+    {
+      "id": 14954285203839,
+      "title": "Eiwit Milkshake",
+      "handle": "whey-milkshake-ready-to-drink",
+      "url": "https://upfront.nl/products/whey-milkshake-ready-to-drink",
+      "product_type": "Drinks",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitMilkshakeR2D_Banaan_PP_LoadingFrane_v2.png?v=1777453523",
+      "variants": [
+        {
+          "id": 55135407604095,
+          "title": "Chocolade 1st",
+          "price": 2.29,
+          "available": false,
+          "sku": "RDWHCH-1"
+        },
+        {
+          "id": 55135431754111,
+          "title": "8-pack Vanille",
+          "price": 16.0,
+          "available": true,
+          "sku": "RDWHVA-8"
+        },
+        {
+          "id": 55135407571327,
+          "title": "Vanille 1st",
+          "price": 2.29,
+          "available": true,
+          "sku": "RDWHVA-1"
+        },
+        {
+          "id": 55135407636863,
+          "title": "Aardbei 1st",
+          "price": 2.29,
+          "available": true,
+          "sku": "RDWHAA-1"
+        },
+        {
+          "id": 55135431786879,
+          "title": "8-pack Chocolade",
+          "price": 16.0,
+          "available": false,
+          "sku": "RDWHCH-8"
+        },
+        {
+          "id": 55569315922303,
+          "title": "Mango 1st",
+          "price": 2.29,
+          "available": false,
+          "sku": "RDWHMA-1"
+        },
+        {
+          "id": 55569315955071,
+          "title": "8-pack Mango",
+          "price": 16.0,
+          "available": false,
+          "sku": "RDWHMA-8"
+        },
+        {
+          "id": 56103463879039,
+          "title": "Aardbei 2st",
+          "price": 3.2,
+          "available": true,
+          "sku": "RDWHAA-2"
+        },
+        {
+          "id": 57432217977215,
+          "title": "Banaan 1st",
+          "price": 2.29,
+          "available": true,
+          "sku": "RDWHBA-1"
+        },
+        {
+          "id": 57432218009983,
+          "title": "6-pack Banaan",
+          "price": 12.0,
+          "available": true,
+          "sku": "RDWHBA-6"
+        },
+        {
+          "id": 57555601162623,
+          "title": "6-pack Aardbei",
+          "price": 12.0,
+          "available": true,
+          "sku": "RDWHAA-6"
+        },
+        {
+          "id": 57555601195391,
+          "title": "6-pack Vanille",
+          "price": 12.0,
+          "available": true,
+          "sku": "RDWHVA-6"
+        }
+      ]
+    },
+    {
+      "id": 8960278692189,
+      "title": "Collageen",
+      "handle": "collageen",
+      "url": "https://upfront.nl/products/collageen",
+      "product_type": "Sport Supplements",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Collageen_Aardbei_Citroen.png?v=1750622039",
+      "variants": [
+        {
+          "id": 55112139342207,
+          "title": "100% Collageen",
+          "price": 35.0,
+          "available": true,
+          "sku": "5GCOPU-1"
+        },
+        {
+          "id": 55112139309439,
+          "title": "Aardbei Citroen",
+          "price": 35.0,
+          "available": true,
+          "sku": "5GCOAC-1"
+        }
+      ]
+    },
+    {
+      "id": 14942502683007,
+      "title": "Daily",
+      "handle": "daily-1",
+      "url": "https://upfront.nl/products/daily-1",
+      "product_type": "Vitamins and Minerals",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_Daily_LimoenMunt_00000.png?v=1750938040",
+      "variants": [
+        {
+          "id": 55107822944639,
+          "title": "Aardbei Munt",
+          "price": 19.0,
+          "available": false,
+          "sku": "4GDAAM-1"
+        },
+        {
+          "id": 55558043992447,
+          "title": "Limoen Munt",
+          "price": 19.0,
+          "available": true,
+          "sku": "4GDALM-1"
+        }
+      ]
+    },
+    {
+      "id": 14723379003741,
+      "title": "L-Glutamine",
+      "handle": "l-glutamine",
+      "url": "https://upfront.nl/products/l-glutamine",
+      "product_type": "Sport Supplements",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_L-Glutamine_00000.png?v=1754388490",
+      "variants": [
+        {
+          "id": 54673350689117,
+          "title": "L-Glutamine",
+          "price": 15.0,
+          "available": true,
+          "sku": "P5SUGM-1"
+        }
+      ]
+    },
+    {
+      "id": 14911023874431,
+      "title": "Eiwit Matcha",
+      "handle": "eiwit-matcha",
+      "url": "https://upfront.nl/products/eiwit-matcha",
+      "product_type": "Protein",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_EiwitMatcha_Aardbei_50b3e058-8ebe-4362-97d7-4368b2f14fc2.png?v=1758310782",
+      "variants": [
+        {
+          "id": 55306476585343,
+          "title": "Eiwit Matcha Mango",
+          "price": 27.75,
+          "available": true,
+          "sku": "7GWHMM-1"
+        },
+        {
+          "id": 54951214121343,
+          "title": "Eiwit Matcha",
+          "price": 37.0,
+          "available": true,
+          "sku": "7GWHMA-1"
+        },
+        {
+          "id": 55651668361599,
+          "title": "Eiwit Matcha Aardbei",
+          "price": 27.75,
+          "available": true,
+          "sku": "7GWHMB-1"
+        }
+      ]
+    },
+    {
+      "id": 14861976142207,
+      "title": "Ceremoniële Matcha",
+      "handle": "matcha",
+      "url": "https://upfront.nl/products/matcha",
+      "product_type": "Meals",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_MatchaJar_00000.png?v=1754388537",
+      "variants": [
+        {
+          "id": 54866808308095,
+          "title": "Ceremoniële Matcha",
+          "price": 29.0,
+          "available": true,
+          "sku": "A2MAPU-1"
+        }
+      ]
+    },
+    {
+      "id": 8420151558493,
+      "title": "Clear Whey Limonade",
+      "handle": "clear-whey",
+      "url": "https://upfront.nl/products/clear-whey",
+      "product_type": "Protein",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Clear_Whey_Limonade_Zwarte_Bes.png?v=1773071116",
+      "variants": [
+        {
+          "id": 50765546684765,
+          "title": "Aardbei Citroen",
+          "price": 37.0,
+          "available": true,
+          "sku": "P7CWAC-1"
+        },
+        {
+          "id": 50765546750301,
+          "title": "Tropical",
+          "price": 38.0,
+          "available": false,
+          "sku": "P7CWTR-1"
+        },
+        {
+          "id": 48831402115421,
+          "title": "Aardbei Citroen 300g",
+          "price": 34.0,
+          "available": false,
+          "sku": "P1CWAC-1"
+        },
+        {
+          "id": 50780749627741,
+          "title": "Mojito",
+          "price": 38.0,
+          "available": false,
+          "sku": "P7CWMJ-1"
+        },
+        {
+          "id": 52039289962845,
+          "title": "Tropical 25",
+          "price": 1.5,
+          "available": false,
+          "sku": "SACWTR-1"
+        },
+        {
+          "id": 54713537134941,
+          "title": "Mojito 200gr",
+          "price": 13.0,
+          "available": false,
+          "sku": "2GCWMJ-1"
+        },
+        {
+          "id": 55266351677823,
+          "title": "Zwarte Bes",
+          "price": 37.0,
+          "available": true,
+          "sku": "P7CWZB-1"
+        },
+        {
+          "id": 55270336889215,
+          "title": "Perzik",
+          "price": 38.0,
+          "available": false,
+          "sku": "P7CWPE-1"
+        },
+        {
+          "id": 55552556466559,
+          "title": "IJsthee Perzik Kamille",
+          "price": 34.0,
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": 55552560988543,
+          "title": "IJsthee Citroen Hibiscus",
+          "price": 34.0,
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": 55558458245503,
+          "title": "Lychee Yuzu",
+          "price": 37.0,
+          "available": false,
+          "sku": "P7CWLY-1"
+        },
+        {
+          "id": 55625713385855,
+          "title": "Perzik Kamille IJsthee",
+          "price": 38.0,
+          "available": false,
+          "sku": "7GIJPC-1"
+        },
+        {
+          "id": 55625713418623,
+          "title": "Citroen Hibiscus IJsthee",
+          "price": 37.0,
+          "available": false,
+          "sku": "7GIJLH-1"
+        },
+        {
+          "id": 55902969004415,
+          "title": "Zwarte bes 300",
+          "price": 18.0,
+          "available": false,
+          "sku": "3GCWZB-1"
+        },
+        {
+          "id": 56599948788095,
+          "title": "Limoen Munt",
+          "price": 18.0,
+          "available": false,
+          "sku": null
+        }
+      ]
+    },
+    {
+      "id": 9017941360989,
+      "title": "Electrolytes (10st)",
+      "handle": "hydro-sticks",
+      "url": "https://upfront.nl/products/hydro-sticks",
+      "product_type": "Sachets",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_Electrolytes_Grapefruit_v2_00000.png?v=1774272328",
+      "variants": [
+        {
+          "id": 54886063112575,
+          "title": "Grapefruit",
+          "price": 9.0,
+          "available": false,
+          "sku": "D1ELGF-1"
+        },
+        {
+          "id": 54886063079807,
+          "title": "Appel (oud)",
+          "price": 9.0,
+          "available": false,
+          "sku": "D1ELAP-1"
+        },
+        {
+          "id": 54886063014271,
+          "title": "Sinaasappel (oud)",
+          "price": 9.0,
+          "available": false,
+          "sku": "D1ELSI-1"
+        },
+        {
+          "id": 57094908313983,
+          "title": "Neutraal",
+          "price": 9.0,
+          "available": false,
+          "sku": "D1E2NE-1"
+        },
+        {
+          "id": 57094908346751,
+          "title": "Passievrucht",
+          "price": 9.0,
+          "available": false,
+          "sku": "D1E2PV-1"
+        },
+        {
+          "id": 57227762860415,
+          "title": "Sinaasappel",
+          "price": 9.0,
+          "available": true,
+          "sku": "D1E2SI-1"
+        },
+        {
+          "id": 57679977808255,
+          "title": "Appel",
+          "price": 9.0,
+          "available": true,
+          "sku": "D1E2AP-1"
+        },
+        {
+          "id": 57755710357887,
+          "title": "Framboos",
+          "price": 9.0,
+          "available": false,
+          "sku": "D1ELFR-1"
+        },
+        {
+          "id": 57755710390655,
+          "title": "Citrus",
+          "price": 9.0,
+          "available": false,
+          "sku": "D1E2CI-1"
+        }
+      ]
+    },
+    {
+      "id": 6891949424702,
+      "title": "Eiwit Oats",
+      "handle": "oats-in-bag",
+      "url": "https://upfront.nl/products/oats-in-bag",
+      "product_type": "Meals",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Oats_FramboosCacao_PP_LoadingFrame_v1_1.png?v=1770020775",
+      "variants": [
+        {
+          "id": 39720697954366,
+          "title": "Choco oud",
+          "price": 19.0,
+          "available": false,
+          "sku": "KGOACA-1"
+        },
+        {
+          "id": 44765998252381,
+          "title": "Banaan Kaneel",
+          "price": 19.0,
+          "available": false,
+          "sku": "KGOABK-1"
+        },
+        {
+          "id": 53798824280413,
+          "title": "Pepernoten",
+          "price": 15.2,
+          "available": false,
+          "sku": "KGOAPN-1"
+        },
+        {
+          "id": 53890377613661,
+          "title": "Choco 75",
+          "price": 2.5,
+          "available": false,
+          "sku": "SAOACH-1"
+        },
+        {
+          "id": 54672464347485,
+          "title": "Carrot Cake (archived)",
+          "price": 15.2,
+          "available": false,
+          "sku": "KGOACC-1"
+        },
+        {
+          "id": 54713586614621,
+          "title": "Appel Kaneel 225",
+          "price": 5.0,
+          "available": false,
+          "sku": "2GOAAK-1"
+        },
+        {
+          "id": 55278525284735,
+          "title": "Vanille",
+          "price": 19.0,
+          "available": false,
+          "sku": "KGOAVA-1"
+        },
+        {
+          "id": 55727226028415,
+          "title": "Framboos Witte Choco",
+          "price": 19.0,
+          "available": true,
+          "sku": "KGOAFW-1"
+        },
+        {
+          "id": 55993735741823,
+          "title": "Geroosterde Pecan",
+          "price": 19.0,
+          "available": true,
+          "sku": "KGOAGP-1"
+        },
+        {
+          "id": 55942839566719,
+          "title": "Appel Kaneel - 75 gram",
+          "price": 19.0,
+          "available": false,
+          "sku": "SAOAAK-1"
+        },
+        {
+          "id": 56889305825663,
+          "title": "Appel Kaneel",
+          "price": 19.0,
+          "available": true,
+          "sku": "KGOAAKOU-1"
+        },
+        {
+          "id": 56889305858431,
+          "title": "Chocolade",
+          "price": 19.0,
+          "available": true,
+          "sku": "KGOACZOU-1"
+        },
+        {
+          "id": 57276951429503,
+          "title": "Speculaas",
+          "price": 19.0,
+          "available": true,
+          "sku": "KGOASPOU-1"
+        },
+        {
+          "id": 57343794315647,
+          "title": "Framboos Cacao (V)",
+          "price": 19.0,
+          "available": true,
+          "sku": "KGVOFC-1"
+        },
+        {
+          "id": 57438090396031,
+          "title": "Açai",
+          "price": 19.0,
+          "available": true,
+          "sku": "KGOAAC-1"
+        },
+        {
+          "id": 57504923189631,
+          "title": "Carrot Cake",
+          "price": 19.0,
+          "available": true,
+          "sku": "KGO2CC-1"
+        },
+        {
+          "id": 57774553203071,
+          "title": "Matcha Witte Choco",
+          "price": 19.0,
+          "available": true,
+          "sku": "KGOAMW-1"
+        }
+      ]
+    },
+    {
+      "id": 8600642388317,
+      "title": "Crea PRO",
+      "handle": "creatine-pure",
+      "url": "https://upfront.nl/products/creatine-pure",
+      "product_type": "Sport Supplements",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/CreaPro_LF_v1.png?v=1758716840",
+      "variants": [
+        {
+          "id": 48625592566109,
+          "title": "400 g",
+          "price": 24.0,
+          "available": false,
+          "sku": "P4SUCP-1"
+        }
+      ]
+    },
+    {
+      "id": 6593222311998,
+      "title": "Whey Milkshake",
+      "handle": "whey",
+      "url": "https://upfront.nl/products/whey",
+      "product_type": "Protein",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_WheyMilkshake_Banaan_v2.png?v=1760801897",
+      "variants": [
+        {
+          "id": 53433362612573,
+          "title": "Pepernoten",
+          "price": 29.0,
+          "available": false,
+          "sku": "KGWHPN-1"
+        },
+        {
+          "id": 39479179051070,
+          "title": "Vanille",
+          "price": 38.0,
+          "available": true,
+          "sku": "KGWHVA-1"
+        },
+        {
+          "id": 39976722464830,
+          "title": "Chocolade",
+          "price": 38.0,
+          "available": true,
+          "sku": "KGWHCA-1"
+        },
+        {
+          "id": 40009264201790,
+          "title": "Banaan",
+          "price": 38.0,
+          "available": true,
+          "sku": "KGWHBA-1"
+        },
+        {
+          "id": 40009265807422,
+          "title": "Aardbei",
+          "price": 38.0,
+          "available": true,
+          "sku": "KGWHAA-1"
+        },
+        {
+          "id": 48822040068445,
+          "title": "Portie Vanille",
+          "price": 1.5,
+          "available": false,
+          "sku": "SAWHVA-1"
+        },
+        {
+          "id": 48822040101213,
+          "title": "Portie Speculaas",
+          "price": 1.5,
+          "available": false,
+          "sku": "SAWHSP-1"
+        },
+        {
+          "id": 48822040133981,
+          "title": "Portie Chocolade",
+          "price": 1.5,
+          "available": false,
+          "sku": "SAWHCA-1"
+        },
+        {
+          "id": 50780706931037,
+          "title": "Salted Caramel",
+          "price": 24.0,
+          "available": false,
+          "sku": "KGWHSC-1"
+        },
+        {
+          "id": 51016101265757,
+          "title": "Vanille 450",
+          "price": 18.0,
+          "available": false,
+          "sku": "4GWHVA-1"
+        },
+        {
+          "id": 54615095214429,
+          "title": "Pistache",
+          "price": 38.0,
+          "available": false,
+          "sku": "KGWHPI-1"
+        },
+        {
+          "id": 54615095247197,
+          "title": "Framboos",
+          "price": 38.0,
+          "available": false,
+          "sku": "KGWHFR-1"
+        },
+        {
+          "id": 54713380667741,
+          "title": "Vanille 300gr",
+          "price": 10.0,
+          "available": false,
+          "sku": "3GWHVA-1"
+        }
+      ]
+    },
+    {
+      "id": 6955274534974,
+      "title": "Creatine",
+      "handle": "upfront-creatine",
+      "url": "https://upfront.nl/products/upfront-creatine",
+      "product_type": "Sport Supplements",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Creatine_PP_LoadingFrame_v3.png?v=1773384097",
+      "variants": [
+        {
+          "id": 55112139014527,
+          "title": "300g",
+          "price": 9.0,
+          "available": true,
+          "sku": "P5SUCR-1"
+        },
+        {
+          "id": 56095270142335,
+          "title": "400g",
+          "price": 12.0,
+          "available": false,
+          "sku": "P4SUCR-1"
+        }
+      ]
+    }
+  ]
+}
