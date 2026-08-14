@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T09:42:38.727254+00:00",
+  "last_updated": "2026-08-14T15:08:04.518493+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -844,28 +844,28 @@
         {
           "id": 57124750262655,
           "title": "Pinda Zeezout 1st",
-          "price": 2.9,
+          "price": 2.08,
           "available": true,
           "sku": "FOCRPZ-1"
         },
         {
           "id": 57124750295423,
           "title": "Hazelnoot 1st",
-          "price": 2.9,
+          "price": 2.08,
           "available": true,
           "sku": "FOCRCH-1"
         },
         {
           "id": 57124750328191,
           "title": "Pistache 1st",
-          "price": 2.9,
+          "price": 2.08,
           "available": true,
           "sku": "FOCRPI-1"
         },
         {
           "id": 57124750360959,
           "title": "Framboos (V) 1st",
-          "price": 2.9,
+          "price": 2.08,
           "available": true,
           "sku": "FOCRVF-1"
         },
@@ -879,7 +879,7 @@
         {
           "id": 57504915554687,
           "title": "Kokos 1st",
-          "price": 2.9,
+          "price": 2.08,
           "available": true,
           "sku": "FOCRKO-1"
         },
@@ -893,7 +893,7 @@
         {
           "id": 57874146197887,
           "title": "Bananenmelk 1st",
-          "price": 2.9,
+          "price": 2.08,
           "available": false,
           "sku": "FOCRBM-1"
         }
@@ -917,7 +917,7 @@
         {
           "id": 57124783227263,
           "title": "Framboos Witte Choco 1st",
-          "price": 2.5,
+          "price": 2.08,
           "available": true,
           "sku": "FOCBFW-1"
         },
@@ -931,7 +931,7 @@
         {
           "id": 57124783292799,
           "title": "Matcha Witte Choco 1st",
-          "price": 2.5,
+          "price": 2.08,
           "available": true,
           "sku": "FOCBMW-1"
         },
@@ -945,7 +945,7 @@
         {
           "id": 57124783358335,
           "title": "Mango Yoghurt 1st",
-          "price": 2.5,
+          "price": 2.08,
           "available": true,
           "sku": "FOCBMY-1"
         },
@@ -959,7 +959,7 @@
         {
           "id": 57124783423871,
           "title": "Bosvruchten Honing 1st",
-          "price": 2.5,
+          "price": 2.08,
           "available": true,
           "sku": "FOCBBH-1"
         },
@@ -973,7 +973,7 @@
         {
           "id": 57504917029247,
           "title": "Aardbei Yoghurt 1st",
-          "price": 2.5,
+          "price": 2.08,
           "available": false,
           "sku": "FOCBAY-1"
         },
@@ -987,7 +987,7 @@
         {
           "id": 57874100453759,
           "title": "Kaneel Witte Choco 1st",
-          "price": 2.5,
+          "price": 2.08,
           "available": false,
           "sku": "FOC2KW-1"
         },
@@ -1001,8 +1001,8 @@
         {
           "id": 58014768988543,
           "title": "Aardbei Yoghurt 1st 2.0",
-          "price": 2.5,
-          "available": false,
+          "price": 2.08,
+          "available": true,
           "sku": "F2CBAY-1"
         }
       ]
@@ -1025,7 +1025,7 @@
         {
           "id": 57124887921023,
           "title": "Pistache Framboos 1st",
-          "price": 2.7,
+          "price": 2.08,
           "available": true,
           "sku": "F2BAPF-1"
         },
@@ -1039,7 +1039,7 @@
         {
           "id": 57124887986559,
           "title": "Appel Kaneel 1st",
-          "price": 2.7,
+          "price": 2.08,
           "available": true,
           "sku": "F2BAAK-1"
         },
@@ -1053,7 +1053,7 @@
         {
           "id": 57124888052095,
           "title": "Pecan Maple (V) 1st",
-          "price": 2.7,
+          "price": 2.08,
           "available": true,
           "sku": "FOVBPM-1"
         },
@@ -1067,7 +1067,7 @@
         {
           "id": 57124888117631,
           "title": "Choco Chip (V) 1st",
-          "price": 2.7,
+          "price": 2.08,
           "available": true,
           "sku": "FOVBCC-1"
         },
@@ -1081,7 +1081,7 @@
         {
           "id": 57504914211199,
           "title": "Banaan Pindakaas 1st",
-          "price": 2.7,
+          "price": 2.08,
           "available": true,
           "sku": "F2BABP-1"
         },
@@ -1095,7 +1095,7 @@
         {
           "id": 57874079744383,
           "title": "Matcha Mango 1st",
-          "price": 2.7,
+          "price": 2.08,
           "available": false,
           "sku": "FOBAMM-1"
         },
@@ -1109,7 +1109,7 @@
         {
           "id": 57890704851327,
           "title": "Bananenmelk 1st",
-          "price": 2.7,
+          "price": 2.08,
           "available": false,
           "sku": "FOCRBM-1"
         }
@@ -1691,7 +1691,7 @@
           "id": 57755734507903,
           "title": "Aardbei Yuzu",
           "price": 27.0,
-          "available": false,
+          "available": true,
           "sku": "35PPUAA-1"
         }
       ]
@@ -2548,13 +2548,6 @@
           "price": 29.0,
           "available": true,
           "sku": "P3P3MC-1"
-        },
-        {
-          "id": 57755731165567,
-          "title": "Aardbei Yuzu",
-          "price": 29.0,
-          "available": false,
-          "sku": "35PP3AA-1"
         }
       ]
     },
@@ -2905,7 +2898,7 @@
           "id": 55558458245503,
           "title": "Lychee Yuzu",
           "price": 37.0,
-          "available": false,
+          "available": true,
           "sku": "P7CWLY-1"
         },
         {
