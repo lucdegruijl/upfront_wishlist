@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-08-18T07:58:25.986387+00:00",
+  "last_updated": "2026-08-18T14:05:39.141933+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 15479768187263,
+      "title": "Eiwit Kokoswater 300g",
+      "handle": "eiwit-kokoswater-300g",
+      "url": "https://upfront.nl/products/eiwit-kokoswater-300g",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/IMG_9536.png?v=1767537725",
+      "variants": [
+        {
+          "id": 56676165943679,
+          "title": "Kokos",
+          "price": 19.0,
+          "available": true,
+          "sku": "3GEKKO-1"
+        }
+      ]
+    },
     {
       "id": 15717783830911,
       "title": "Eiwit Puur",
@@ -1465,7 +1482,7 @@
           "id": 57917645095295,
           "title": "Chocolade 300gr",
           "price": 10.4,
-          "available": true,
+          "available": false,
           "sku": "3GOACZ-1"
         }
       ]
@@ -2366,7 +2383,7 @@
           "id": 57504940163455,
           "title": "Passievrucht 2.0 1",
           "price": 2.3,
-          "available": false,
+          "available": true,
           "sku": "RDLIPA-1"
         },
         {
