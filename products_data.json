@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T14:05:39.141933+00:00",
+  "last_updated": "2026-08-18T19:18:28.426210+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -190,7 +190,7 @@
           "id": 57124726767999,
           "title": "Try-Out Box",
           "price": 24.0,
-          "available": true,
+          "available": false,
           "sku": "FOBATR-12"
         }
       ]
@@ -2341,7 +2341,7 @@
           "id": 55558364070271,
           "title": "Lychee 6",
           "price": 15.0,
-          "available": false,
+          "available": true,
           "sku": "RDLILY-6"
         },
         {
