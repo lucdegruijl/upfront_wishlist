@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T07:58:29.709768+00:00",
+  "last_updated": "2026-08-19T14:06:25.966106+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -190,7 +190,7 @@
           "id": 57124726767999,
           "title": "Try-Out Box",
           "price": 24.0,
-          "available": true,
+          "available": false,
           "sku": "FOBATR-12"
         }
       ]
@@ -485,45 +485,24 @@
       "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_CaffeineRTD_MangoChili_PP_LoadingFrame_v1.png?v=1776617361",
       "variants": [
         {
-          "id": 57320153743743,
-          "title": "Mango Chili (2st)",
-          "price": 4.0,
-          "available": false,
-          "sku": "RDCAMC-2"
-        },
-        {
           "id": 57374957961599,
           "title": "Zwarte Bes (2st)",
           "price": 4.0,
-          "available": false,
+          "available": true,
           "sku": "RDCAZB-2"
-        },
-        {
-          "id": 57375268667775,
-          "title": "Mango Chili (1st)",
-          "price": 2.0,
-          "available": false,
-          "sku": "RDCAMC-1"
         },
         {
           "id": 57375268700543,
           "title": "Zwarte Bes (1st)",
           "price": 2.0,
-          "available": false,
+          "available": true,
           "sku": "RDCAZB-1"
-        },
-        {
-          "id": 57438245388671,
-          "title": "Mango Chili (12st)",
-          "price": 24.0,
-          "available": false,
-          "sku": "RDCAMC-12"
         },
         {
           "id": 57438246568319,
           "title": "Zwarte Bes (12st)",
           "price": 24.0,
-          "available": false,
+          "available": true,
           "sku": "RDCAZB-12"
         },
         {
@@ -567,6 +546,13 @@
           "price": 24.0,
           "available": false,
           "sku": "B5CAMA-12"
+        },
+        {
+          "id": 58219625218431,
+          "title": "Witte perzik (1st)",
+          "price": 2.0,
+          "available": true,
+          "sku": "RDCAWP-1"
         }
       ]
     },
@@ -651,7 +637,7 @@
     },
     {
       "id": 15620404838783,
-      "title": "Creatine Sticks",
+      "title": "Creatine Sticks (30st)",
       "handle": "creatine-sticks",
       "url": "https://upfront.nl/products/creatine-sticks",
       "product_type": "",
