@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T03:14:16.936531+00:00",
+  "last_updated": "2026-08-19T07:58:29.709768+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -190,7 +190,7 @@
           "id": 57124726767999,
           "title": "Try-Out Box",
           "price": 24.0,
-          "available": false,
+          "available": true,
           "sku": "FOBATR-12"
         }
       ]
@@ -426,7 +426,7 @@
           "id": 55903707365759,
           "title": "Vanille",
           "price": 38.0,
-          "available": true,
+          "available": false,
           "sku": "7GWIVA-1"
         },
         {
