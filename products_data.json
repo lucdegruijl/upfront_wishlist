@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T14:10:05.527602+00:00",
+  "last_updated": "2026-08-20T19:45:19.767101+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -473,6 +473,13 @@
           "price": 19.0,
           "available": false,
           "sku": "7GBOBR-1"
+        },
+        {
+          "id": 58235757855103,
+          "title": "Kers",
+          "price": 19.0,
+          "available": false,
+          "sku": "7GB2KE-1"
         }
       ]
     },
