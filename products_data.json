@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T03:31:24.269230+00:00",
+  "last_updated": "2026-08-21T08:04:12.516168+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -2435,7 +2435,7 @@
           "id": 55823039299967,
           "title": "Aardbei Yoghurt",
           "price": 12.0,
-          "available": false,
+          "available": true,
           "sku": "KGOOAY-1"
         }
       ]
@@ -2804,7 +2804,7 @@
           "id": 55651668361599,
           "title": "Eiwit Matcha Aardbei",
           "price": 27.75,
-          "available": true,
+          "available": false,
           "sku": "7GWHMB-1"
         }
       ]
