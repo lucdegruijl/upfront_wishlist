@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T19:16:11.133350+00:00",
+  "last_updated": "2026-08-22T03:08:34.825149+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -2960,7 +2960,7 @@
           "id": 57227762860415,
           "title": "Sinaasappel",
           "price": 9.0,
-          "available": true,
+          "available": false,
           "sku": "D1E2SI-1"
         },
         {
