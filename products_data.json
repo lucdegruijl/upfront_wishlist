@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T07:48:12.061611+00:00",
+  "last_updated": "2026-08-23T13:45:09.605095+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -48,14 +48,14 @@
         {
           "id": 57504959725951,
           "title": "Limoen Gember",
-          "price": 8.0,
+          "price": 8.5,
           "available": true,
           "sku": "RDFSGL-4"
         },
         {
           "id": 57504959758719,
           "title": "Mango Passievrucht",
-          "price": 8.0,
+          "price": 8.5,
           "available": true,
           "sku": "RDFSMP-4"
         }
@@ -141,7 +141,7 @@
         {
           "id": 57939826278783,
           "title": "Cappuccino (2st)",
-          "price": 4.0,
+          "price": 4.5,
           "available": true,
           "sku": "RDI2CA-2"
         },
@@ -394,7 +394,7 @@
         {
           "id": 57431986143615,
           "title": "Matcha (2st)",
-          "price": 4.0,
+          "price": 4.5,
           "available": true,
           "sku": "RDIJMA-2"
         },
@@ -494,7 +494,7 @@
         {
           "id": 57374957961599,
           "title": "Zwarte Bes (2st)",
-          "price": 4.0,
+          "price": 4.5,
           "available": true,
           "sku": "RDCAZB-2"
         },
@@ -515,7 +515,7 @@
         {
           "id": 58015094833535,
           "title": "Aardbei Yuzu (2st)",
-          "price": 4.0,
+          "price": 4.5,
           "available": false,
           "sku": "RDCAAA-2"
         },
@@ -529,7 +529,7 @@
         {
           "id": 58015111741823,
           "title": "Witte Perzik (2st)",
-          "price": 4.0,
+          "price": 4.5,
           "available": false,
           "sku": "RDCAWP-2"
         },
@@ -2035,7 +2035,7 @@
           "id": 56583394656639,
           "title": "Citroen doosje",
           "price": 26.0,
-          "available": true,
+          "available": false,
           "sku": "FOGLCI-12"
         },
         {
@@ -2298,14 +2298,14 @@
         {
           "id": 55558364004735,
           "title": "Passievrucht 6",
-          "price": 15.0,
+          "price": 16.0,
           "available": true,
           "sku": "RDLIPV-6"
         },
         {
           "id": 55558364070271,
           "title": "Lychee 6",
-          "price": 15.0,
+          "price": 16.0,
           "available": true,
           "sku": "RDLILY-6"
         },
@@ -2319,7 +2319,7 @@
         {
           "id": 57432298258815,
           "title": "Zwarte Bes 6",
-          "price": 15.0,
+          "price": 16.0,
           "available": true,
           "sku": "RDLIZB-6"
         },
@@ -2333,7 +2333,7 @@
         {
           "id": 57432298324351,
           "title": "Limoen Munt 6",
-          "price": 15.0,
+          "price": 16.0,
           "available": true,
           "sku": "RDLILM-6"
         },
@@ -2354,7 +2354,7 @@
         {
           "id": 57504940196223,
           "title": "Passievrucht 2.0 6",
-          "price": 15.0,
+          "price": 16.0,
           "available": false,
           "sku": "RDLIPA-6"
         },
@@ -2368,7 +2368,7 @@
         {
           "id": 57866615751039,
           "title": "Bloedsinaasappel 6",
-          "price": 15.0,
+          "price": 16.0,
           "available": false,
           "sku": "RDLSBS-6"
         },
@@ -2382,7 +2382,7 @@
         {
           "id": 57866615816575,
           "title": "Citrus 6",
-          "price": 15.0,
+          "price": 16.0,
           "available": false,
           "sku": "RDLSCI-6"
         }
