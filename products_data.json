@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T14:26:01.126942+00:00",
+  "last_updated": "2026-08-24T19:19:28.817431+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -97,35 +97,35 @@
           "id": 57859312353663,
           "title": "Aardbei Citroen",
           "price": 38.0,
-          "available": true,
+          "available": false,
           "sku": null
         },
         {
           "id": 57859312845183,
           "title": "Zwarte Bes",
           "price": 38.0,
-          "available": true,
+          "available": false,
           "sku": null
         },
         {
           "id": 57859313992063,
           "title": "Limoen Munt",
           "price": 38.0,
-          "available": true,
+          "available": false,
           "sku": null
         },
         {
           "id": 57859314057599,
           "title": "Citrus",
           "price": 38.0,
-          "available": true,
+          "available": false,
           "sku": null
         },
         {
           "id": 57859314090367,
           "title": "Passievrucht",
           "price": 38.0,
-          "available": true,
+          "available": false,
           "sku": null
         }
       ]
@@ -2125,7 +2125,7 @@
           "id": 56067194683775,
           "title": "Shaker",
           "price": 10.0,
-          "available": true,
+          "available": false,
           "sku": "STSHTR-1"
         }
       ]
