@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T08:26:55.351893+00:00",
+  "last_updated": "2026-08-24T14:26:01.126942+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -97,35 +97,35 @@
           "id": 57859312353663,
           "title": "Aardbei Citroen",
           "price": 38.0,
-          "available": false,
+          "available": true,
           "sku": null
         },
         {
           "id": 57859312845183,
           "title": "Zwarte Bes",
           "price": 38.0,
-          "available": false,
+          "available": true,
           "sku": null
         },
         {
           "id": 57859313992063,
           "title": "Limoen Munt",
           "price": 38.0,
-          "available": false,
+          "available": true,
           "sku": null
         },
         {
           "id": 57859314057599,
           "title": "Citrus",
           "price": 38.0,
-          "available": false,
+          "available": true,
           "sku": null
         },
         {
           "id": 57859314090367,
           "title": "Passievrucht",
           "price": 38.0,
-          "available": false,
+          "available": true,
           "sku": null
         }
       ]
@@ -466,6 +466,13 @@
           "price": 19.0,
           "available": true,
           "sku": "7GBOBC-1"
+        },
+        {
+          "id": 57755598127487,
+          "title": "Brownie 2.0",
+          "price": 19.0,
+          "available": false,
+          "sku": "7GBOBR-1"
         },
         {
           "id": 58235757855103,
@@ -988,7 +995,7 @@
       "handle": "eiwitreep-1",
       "url": "https://upfront.nl/products/eiwitreep-1",
       "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_VeganEiwitreep_PecanMaple_PP_LoadingFrame_v3.png?v=1774436443",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Eiwitreep_MatchaMango_PP_LoadingFrame_v2.png?v=1787323614",
       "variants": [
         {
           "id": 57124887888255,
@@ -1073,20 +1080,6 @@
           "price": 2.08,
           "available": false,
           "sku": "FOBAMM-1"
-        },
-        {
-          "id": 57890704818559,
-          "title": "Bananenmelk",
-          "price": 25.0,
-          "available": false,
-          "sku": "FOCRBM-12"
-        },
-        {
-          "id": 57890704851327,
-          "title": "Bananenmelk 1st",
-          "price": 2.08,
-          "available": false,
-          "sku": "FOCRBM-1"
         }
       ]
     },
@@ -1639,7 +1632,7 @@
       "handle": "pump-3-0",
       "url": "https://upfront.nl/products/pump-3-0",
       "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Pump3.0_Citrus_PP_LoadingFrame_v2.png?v=1772793780",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Pump3.0_AardbeiYuzu_PP_LoadingFrame_v1_1adb2fff-2447-4fe8-a732-7b9af6e58226.png?v=1787559799",
       "variants": [
         {
           "id": 56335524921727,
@@ -2132,7 +2125,7 @@
           "id": 56067194683775,
           "title": "Shaker",
           "price": 10.0,
-          "available": false,
+          "available": true,
           "sku": "STSHTR-1"
         }
       ]
@@ -2494,7 +2487,7 @@
       "handle": "pre-pro-3-0",
       "url": "https://upfront.nl/products/pre-pro-3-0",
       "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_PrePro3.0_MangoChili_PP_LoadingFrame_v2.png?v=1776616857",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_PrePro3.0_AardbeiYuzu_PP_LoadingFrame_v1_7dc4537f-35bb-47ff-bf40-fe07a997308a.png?v=1787559908",
       "variants": [
         {
           "id": 55558061425023,
