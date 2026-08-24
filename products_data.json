@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T03:33:21.715305+00:00",
+  "last_updated": "2026-08-24T08:26:55.351893+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -468,13 +468,6 @@
           "sku": "7GBOBC-1"
         },
         {
-          "id": 57755598127487,
-          "title": "Brownie 2.0",
-          "price": 19.0,
-          "available": false,
-          "sku": "7GBOBR-1"
-        },
-        {
           "id": 58235757855103,
           "title": "Kers",
           "price": 19.0,
@@ -558,7 +551,7 @@
           "id": 58219625218431,
           "title": "Witte perzik (1st)",
           "price": 2.0,
-          "available": true,
+          "available": false,
           "sku": "RDCAWP-1"
         }
       ]
@@ -1078,7 +1071,7 @@
           "id": 57874079744383,
           "title": "Matcha Mango 1st",
           "price": 2.08,
-          "available": true,
+          "available": false,
           "sku": "FOBAMM-1"
         },
         {
@@ -1546,6 +1539,13 @@
       "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/SWebsite_Hazelnootpasta_PP_LoadingFrame_v1.png?v=1786525215",
       "variants": [
         {
+          "id": 57434059473279,
+          "title": "Hazelnootpasta .",
+          "price": 4.5,
+          "available": false,
+          "sku": "G2FBHP-1"
+        },
+        {
           "id": 58014765973887,
           "title": "Hazelnootpasta",
           "price": 4.5,
@@ -1673,7 +1673,7 @@
           "id": 57755734507903,
           "title": "Aardbei Yuzu",
           "price": 27.0,
-          "available": true,
+          "available": false,
           "sku": "35PPUAA-1"
         }
       ]
@@ -2530,6 +2530,13 @@
           "price": 29.0,
           "available": true,
           "sku": "P3P3MC-1"
+        },
+        {
+          "id": 57755731165567,
+          "title": "Aardbei Yuzu",
+          "price": 29.0,
+          "available": false,
+          "sku": "35PP3AA-1"
         }
       ]
     },
@@ -3110,7 +3117,7 @@
           "id": 57774553203071,
           "title": "Matcha Witte Choco",
           "price": 19.0,
-          "available": true,
+          "available": false,
           "sku": "KGOAMW-1"
         }
       ]
