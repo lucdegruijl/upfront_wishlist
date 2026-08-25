@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T03:15:42.320738+00:00",
+  "last_updated": "2026-08-25T08:08:51.522495+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -175,23 +175,6 @@
           "price": 8.0,
           "available": true,
           "sku": "D7PRAA-1"
-        }
-      ]
-    },
-    {
-      "id": 15594337599871,
-      "title": "Eiwitrepen Try-Out Box",
-      "handle": "eiwitreep-mixdoos",
-      "url": "https://upfront.nl/products/eiwitreep-mixdoos",
-      "product_type": "mix",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Eiwitrepen_TryOutBox_PP_LoadingFrame_v1.png?v=1774168238",
-      "variants": [
-        {
-          "id": 57124726767999,
-          "title": "Try-Out Box",
-          "price": 24.0,
-          "available": false,
-          "sku": "FOBATR-12"
         }
       ]
     },
