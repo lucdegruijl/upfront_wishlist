@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T08:08:51.522495+00:00",
+  "last_updated": "2026-08-25T14:28:05.582674+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -866,14 +866,14 @@
           "id": 57504915521919,
           "title": "Kokos",
           "price": 25.0,
-          "available": true,
+          "available": false,
           "sku": "FOCRKO-12"
         },
         {
           "id": 57504915554687,
           "title": "Kokos 1st",
           "price": 2.08,
-          "available": true,
+          "available": false,
           "sku": "FOCRKO-1"
         },
         {
@@ -2011,7 +2011,7 @@
           "id": 56583394656639,
           "title": "Citroen doosje",
           "price": 26.0,
-          "available": false,
+          "available": true,
           "sku": "FOGLCI-12"
         },
         {
