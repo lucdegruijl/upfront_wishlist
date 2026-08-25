@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T14:28:05.582674+00:00",
+  "last_updated": "2026-08-25T19:45:15.913867+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -434,7 +434,7 @@
       "handle": "oats-baked",
       "url": "https://upfront.nl/products/oats-baked",
       "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_OatsBaked_Brownie_PP_LoadingFrame_v2_1.png?v=1786344119",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_OatsBaked_BlauweBes_PP_LoadingFrame_v1.png?v=1773384433",
       "variants": [
         {
           "id": 56748437340543,
@@ -969,6 +969,20 @@
           "price": 25.0,
           "available": false,
           "sku": "FOC2KW-12"
+        },
+        {
+          "id": 58267840545151,
+          "title": "Vanille Kaneel 1st",
+          "price": 2.08,
+          "available": false,
+          "sku": "FOCBVK-1"
+        },
+        {
+          "id": 58267840577919,
+          "title": "Vanille Kaneel",
+          "price": 25.0,
+          "available": false,
+          "sku": "FOCBVK-12"
         }
       ]
     },
@@ -2011,7 +2025,7 @@
           "id": 56583394656639,
           "title": "Citroen doosje",
           "price": 26.0,
-          "available": true,
+          "available": false,
           "sku": "FOGLCI-12"
         },
         {
