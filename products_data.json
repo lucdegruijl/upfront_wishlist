@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T08:09:39.278512+00:00",
+  "last_updated": "2026-08-26T14:26:14.546213+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -327,7 +327,7 @@
           "id": 57736612839807,
           "title": "Banaan Choco Chip",
           "price": 50.0,
-          "available": true,
+          "available": false,
           "sku": null
         }
       ]
@@ -361,7 +361,7 @@
           "id": 57432274108799,
           "title": "Mixdoos",
           "price": 12.0,
-          "available": true,
+          "available": false,
           "sku": "RDDRMX-1"
         }
       ]
@@ -375,10 +375,24 @@
       "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_GranolaReep_Honing_PP_LoadingFrame_v2.png?v=1777653548",
       "variants": [
         {
+          "id": 57446439420287,
+          "title": "Appel Kaneel doosje",
+          "price": 1.5,
+          "available": true,
+          "sku": "FOG2AP-1"
+        },
+        {
+          "id": 57446439453055,
+          "title": "Chocolade doosje",
+          "price": 1.5,
+          "available": true,
+          "sku": "FOG2CH-1"
+        },
+        {
           "id": 57446439485823,
           "title": "Honing doosje",
           "price": 1.5,
-          "available": true,
+          "available": false,
           "sku": "FOG2HO-1"
         }
       ]
@@ -425,7 +439,7 @@
         {
           "id": 57438242505087,
           "title": "Matcha (12st)",
-          "price": 0.0,
+          "price": 20.0,
           "available": true,
           "sku": "RDIJMA-12"
         }
@@ -481,7 +495,7 @@
           "id": 56748437373311,
           "title": "Banaan Choco Chip",
           "price": 19.0,
-          "available": true,
+          "available": false,
           "sku": "7GBOBC-1"
         },
         {
@@ -1443,14 +1457,14 @@
           "id": 56951367500159,
           "title": "Chocolade",
           "price": 10.0,
-          "available": true,
+          "available": false,
           "sku": "KGOACZ-1"
         },
         {
           "id": 56951367926143,
           "title": "Pistache Framboos",
           "price": 10.0,
-          "available": true,
+          "available": false,
           "sku": "KGOAPF-1"
         },
         {
@@ -3085,7 +3099,7 @@
           "id": 55993735741823,
           "title": "Geroosterde Pecan",
           "price": 19.0,
-          "available": true,
+          "available": false,
           "sku": "KGOAGP-1"
         },
         {
