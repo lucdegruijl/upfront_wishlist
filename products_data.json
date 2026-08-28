@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T14:26:14.546213+00:00",
+  "last_updated": "2026-08-28T01:37:33.883926+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -245,7 +245,7 @@
           "id": 57755692302719,
           "title": "Passievrucht Perzik",
           "price": 11.0,
-          "available": true,
+          "available": false,
           "sku": "P1FPPP-1"
         }
       ]
@@ -350,23 +350,6 @@
       ]
     },
     {
-      "id": 15657344958847,
-      "title": "Eiwit Drinks Mixdoos",
-      "handle": "mixdoos",
-      "url": "https://upfront.nl/products/mixdoos",
-      "product_type": "mix",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Mixdoos_EiwitDrinks_PP_LoadingFrame_v1.png?v=1777453653",
-      "variants": [
-        {
-          "id": 57432274108799,
-          "title": "Mixdoos",
-          "price": 12.0,
-          "available": false,
-          "sku": "RDDRMX-1"
-        }
-      ]
-    },
-    {
       "id": 15660436849023,
       "title": "Granola Repen",
       "handle": "granola-repen-2-0",
@@ -378,7 +361,7 @@
           "id": 57446439420287,
           "title": "Appel Kaneel doosje",
           "price": 1.5,
-          "available": true,
+          "available": false,
           "sku": "FOG2AP-1"
         },
         {
@@ -457,7 +440,7 @@
           "id": 55903707365759,
           "title": "Vanille",
           "price": 38.0,
-          "available": false,
+          "available": true,
           "sku": "7GWIVA-1"
         },
         {
@@ -841,7 +824,7 @@
           "id": 57307880096127,
           "title": "Aardbei",
           "price": 29.0,
-          "available": true,
+          "available": false,
           "sku": "KGWCAA-1"
         }
       ]
@@ -1015,21 +998,35 @@
           "id": 57874100420991,
           "title": "Kaneel Witte Choco",
           "price": 25.0,
-          "available": false,
+          "available": true,
           "sku": "FOC2KW-12"
+        },
+        {
+          "id": 58014768955775,
+          "title": "Aardbei Yoghurt 2.0",
+          "price": 25.0,
+          "available": true,
+          "sku": "F2CBAY-12"
+        },
+        {
+          "id": 58014768988543,
+          "title": "Aardbei Yoghurt 1st 2.0",
+          "price": 2.08,
+          "available": true,
+          "sku": "F2CBAY-1"
         },
         {
           "id": 58267840545151,
           "title": "Vanille Kaneel 1st",
           "price": 2.08,
-          "available": false,
+          "available": true,
           "sku": "FOCBVK-1"
         },
         {
           "id": 58267840577919,
           "title": "Vanille Kaneel",
           "price": 20.0,
-          "available": false,
+          "available": true,
           "sku": "FOCBVK-12"
         }
       ]
@@ -1208,6 +1205,13 @@
           "price": 22.0,
           "available": false,
           "sku": "3PE2SI-1"
+        },
+        {
+          "id": 58280045773183,
+          "title": "Passievrucht (N)",
+          "price": 19.0,
+          "available": false,
+          "sku": "D3ELPV-1"
         }
       ]
     },
@@ -1563,7 +1567,7 @@
           "id": 56844299534719,
           "title": "60st",
           "price": 13.0,
-          "available": true,
+          "available": false,
           "sku": "GFSUAM-1"
         }
       ]
@@ -1587,7 +1591,7 @@
           "id": 58014765973887,
           "title": "Hazelnootpasta",
           "price": 4.5,
-          "available": true,
+          "available": false,
           "sku": "ONHPBS27-1"
         }
       ]
@@ -1598,7 +1602,7 @@
       "handle": "chiapudding",
       "url": "https://upfront.nl/products/chiapudding",
       "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Chiapudding_MangoPassievrucht_PP_LoadingFrame_v1.png?v=1776246712",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Chiapudding_CacaoFramboos_PP_LoadingFrame_v2_95c60738-aa51-4a16-b25d-d8ce1fd6e2cf.png?v=1782634978",
       "variants": [
         {
           "id": 56762197082495,
@@ -1617,21 +1621,21 @@
         {
           "id": 57094897566079,
           "title": "Matcha Aardbei (V)",
-          "price": 17.0,
+          "price": 13.6,
           "available": true,
           "sku": "7GCPMA-1"
         },
         {
           "id": 57735566328191,
           "title": "Cacao Framboos",
-          "price": 17.0,
+          "price": 13.6,
           "available": true,
           "sku": "7GCPCF-1"
         },
         {
           "id": 57735574716799,
           "title": "Kiwi Kokos",
-          "price": 17.0,
+          "price": 13.6,
           "available": true,
           "sku": "7GCPKK-1"
         }
@@ -2337,7 +2341,7 @@
           "id": 55558364004735,
           "title": "Passievrucht 6",
           "price": 16.0,
-          "available": true,
+          "available": false,
           "sku": "RDLIPV-6"
         },
         {
@@ -2855,7 +2859,7 @@
           "id": 50765546684765,
           "title": "Aardbei Citroen",
           "price": 32.0,
-          "available": true,
+          "available": false,
           "sku": "P7CWAC-1"
         },
         {
