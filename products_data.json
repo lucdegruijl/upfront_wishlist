@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T01:37:33.883926+00:00",
+  "last_updated": "2026-08-28T21:56:19.535614+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -487,13 +487,6 @@
           "price": 19.0,
           "available": false,
           "sku": "7GBOBR-1"
-        },
-        {
-          "id": 58235757855103,
-          "title": "Kers",
-          "price": 19.0,
-          "available": false,
-          "sku": "7GB2KE-1"
         }
       ]
     },
@@ -1182,7 +1175,7 @@
           "id": 57141256192383,
           "title": "Neutraal",
           "price": 22.0,
-          "available": false,
+          "available": true,
           "sku": "3PE2NE-1"
         },
         {
@@ -1205,13 +1198,6 @@
           "price": 22.0,
           "available": false,
           "sku": "3PE2SI-1"
-        },
-        {
-          "id": 58280045773183,
-          "title": "Passievrucht (N)",
-          "price": 19.0,
-          "available": false,
-          "sku": "D3ELPV-1"
         }
       ]
     },
@@ -1461,7 +1447,7 @@
           "id": 56951367500159,
           "title": "Chocolade",
           "price": 10.0,
-          "available": false,
+          "available": true,
           "sku": "KGOACZ-1"
         },
         {
@@ -2077,7 +2063,7 @@
           "id": 56583394656639,
           "title": "Citroen doosje",
           "price": 26.0,
-          "available": false,
+          "available": true,
           "sku": "FOGLCI-12"
         },
         {
@@ -2334,7 +2320,7 @@
           "id": 55558363971967,
           "title": "Passievrucht 1",
           "price": 2.3,
-          "available": true,
+          "available": false,
           "sku": "RDLIPV-1"
         },
         {
@@ -2348,7 +2334,7 @@
           "id": 55558364070271,
           "title": "Lychee 6",
           "price": 16.0,
-          "available": true,
+          "available": false,
           "sku": "RDLILY-6"
         },
         {
@@ -3002,14 +2988,14 @@
           "id": 57094908346751,
           "title": "Passievrucht",
           "price": 9.0,
-          "available": false,
+          "available": true,
           "sku": "D1E2PV-1"
         },
         {
           "id": 57227762860415,
           "title": "Sinaasappel",
           "price": 9.0,
-          "available": false,
+          "available": true,
           "sku": "D1E2SI-1"
         },
         {
@@ -3023,7 +3009,7 @@
           "id": 57755710357887,
           "title": "Framboos",
           "price": 9.0,
-          "available": false,
+          "available": true,
           "sku": "D1ELFR-1"
         },
         {
