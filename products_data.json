@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T06:06:01.805257+00:00",
+  "last_updated": "2026-08-31T12:05:38.385526+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -186,7 +186,7 @@
           "id": 57504949666175,
           "title": "Speculoos",
           "price": 11.0,
-          "available": false,
+          "available": true,
           "sku": "P1F2SP-1"
         },
         {
@@ -1510,6 +1510,13 @@
           "price": 15.0,
           "available": false,
           "sku": "GFSUAM-1"
+        },
+        {
+          "id": 57736237220223,
+          "title": "80st",
+          "price": 18.0,
+          "available": false,
+          "sku": "GFS2AM-1"
         }
       ]
     },
@@ -1525,7 +1532,7 @@
           "id": 57434059473279,
           "title": "Hazelnootpasta .",
           "price": 4.5,
-          "available": false,
+          "available": true,
           "sku": "G2FBHP-1"
         },
         {
@@ -2115,7 +2122,7 @@
           "id": 56067194683775,
           "title": "Shaker",
           "price": 10.0,
-          "available": false,
+          "available": true,
           "sku": "STSHTR-1"
         }
       ]
