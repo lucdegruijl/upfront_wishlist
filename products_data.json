@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T18:04:46.761957+00:00",
+  "last_updated": "2026-08-31T00:06:20.752635+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -120,51 +120,6 @@
       ]
     },
     {
-      "id": 15749595038079,
-      "title": "Clear Whey + Shaker 2.0",
-      "handle": "clear-whey-shaker-2-0",
-      "url": "https://upfront.nl/products/clear-whey-shaker-2-0",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Bundle_ClearWheyShaker_AardbeiCitroen-Stevia_PP_LoadingFrame_v1.png?v=1782741329",
-      "variants": [
-        {
-          "id": 57859312353663,
-          "title": "Aardbei Citroen",
-          "price": 38.0,
-          "available": false,
-          "sku": null
-        },
-        {
-          "id": 57859312845183,
-          "title": "Zwarte Bes",
-          "price": 38.0,
-          "available": false,
-          "sku": null
-        },
-        {
-          "id": 57859313992063,
-          "title": "Limoen Munt",
-          "price": 38.0,
-          "available": false,
-          "sku": null
-        },
-        {
-          "id": 57859314057599,
-          "title": "Citrus",
-          "price": 38.0,
-          "available": false,
-          "sku": null
-        },
-        {
-          "id": 57859314090367,
-          "title": "Passievrucht",
-          "price": 38.0,
-          "available": false,
-          "sku": null
-        }
-      ]
-    },
-    {
       "id": 15777907900799,
       "title": "Eiwit IJskoffie",
       "handle": "eiwit-ijskoffie-2",
@@ -175,7 +130,7 @@
         {
           "id": 57939826278783,
           "title": "Cappuccino (2st)",
-          "price": 2.5,
+          "price": 4.5,
           "available": false,
           "sku": "RDI2CA-2"
         },
@@ -199,14 +154,14 @@
         {
           "id": 55112117715327,
           "title": "Sinaasappel",
-          "price": 4.0,
+          "price": 8.0,
           "available": true,
           "sku": "D7PRSI-1"
         },
         {
           "id": 55112117748095,
           "title": "Aardbei",
-          "price": 4.0,
+          "price": 8.0,
           "available": true,
           "sku": "D7PRAA-1"
         }
@@ -360,21 +315,21 @@
         {
           "id": 57446439420287,
           "title": "Appel Kaneel doosje",
-          "price": 1.5,
+          "price": 3.0,
           "available": false,
           "sku": "FOG2AP-1"
         },
         {
           "id": 57446439453055,
           "title": "Chocolade doosje",
-          "price": 1.5,
+          "price": 3.0,
           "available": false,
           "sku": "FOG2CH-1"
         },
         {
           "id": 57446439485823,
           "title": "Honing doosje",
-          "price": 1.5,
+          "price": 3.0,
           "available": false,
           "sku": "FOG2HO-1"
         }
@@ -408,7 +363,7 @@
         {
           "id": 57431986143615,
           "title": "Matcha (2st)",
-          "price": 2.5,
+          "price": 4.5,
           "available": true,
           "sku": "RDIJMA-2"
         },
@@ -470,7 +425,7 @@
         {
           "id": 56748437340543,
           "title": "Blauwe Bes",
-          "price": 14.0,
+          "price": 19.0,
           "available": true,
           "sku": "7GBOBB-1"
         },
@@ -581,14 +536,14 @@
         {
           "id": 57262532133247,
           "title": "Puur",
-          "price": 17.5,
+          "price": 35.0,
           "available": true,
           "sku": "FOFBPU-1"
         },
         {
           "id": 57262532166015,
           "title": "Sinaasappel",
-          "price": 17.5,
+          "price": 35.0,
           "available": true,
           "sku": "FOFBSA-1"
         }
@@ -802,7 +757,7 @@
         {
           "id": 57183913181567,
           "title": "Vanille",
-          "price": 24.0,
+          "price": 28.8,
           "available": true,
           "sku": "KGWCVA-1"
         },
@@ -847,14 +802,14 @@
         {
           "id": 57124750197119,
           "title": "Pistache",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOCRPI-12"
         },
         {
           "id": 57124750229887,
           "title": "Framboos (V)",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOCRVF-12"
         },
@@ -1018,7 +973,7 @@
         {
           "id": 58267840577919,
           "title": "Vanille Kaneel",
-          "price": 20.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOCBVK-12"
         }
@@ -1035,7 +990,7 @@
         {
           "id": 57124887888255,
           "title": "Pistache Framboos",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "F2BAPF-12"
         },
@@ -1063,7 +1018,7 @@
         {
           "id": 57124888019327,
           "title": "Pecan Maple (V)",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOVBPM-12"
         },
@@ -1350,14 +1305,14 @@
         {
           "id": 56189337141631,
           "title": "Aardbei",
-          "price": 9.0,
+          "price": 18.0,
           "available": true,
           "sku": "P3PEAA-1"
         },
         {
           "id": 56189337174399,
           "title": "Zwarte Bes",
-          "price": 9.0,
+          "price": 18.0,
           "available": true,
           "sku": "P3PEZB-1"
         }
@@ -1374,14 +1329,14 @@
         {
           "id": 56189203743103,
           "title": "Appel-Peer",
-          "price": 7.0,
+          "price": 14.0,
           "available": true,
           "sku": "D6IEAP-1"
         },
         {
           "id": 56189203775871,
           "title": "Sinaasappel",
-          "price": 7.0,
+          "price": 14.0,
           "available": true,
           "sku": "D6IESI-1"
         }
@@ -1552,7 +1507,7 @@
         {
           "id": 56844299534719,
           "title": "60st",
-          "price": 13.0,
+          "price": 15.0,
           "available": false,
           "sku": "GFSUAM-1"
         }
@@ -1607,21 +1562,21 @@
         {
           "id": 57094897566079,
           "title": "Matcha Aardbei (V)",
-          "price": 13.6,
+          "price": 17.0,
           "available": true,
           "sku": "7GCPMA-1"
         },
         {
           "id": 57735566328191,
           "title": "Cacao Framboos",
-          "price": 13.6,
+          "price": 17.0,
           "available": true,
           "sku": "7GCPCF-1"
         },
         {
           "id": 57735574716799,
           "title": "Kiwi Kokos",
-          "price": 13.6,
+          "price": 17.0,
           "available": true,
           "sku": "7GCPKK-1"
         }
@@ -1672,7 +1627,7 @@
         {
           "id": 56335524921727,
           "title": "Zure Kers",
-          "price": 14.0,
+          "price": 27.0,
           "available": true,
           "sku": "P3PUZK-1"
         },
@@ -1693,7 +1648,7 @@
         {
           "id": 57366956376447,
           "title": "Mango Chili",
-          "price": 14.0,
+          "price": 27.0,
           "available": true,
           "sku": "P3PUMC-1"
         },
@@ -2527,7 +2482,7 @@
         {
           "id": 55558061425023,
           "title": "Groene Appel",
-          "price": 15.0,
+          "price": 29.0,
           "available": false,
           "sku": "P3P3GA-1"
         },
@@ -2555,7 +2510,7 @@
         {
           "id": 57374961467775,
           "title": "Mango Chili",
-          "price": 15.0,
+          "price": 29.0,
           "available": true,
           "sku": "P3P3MC-1"
         },
@@ -2596,14 +2551,14 @@
         {
           "id": 55481098076543,
           "title": "Kokos / 700",
-          "price": 19.0,
+          "price": 22.0,
           "available": true,
           "sku": "P7EKKO-1"
         },
         {
           "id": 56431402549631,
           "title": "Kokos / 300",
-          "price": 19.0,
+          "price": 22.0,
           "available": false,
           "sku": "3GEKKO-1"
         }
@@ -2738,7 +2693,7 @@
         {
           "id": 55112139309439,
           "title": "Aardbei Citroen",
-          "price": 25.0,
+          "price": 35.0,
           "available": true,
           "sku": "5GCOAC-1"
         }
@@ -2762,7 +2717,7 @@
         {
           "id": 55558043992447,
           "title": "Limoen Munt",
-          "price": 10.0,
+          "price": 19.0,
           "available": true,
           "sku": "4GDALM-1"
         }
@@ -2844,7 +2799,7 @@
         {
           "id": 50765546684765,
           "title": "Aardbei Citroen",
-          "price": 32.0,
+          "price": 37.0,
           "available": false,
           "sku": "P7CWAC-1"
         },
@@ -2858,7 +2813,7 @@
         {
           "id": 48831402115421,
           "title": "Aardbei Citroen 300g",
-          "price": 34.0,
+          "price": 37.0,
           "available": false,
           "sku": "P1CWAC-1"
         },
@@ -2886,7 +2841,7 @@
         {
           "id": 55266351677823,
           "title": "Zwarte Bes",
-          "price": 32.0,
+          "price": 37.0,
           "available": true,
           "sku": "P7CWZB-1"
         },
@@ -3131,7 +3086,7 @@
           "id": 57438090396031,
           "title": "Açai",
           "price": 10.0,
-          "available": true,
+          "available": false,
           "sku": "KGOAAC-1"
         },
         {
