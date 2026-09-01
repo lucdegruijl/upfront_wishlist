@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T12:12:25.324364+00:00",
+  "last_updated": "2026-09-01T18:10:40.369416+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -200,7 +200,7 @@
           "id": 57755692302719,
           "title": "Passievrucht Perzik",
           "price": 11.0,
-          "available": false,
+          "available": true,
           "sku": "P1FPPP-1"
         }
       ]
@@ -1305,14 +1305,14 @@
         {
           "id": 56189337141631,
           "title": "Aardbei",
-          "price": 18.0,
+          "price": 15.0,
           "available": true,
           "sku": "P3PEAA-1"
         },
         {
           "id": 56189337174399,
           "title": "Zwarte Bes",
-          "price": 18.0,
+          "price": 15.0,
           "available": true,
           "sku": "P3PEZB-1"
         }
@@ -1329,14 +1329,14 @@
         {
           "id": 56189203743103,
           "title": "Appel-Peer",
-          "price": 14.0,
+          "price": 10.0,
           "available": true,
           "sku": "D6IEAP-1"
         },
         {
           "id": 56189203775871,
           "title": "Sinaasappel",
-          "price": 14.0,
+          "price": 10.0,
           "available": true,
           "sku": "D6IESI-1"
         }
@@ -1508,7 +1508,7 @@
           "id": 56844299534719,
           "title": "60st",
           "price": 15.0,
-          "available": false,
+          "available": true,
           "sku": "GFSUAM-1"
         },
         {
@@ -1970,7 +1970,7 @@
       "handle": "gel-2-0",
       "url": "https://upfront.nl/products/gel-2-0",
       "product_type": "Sport Supplements",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Gel2.0_Cassis_PP_LoadingFrame_v1.png?v=1776703672",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Gel_Framboos_PP_LoadingFrame_v2.png?v=1773238294",
       "variants": [
         {
           "id": 56063533547903,
@@ -2122,7 +2122,7 @@
           "id": 56067194683775,
           "title": "Shaker",
           "price": 10.0,
-          "available": true,
+          "available": false,
           "sku": "STSHTR-1"
         }
       ]
@@ -2490,7 +2490,7 @@
           "id": 55558061425023,
           "title": "Groene Appel",
           "price": 29.0,
-          "available": false,
+          "available": true,
           "sku": "P3P3GA-1"
         },
         {
@@ -2978,7 +2978,7 @@
           "id": 57755710390655,
           "title": "Citrus",
           "price": 9.0,
-          "available": false,
+          "available": true,
           "sku": "D1E2CI-1"
         }
       ]
