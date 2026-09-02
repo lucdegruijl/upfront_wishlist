@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T18:10:40.369416+00:00",
+  "last_updated": "2026-09-02T00:14:23.229162+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -131,14 +131,14 @@
           "id": 57939826278783,
           "title": "Cappuccino (2st)",
           "price": 4.5,
-          "available": false,
+          "available": true,
           "sku": "RDI2CA-2"
         },
         {
           "id": 57939826311551,
           "title": "Cappuccino 1st",
           "price": 2.0,
-          "available": false,
+          "available": true,
           "sku": "RDI2CA-1"
         }
       ]
@@ -200,7 +200,7 @@
           "id": 57755692302719,
           "title": "Passievrucht Perzik",
           "price": 11.0,
-          "available": true,
+          "available": false,
           "sku": "P1FPPP-1"
         }
       ]
@@ -2876,7 +2876,7 @@
         {
           "id": 55558458245503,
           "title": "Lychee Yuzu",
-          "price": 32.0,
+          "price": 30.0,
           "available": true,
           "sku": "P7CWLY-1"
         },
