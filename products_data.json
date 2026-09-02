@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T12:12:23.852291+00:00",
+  "last_updated": "2026-09-02T18:10:58.970330+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -442,6 +442,13 @@
           "price": 19.0,
           "available": false,
           "sku": "7GBOBR-1"
+        },
+        {
+          "id": 58014739988863,
+          "title": "Kers Choco 2.0",
+          "price": 19.0,
+          "available": false,
+          "sku": "7GB2KC-1"
         }
       ]
     },
@@ -1395,7 +1402,7 @@
           "id": 56951367238015,
           "title": "Speculaas",
           "price": 10.0,
-          "available": true,
+          "available": false,
           "sku": "KGOASP-1"
         },
         {
@@ -2280,14 +2287,14 @@
         },
         {
           "id": 55558363971967,
-          "title": "Passievrucht 1",
+          "title": "Passievrucht 1 [ARCHIVED]",
           "price": 2.3,
           "available": false,
           "sku": "RDLIPV-1"
         },
         {
           "id": 55558364004735,
-          "title": "Passievrucht 6",
+          "title": "Passievrucht 6 [ARCHIVED]",
           "price": 16.0,
           "available": false,
           "sku": "RDLIPV-6"
@@ -2336,14 +2343,14 @@
         },
         {
           "id": 57504940163455,
-          "title": "Passievrucht 2.0 1",
+          "title": "Passievrucht 1",
           "price": 2.3,
           "available": true,
           "sku": "RDLIPA-1"
         },
         {
           "id": 57504940196223,
-          "title": "Passievrucht 2.0 6",
+          "title": "Passievrucht 6",
           "price": 16.0,
           "available": true,
           "sku": "RDLIPA-6"
@@ -2490,7 +2497,7 @@
           "id": 55558061425023,
           "title": "Groene Appel",
           "price": 29.0,
-          "available": true,
+          "available": false,
           "sku": "P3P3GA-1"
         },
         {
