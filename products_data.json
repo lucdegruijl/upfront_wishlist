@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T06:16:46.553516+00:00",
+  "last_updated": "2026-09-02T12:12:23.852291+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -131,14 +131,14 @@
           "id": 57939826278783,
           "title": "Cappuccino (2st)",
           "price": 4.5,
-          "available": true,
+          "available": false,
           "sku": "RDI2CA-2"
         },
         {
           "id": 57939826311551,
           "title": "Cappuccino 1st",
           "price": 2.0,
-          "available": true,
+          "available": false,
           "sku": "RDI2CA-1"
         }
       ]
@@ -179,14 +179,14 @@
           "id": 54959783444863,
           "title": "Vanille",
           "price": 11.0,
-          "available": false,
+          "available": true,
           "sku": "P1F2VA-1"
         },
         {
           "id": 57504949666175,
           "title": "Speculoos",
           "price": 11.0,
-          "available": false,
+          "available": true,
           "sku": "P1F2SP-1"
         },
         {
@@ -200,7 +200,7 @@
           "id": 57755692302719,
           "title": "Passievrucht Perzik",
           "price": 11.0,
-          "available": false,
+          "available": true,
           "sku": "P1FPPP-1"
         }
       ]
@@ -282,7 +282,7 @@
           "id": 57736612839807,
           "title": "Banaan Choco Chip",
           "price": 50.0,
-          "available": false,
+          "available": true,
           "sku": null
         }
       ]
@@ -316,21 +316,21 @@
           "id": 57446439420287,
           "title": "Appel Kaneel doosje",
           "price": 3.0,
-          "available": false,
+          "available": true,
           "sku": "FOG2AP-1"
         },
         {
           "id": 57446439453055,
           "title": "Chocolade doosje",
           "price": 3.0,
-          "available": false,
+          "available": true,
           "sku": "FOG2CH-1"
         },
         {
           "id": 57446439485823,
           "title": "Honing doosje",
           "price": 3.0,
-          "available": false,
+          "available": true,
           "sku": "FOG2HO-1"
         }
       ]
@@ -433,7 +433,7 @@
           "id": 56748437373311,
           "title": "Banaan Choco Chip",
           "price": 19.0,
-          "available": false,
+          "available": true,
           "sku": "7GBOBC-1"
         },
         {
@@ -1371,7 +1371,7 @@
           "id": 56459934925183,
           "title": "Koffiebonen",
           "price": 9.5,
-          "available": true,
+          "available": false,
           "sku": "ONKOBN45-1"
         }
       ]
@@ -1395,7 +1395,7 @@
           "id": 56951367238015,
           "title": "Speculaas",
           "price": 10.0,
-          "available": false,
+          "available": true,
           "sku": "KGOASP-1"
         },
         {
@@ -2345,7 +2345,7 @@
           "id": 57504940196223,
           "title": "Passievrucht 2.0 6",
           "price": 16.0,
-          "available": false,
+          "available": true,
           "sku": "RDLIPA-6"
         },
         {
