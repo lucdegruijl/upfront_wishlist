@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T12:12:37.056117+00:00",
+  "last_updated": "2026-09-03T18:10:57.258764+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -107,7 +107,7 @@
           "id": 57736516075903,
           "title": "Vanille",
           "price": 29.0,
-          "available": true,
+          "available": false,
           "sku": "7GVFVA-1"
         },
         {
@@ -440,7 +440,7 @@
           "id": 57755598127487,
           "title": "Brownie 2.0",
           "price": 19.0,
-          "available": true,
+          "available": false,
           "sku": "7GBOBR-1"
         },
         {
@@ -458,7 +458,7 @@
       "handle": "caffeine-drink",
       "url": "https://upfront.nl/products/caffeine-drink",
       "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_CaffeineRTD_MangoChili_PP_LoadingFrame_v1.png?v=1776617361",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_CaffeineRTD_ZwarteBes_PP_LoadingFrame_v1.png?v=1776616834",
       "variants": [
         {
           "id": 57374957961599,
@@ -1151,7 +1151,7 @@
           "id": 57432178524543,
           "title": "Appel",
           "price": 22.0,
-          "available": true,
+          "available": false,
           "sku": "3PE2AP-1"
         },
         {
@@ -1196,7 +1196,7 @@
           "id": 57554876858751,
           "title": "Passievrucht",
           "price": 38.0,
-          "available": true,
+          "available": false,
           "sku": "P7CCPV-1"
         },
         {
@@ -2359,7 +2359,7 @@
           "id": 57866615718271,
           "title": "Bloedsinaasappel 1",
           "price": 2.75,
-          "available": false,
+          "available": true,
           "sku": "RDLSBS-1"
         },
         {
@@ -2373,7 +2373,7 @@
           "id": 57866615783807,
           "title": "Citrus 1",
           "price": 2.75,
-          "available": false,
+          "available": true,
           "sku": "RDLSCI-1"
         },
         {
