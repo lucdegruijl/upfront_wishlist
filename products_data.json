@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T06:13:11.829232+00:00",
+  "last_updated": "2026-09-03T12:12:37.056117+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -440,14 +440,14 @@
           "id": 57755598127487,
           "title": "Brownie 2.0",
           "price": 19.0,
-          "available": false,
+          "available": true,
           "sku": "7GBOBR-1"
         },
         {
           "id": 58014739988863,
           "title": "Kers Choco 2.0",
           "price": 19.0,
-          "available": false,
+          "available": true,
           "sku": "7GB2KC-1"
         }
       ]
@@ -1151,7 +1151,7 @@
           "id": 57432178524543,
           "title": "Appel",
           "price": 22.0,
-          "available": false,
+          "available": true,
           "sku": "3PE2AP-1"
         },
         {
@@ -1409,7 +1409,7 @@
           "id": 56951367500159,
           "title": "Chocolade",
           "price": 10.0,
-          "available": false,
+          "available": true,
           "sku": "KGOACZ-1"
         },
         {
@@ -1515,14 +1515,14 @@
           "id": 56844299534719,
           "title": "60st",
           "price": 15.0,
-          "available": true,
+          "available": false,
           "sku": "GFSUAM-1"
         },
         {
           "id": 57736237220223,
           "title": "80st",
           "price": 18.0,
-          "available": false,
+          "available": true,
           "sku": "GFS2AM-1"
         }
       ]
