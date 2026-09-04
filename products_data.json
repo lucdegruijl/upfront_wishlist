@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T06:11:40.383558+00:00",
+  "last_updated": "2026-09-04T12:12:07.440453+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -120,30 +120,6 @@
       ]
     },
     {
-      "id": 15777907900799,
-      "title": "Eiwit IJskoffie",
-      "handle": "eiwit-ijskoffie-2",
-      "url": "https://upfront.nl/products/eiwit-ijskoffie-2",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitIjskoffieRTD_Cappuccino_PP_LoadingFrame_v1.5_1.png?v=1783615809",
-      "variants": [
-        {
-          "id": 57939826278783,
-          "title": "Cappuccino (2st)",
-          "price": 4.5,
-          "available": false,
-          "sku": "RDI2CA-2"
-        },
-        {
-          "id": 57939826311551,
-          "title": "Cappuccino 1st",
-          "price": 2.0,
-          "available": false,
-          "sku": "RDI2CA-1"
-        }
-      ]
-    },
-    {
       "id": 14944627163519,
       "title": "Pre Run",
       "handle": "pre-run",
@@ -219,30 +195,6 @@
           "price": 8.0,
           "available": true,
           "sku": "SNMDBS25-1"
-        }
-      ]
-    },
-    {
-      "id": 15012389683583,
-      "title": "BIO Alpenwhey",
-      "handle": "alpen-whey",
-      "url": "https://upfront.nl/products/alpen-whey",
-      "product_type": "Protein",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Bio_AlpenWhey_Loading_Frame.png?v=1770966909",
-      "variants": [
-        {
-          "id": 55574983508351,
-          "title": "Puur BIO",
-          "price": 28.0,
-          "available": false,
-          "sku": "7GAWPU-1"
-        },
-        {
-          "id": 55637432009087,
-          "title": "Banaan",
-          "price": 28.0,
-          "available": false,
-          "sku": "7GAWBA-1"
         }
       ]
     },
@@ -733,7 +685,7 @@
         {
           "id": 54713569870173,
           "title": "Cappuccino 300",
-          "price": 10.0,
+          "price": 16.0,
           "available": false,
           "sku": "3GWHCP-1"
         }
@@ -1389,7 +1341,7 @@
       "handle": "oats2-0",
       "url": "https://upfront.nl/products/oats2-0",
       "product_type": "Protein",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Oats_Speculaas_PP_LoadingFrame_v1_b414fc08-8a8c-4dff-ac75-68e411aa6bec.png?v=1771249953",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Oats_Chocolade_PP_LoadingFrame_v1_3e4567ba-552d-40de-a62d-b83b72858b39.png?v=1771249953",
       "variants": [
         {
           "id": 56951367205247,
@@ -1408,7 +1360,7 @@
         {
           "id": 56951367500159,
           "title": "Chocolade",
-          "price": 10.0,
+          "price": 13.0,
           "available": true,
           "sku": "KGOACZ-1"
         },
@@ -2009,45 +1961,31 @@
         },
         {
           "id": 56313786630527,
-          "title": "Framboos 50g",
+          "title": "Framboos 1",
           "price": 2.0,
           "available": true,
           "sku": "FOGLFR-1"
         },
         {
           "id": 56313786958207,
-          "title": "Framboos doosje",
+          "title": "Framboos",
           "price": 26.0,
           "available": true,
           "sku": "FOGLFR-12"
         },
         {
           "id": 56583393608063,
-          "title": "Citroen 50g",
+          "title": "Citroen 1",
           "price": 2.0,
           "available": true,
           "sku": "FOGLCI-1"
         },
         {
           "id": 56583394656639,
-          "title": "Citroen doosje",
+          "title": "Citroen",
           "price": 26.0,
           "available": true,
           "sku": "FOGLCI-12"
-        },
-        {
-          "id": 56692762542463,
-          "title": "Cassis (cafeïne) 50g",
-          "price": 2.0,
-          "available": false,
-          "sku": "FOGLCS-1"
-        },
-        {
-          "id": 56692762575231,
-          "title": "Cassis (cafeïne) doosje",
-          "price": 26.0,
-          "available": false,
-          "sku": "FOGLCS-12"
         },
         {
           "id": 57866573087103,
@@ -2382,30 +2320,6 @@
           "price": 16.0,
           "available": false,
           "sku": "RDLSCI-6"
-        }
-      ]
-    },
-    {
-      "id": 15227133559167,
-      "title": "Overnight Oats",
-      "handle": "overnight-oats-nieuw",
-      "url": "https://upfront.nl/products/overnight-oats-nieuw",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_OvernightOats_MangoKokos_00000.png?v=1770634047",
-      "variants": [
-        {
-          "id": 55823039005055,
-          "title": "Appel Kaneel",
-          "price": 12.0,
-          "available": false,
-          "sku": "KGOOAK-1"
-        },
-        {
-          "id": 55823039299967,
-          "title": "Aardbei Yoghurt",
-          "price": 12.0,
-          "available": false,
-          "sku": "KGOOAY-1"
         }
       ]
     },
@@ -2996,7 +2910,7 @@
       "handle": "oats-in-bag",
       "url": "https://upfront.nl/products/oats-in-bag",
       "product_type": "Meals",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Oats_FramboosCacao_PP_LoadingFrame_v1_1.png?v=1770020775",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_EiwitOats_AppelKaneel_v3.png?v=1776355402",
       "variants": [
         {
           "id": 39720697954366,
