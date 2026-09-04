@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T12:12:07.440453+00:00",
+  "last_updated": "2026-09-04T18:10:32.416987+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -582,7 +582,7 @@
           "id": 57311690490239,
           "title": "Mango 10st",
           "price": 18.0,
-          "available": false,
+          "available": true,
           "sku": "1PCRMA-1"
         }
       ]
@@ -1467,7 +1467,7 @@
           "id": 56844299534719,
           "title": "60st",
           "price": 15.0,
-          "available": false,
+          "available": true,
           "sku": "GFSUAM-1"
         },
         {
@@ -1498,7 +1498,7 @@
           "id": 58014765973887,
           "title": "Hazelnootpasta",
           "price": 4.5,
-          "available": false,
+          "available": true,
           "sku": "ONHPBS27-1"
         }
       ]
@@ -2292,34 +2292,6 @@
           "price": 16.0,
           "available": true,
           "sku": "RDLIPA-6"
-        },
-        {
-          "id": 57866615718271,
-          "title": "Bloedsinaasappel 1",
-          "price": 2.75,
-          "available": true,
-          "sku": "RDLSBS-1"
-        },
-        {
-          "id": 57866615751039,
-          "title": "Bloedsinaasappel 6",
-          "price": 16.0,
-          "available": false,
-          "sku": "RDLSBS-6"
-        },
-        {
-          "id": 57866615783807,
-          "title": "Citrus 1",
-          "price": 2.75,
-          "available": true,
-          "sku": "RDLSCI-1"
-        },
-        {
-          "id": 57866615816575,
-          "title": "Citrus 6",
-          "price": 16.0,
-          "available": false,
-          "sku": "RDLSCI-6"
         }
       ]
     },
@@ -2864,7 +2836,7 @@
           "id": 57094908313983,
           "title": "Neutraal",
           "price": 9.0,
-          "available": false,
+          "available": true,
           "sku": "D1E2NE-1"
         },
         {
