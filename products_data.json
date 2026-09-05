@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T18:10:32.416987+00:00",
+  "last_updated": "2026-09-05T00:14:37.415693+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -520,7 +520,7 @@
           "id": 57735751074175,
           "title": "Honing",
           "price": 5.0,
-          "available": true,
+          "available": false,
           "sku": "35PHOBS-1"
         }
       ]
