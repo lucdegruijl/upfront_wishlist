@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T12:12:05.307298+00:00",
+  "last_updated": "2026-09-07T18:10:54.262735+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -275,14 +275,14 @@
           "id": 57446439453055,
           "title": "Chocolade doosje",
           "price": 3.0,
-          "available": true,
+          "available": false,
           "sku": "FOG2CH-1"
         },
         {
           "id": 57446439485823,
           "title": "Honing doosje",
           "price": 3.0,
-          "available": true,
+          "available": false,
           "sku": "FOG2HO-1"
         }
       ]
@@ -1467,7 +1467,7 @@
           "id": 56844299534719,
           "title": "60st",
           "price": 15.0,
-          "available": true,
+          "available": false,
           "sku": "GFSUAM-1"
         },
         {
@@ -2696,13 +2696,6 @@
       "product_type": "Protein",
       "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Clear_Whey_Limonade_Zwarte_Bes.png?v=1773071116",
       "variants": [
-        {
-          "id": 50765546684765,
-          "title": "Aardbei Citroen",
-          "price": 37.0,
-          "available": false,
-          "sku": "P7CWAC-1"
-        },
         {
           "id": 50765546750301,
           "title": "Tropical",
