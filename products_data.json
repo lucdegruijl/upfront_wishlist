@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T06:13:13.948147+00:00",
+  "last_updated": "2026-09-07T12:12:05.307298+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -107,7 +107,7 @@
           "id": 57736516075903,
           "title": "Vanille",
           "price": 29.0,
-          "available": false,
+          "available": true,
           "sku": "7GVFVA-1"
         },
         {
@@ -1360,7 +1360,7 @@
         {
           "id": 56951367500159,
           "title": "Chocolade",
-          "price": 13.0,
+          "price": 10.0,
           "available": true,
           "sku": "KGOACZ-1"
         },
