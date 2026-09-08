@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T12:12:43.208818+00:00",
+  "last_updated": "2026-09-08T18:11:09.114024+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -275,7 +275,7 @@
           "id": 57446439453055,
           "title": "Chocolade doosje",
           "price": 3.0,
-          "available": true,
+          "available": false,
           "sku": "FOG2CH-1"
         },
         {
@@ -536,7 +536,7 @@
         {
           "id": 57263947874687,
           "title": "S",
-          "price": 45.0,
+          "price": 35.0,
           "available": true,
           "sku": "TSKLZS-1"
         },
@@ -2383,7 +2383,7 @@
           "id": 55558061425023,
           "title": "Groene Appel",
           "price": 29.0,
-          "available": true,
+          "available": false,
           "sku": "P3P3GA-1"
         },
         {
@@ -2979,7 +2979,7 @@
           "id": 57438090396031,
           "title": "Açai",
           "price": 10.0,
-          "available": true,
+          "available": false,
           "sku": "KGOAAC-1"
         },
         {
