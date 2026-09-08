@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T06:11:50.581868+00:00",
+  "last_updated": "2026-09-08T12:12:43.208818+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -15,7 +15,7 @@
           "id": 58263698112895,
           "title": "Reguliere Box",
           "price": 25.0,
-          "available": true,
+          "available": false,
           "sku": "1DFSRB-1"
         }
       ]
@@ -275,7 +275,7 @@
           "id": 57446439453055,
           "title": "Chocolade doosje",
           "price": 3.0,
-          "available": false,
+          "available": true,
           "sku": "FOG2CH-1"
         },
         {
@@ -1467,7 +1467,7 @@
           "id": 56844299534719,
           "title": "60st",
           "price": 15.0,
-          "available": false,
+          "available": true,
           "sku": "GFSUAM-1"
         },
         {
@@ -2241,7 +2241,7 @@
           "id": 55558364070271,
           "title": "Lychee 6",
           "price": 16.0,
-          "available": false,
+          "available": true,
           "sku": "RDLILY-6"
         },
         {
@@ -2383,7 +2383,7 @@
           "id": 55558061425023,
           "title": "Groene Appel",
           "price": 29.0,
-          "available": false,
+          "available": true,
           "sku": "P3P3GA-1"
         },
         {
@@ -2735,7 +2735,7 @@
           "id": 55266351677823,
           "title": "Zwarte Bes",
           "price": 37.0,
-          "available": true,
+          "available": false,
           "sku": "P7CWZB-1"
         },
         {
@@ -2979,7 +2979,7 @@
           "id": 57438090396031,
           "title": "Açai",
           "price": 10.0,
-          "available": false,
+          "available": true,
           "sku": "KGOAAC-1"
         },
         {
