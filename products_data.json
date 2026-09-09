@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T06:11:59.483515+00:00",
+  "last_updated": "2026-09-09T12:11:51.823157+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -275,7 +275,7 @@
           "id": 57446439453055,
           "title": "Chocolade doosje",
           "price": 3.0,
-          "available": false,
+          "available": true,
           "sku": "FOG2CH-1"
         },
         {
@@ -2735,7 +2735,7 @@
           "id": 55266351677823,
           "title": "Zwarte Bes",
           "price": 37.0,
-          "available": false,
+          "available": true,
           "sku": "P7CWZB-1"
         },
         {
