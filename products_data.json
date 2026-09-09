@@ -1,25 +1,8 @@
 {
-  "last_updated": "2026-09-09T12:11:51.823157+00:00",
+  "last_updated": "2026-09-09T18:11:29.771434+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
-    {
-      "id": 15857620222335,
-      "title": "Foodstore Reguliere Box",
-      "handle": "foodstore-reguliere-box",
-      "url": "https://upfront.nl/products/foodstore-reguliere-box",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Bundle_FoodstoreBox_PP_LoadingFrame_v2_362fa38b-2983-499e-8ed7-c2e2bb6b1731.png?v=1787601498",
-      "variants": [
-        {
-          "id": 58263698112895,
-          "title": "Reguliere Box",
-          "price": 25.0,
-          "available": false,
-          "sku": "1DFSRB-1"
-        }
-      ]
-    },
     {
       "id": 15856856629631,
       "title": "Foodstore Ontbijt Box",
@@ -270,20 +253,6 @@
           "price": 3.0,
           "available": true,
           "sku": "FOG2AP-1"
-        },
-        {
-          "id": 57446439453055,
-          "title": "Chocolade doosje",
-          "price": 3.0,
-          "available": true,
-          "sku": "FOG2CH-1"
-        },
-        {
-          "id": 57446439485823,
-          "title": "Honing doosje",
-          "price": 3.0,
-          "available": false,
-          "sku": "FOG2HO-1"
         }
       ]
     },
@@ -768,7 +737,7 @@
         {
           "id": 57124750229887,
           "title": "Framboos (V)",
-          "price": 25.0,
+          "price": 15.0,
           "available": true,
           "sku": "FOCRVF-12"
         },
@@ -932,7 +901,7 @@
         {
           "id": 58267840577919,
           "title": "Vanille Kaneel",
-          "price": 25.0,
+          "price": 20.0,
           "available": true,
           "sku": "FOCBVK-12"
         }
@@ -949,7 +918,7 @@
         {
           "id": 57124887888255,
           "title": "Pistache Framboos",
-          "price": 25.0,
+          "price": 15.0,
           "available": true,
           "sku": "F2BAPF-12"
         },
@@ -2735,7 +2704,7 @@
           "id": 55266351677823,
           "title": "Zwarte Bes",
           "price": 37.0,
-          "available": true,
+          "available": false,
           "sku": "P7CWZB-1"
         },
         {
@@ -2808,7 +2777,7 @@
           "id": 54886063112575,
           "title": "Grapefruit",
           "price": 9.0,
-          "available": false,
+          "available": true,
           "sku": "D1ELGF-1"
         },
         {
