@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T06:12:44.153928+00:00",
+  "last_updated": "2026-09-10T12:12:08.384397+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -1436,7 +1436,7 @@
           "id": 56844299534719,
           "title": "60st",
           "price": 15.0,
-          "available": true,
+          "available": false,
           "sku": "GFSUAM-1"
         },
         {
@@ -2352,7 +2352,7 @@
           "id": 55558061425023,
           "title": "Groene Appel",
           "price": 29.0,
-          "available": false,
+          "available": true,
           "sku": "P3P3GA-1"
         },
         {
