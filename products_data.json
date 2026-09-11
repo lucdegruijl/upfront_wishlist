@@ -1,8 +1,32 @@
 {
-  "last_updated": "2026-09-11T02:57:51.033793+00:00",
+  "last_updated": "2026-09-11T10:35:37.424164+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 15777907900799,
+      "title": "Eiwit IJskoffie",
+      "handle": "eiwit-ijskoffie-2",
+      "url": "https://upfront.nl/products/eiwit-ijskoffie-2",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitIjskoffieRTD_Cappuccino_PP_LoadingFrame_v1.5_1.png?v=1783615809",
+      "variants": [
+        {
+          "id": 57939826278783,
+          "title": "Cappuccino (2st)",
+          "price": 4.5,
+          "available": false,
+          "sku": "RDI2CA-2"
+        },
+        {
+          "id": 57939826311551,
+          "title": "Cappuccino 1st",
+          "price": 2.25,
+          "available": false,
+          "sku": "RDI2CA-1"
+        }
+      ]
+    },
     {
       "id": 15856856629631,
       "title": "Foodstore Ontbijt Box",
@@ -253,6 +277,20 @@
           "price": 3.0,
           "available": true,
           "sku": "FOG2AP-1"
+        },
+        {
+          "id": 57446439453055,
+          "title": "Chocolade doosje",
+          "price": 3.0,
+          "available": true,
+          "sku": "FOG2CH-1"
+        },
+        {
+          "id": 57446439485823,
+          "title": "Honing doosje",
+          "price": 3.0,
+          "available": true,
+          "sku": "FOG2HO-1"
         }
       ]
     },
@@ -406,7 +444,7 @@
           "id": 58015094833535,
           "title": "Aardbei Yuzu (2st)",
           "price": 4.5,
-          "available": true,
+          "available": false,
           "sku": "RDCAAA-2"
         },
         {
@@ -1271,7 +1309,7 @@
           "id": 56951367238015,
           "title": "Speculaas",
           "price": 10.0,
-          "available": false,
+          "available": true,
           "sku": "KGOASP-1"
         },
         {
@@ -1384,7 +1422,7 @@
           "id": 56844299534719,
           "title": "60st",
           "price": 15.0,
-          "available": false,
+          "available": true,
           "sku": "GFSUAM-1"
         },
         {
@@ -2638,7 +2676,7 @@
           "id": 55266351677823,
           "title": "Zwarte Bes",
           "price": 37.0,
-          "available": true,
+          "available": false,
           "sku": "P7CWZB-1"
         },
         {
@@ -2711,7 +2749,7 @@
           "id": 54886063112575,
           "title": "Grapefruit",
           "price": 9.0,
-          "available": true,
+          "available": false,
           "sku": "D1ELGF-1"
         },
         {
