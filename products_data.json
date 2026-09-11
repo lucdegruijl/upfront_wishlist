@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T10:35:37.424164+00:00",
+  "last_updated": "2026-09-11T15:50:55.102613+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -15,14 +15,14 @@
           "id": 57939826278783,
           "title": "Cappuccino (2st)",
           "price": 4.5,
-          "available": false,
+          "available": true,
           "sku": "RDI2CA-2"
         },
         {
           "id": 57939826311551,
           "title": "Cappuccino 1st",
           "price": 2.25,
-          "available": false,
+          "available": true,
           "sku": "RDI2CA-1"
         }
       ]
@@ -451,7 +451,7 @@
           "id": 58015094866303,
           "title": "Aardbei Yuzu (12st)",
           "price": 24.0,
-          "available": true,
+          "available": false,
           "sku": "RDCAAA-12"
         },
         {
@@ -1279,13 +1279,13 @@
       "handle": "koffiebonen",
       "url": "https://upfront.nl/products/koffiebonen",
       "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Koffiebonen_PP_LoadingFrame_v2.png?v=1786461774",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/CollectionPage_v2-WebsiteRender_KoffieBonen_Still_v1.jpg?v=1763996587",
       "variants": [
         {
           "id": 56459934925183,
           "title": "Koffiebonen",
           "price": 9.5,
-          "available": false,
+          "available": true,
           "sku": "ONKOBN45-1"
         }
       ]
@@ -1309,7 +1309,7 @@
           "id": 56951367238015,
           "title": "Speculaas",
           "price": 10.0,
-          "available": true,
+          "available": false,
           "sku": "KGOASP-1"
         },
         {
@@ -2920,7 +2920,7 @@
           "id": 57438090396031,
           "title": "Açai",
           "price": 10.0,
-          "available": false,
+          "available": true,
           "sku": "KGOAAC-1"
         },
         {
