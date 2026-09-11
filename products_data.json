@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T15:50:55.102613+00:00",
+  "last_updated": "2026-09-11T20:25:21.209043+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -282,14 +282,14 @@
           "id": 57446439453055,
           "title": "Chocolade doosje",
           "price": 3.0,
-          "available": true,
+          "available": false,
           "sku": "FOG2CH-1"
         },
         {
           "id": 57446439485823,
           "title": "Honing doosje",
           "price": 3.0,
-          "available": true,
+          "available": false,
           "sku": "FOG2HO-1"
         }
       ]
