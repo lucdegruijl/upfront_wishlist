@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T11:46:06.045120+00:00",
+  "last_updated": "2026-09-14T17:40:08.531082+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -241,7 +241,7 @@
           "id": 57736612839807,
           "title": "Banaan Choco Chip",
           "price": 50.0,
-          "available": true,
+          "available": false,
           "sku": null
         }
       ]
@@ -392,14 +392,14 @@
           "id": 56748437373311,
           "title": "Banaan Choco Chip",
           "price": 19.0,
-          "available": true,
+          "available": false,
           "sku": "7GBOBC-1"
         },
         {
           "id": 57755598127487,
           "title": "Brownie 2.0",
           "price": 24.0,
-          "available": false,
+          "available": true,
           "sku": "7GBOBR-1"
         },
         {
@@ -1531,7 +1531,7 @@
         {
           "id": 56455585104255,
           "title": "Olijfolie",
-          "price": 10.0,
+          "price": 8.0,
           "available": true,
           "sku": "SMOLBS50-1"
         }
@@ -2233,6 +2233,20 @@
           "price": 16.0,
           "available": true,
           "sku": "RDLIPA-6"
+        },
+        {
+          "id": 58429666722175,
+          "title": "Aardbei Citroen 1",
+          "price": 2.67,
+          "available": false,
+          "sku": "RDLIAC-1"
+        },
+        {
+          "id": 58429666754943,
+          "title": "Aardbei Citroen 6",
+          "price": 16.0,
+          "available": false,
+          "sku": "RDLIAC-6"
         }
       ]
     },
