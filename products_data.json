@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T03:19:40.776637+00:00",
+  "last_updated": "2026-09-14T11:46:06.045120+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -15,7 +15,7 @@
           "id": 57939826278783,
           "title": "Cappuccino (2st)",
           "price": 4.5,
-          "available": true,
+          "available": false,
           "sku": "RDI2CA-2"
         },
         {
@@ -398,14 +398,14 @@
         {
           "id": 57755598127487,
           "title": "Brownie 2.0",
-          "price": 19.0,
+          "price": 24.0,
           "available": false,
           "sku": "7GBOBR-1"
         },
         {
           "id": 58014739988863,
           "title": "Kers Choco 2.0",
-          "price": 19.0,
+          "price": 24.0,
           "available": true,
           "sku": "7GB2KC-1"
         }
@@ -521,14 +521,14 @@
       "handle": "honing",
       "url": "https://upfront.nl/products/honing",
       "product_type": "Meals",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Honing_PP_LoadingFrame_v2_f611b3d8-d9f5-408c-8809-a100cfbf173a.png?v=1781508723",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/SWebsite_Honing_ONHOBS35-1_PP_LoadingFrame_v2.png?v=1789380044",
       "variants": [
         {
-          "id": 57735751074175,
+          "id": 58015521603967,
           "title": "Honing",
           "price": 5.0,
-          "available": false,
-          "sku": "35PHOBS-1"
+          "available": true,
+          "sku": "ONHOBS35-1"
         }
       ]
     },
@@ -1422,7 +1422,7 @@
           "id": 56844299534719,
           "title": "60st",
           "price": 15.0,
-          "available": true,
+          "available": false,
           "sku": "GFSUAM-1"
         },
         {
@@ -2974,28 +2974,28 @@
         {
           "id": 39479179051070,
           "title": "Vanille",
-          "price": 38.0,
+          "price": 39.0,
           "available": true,
           "sku": "KGWHVA-1"
         },
         {
           "id": 39976722464830,
           "title": "Chocolade",
-          "price": 38.0,
+          "price": 39.0,
           "available": true,
           "sku": "KGWHCA-1"
         },
         {
           "id": 40009264201790,
           "title": "Banaan",
-          "price": 38.0,
+          "price": 39.0,
           "available": true,
           "sku": "KGWHBA-1"
         },
         {
           "id": 40009265807422,
           "title": "Aardbei",
-          "price": 38.0,
+          "price": 39.0,
           "available": true,
           "sku": "KGWHAA-1"
         },
@@ -3037,7 +3037,7 @@
         {
           "id": 54615095214429,
           "title": "Pistache",
-          "price": 38.0,
+          "price": 39.0,
           "available": false,
           "sku": "KGWHPI-1"
         },
