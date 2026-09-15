@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-09-15T03:21:29.030412+00:00",
+  "last_updated": "2026-09-15T11:03:12.297195+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 15857620222335,
+      "title": "Foodstore Reguliere Box",
+      "handle": "foodstore-reguliere-box",
+      "url": "https://upfront.nl/products/foodstore-reguliere-box",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Bundle_FoodstoreBox_PP_LoadingFrame_v2_362fa38b-2983-499e-8ed7-c2e2bb6b1731.png?v=1787601498",
+      "variants": [
+        {
+          "id": 58263698112895,
+          "title": "Reguliere Box",
+          "price": 25.0,
+          "available": true,
+          "sku": "1DFSRB-1"
+        }
+      ]
+    },
+    {
+      "id": 15657344958847,
+      "title": "Eiwit Drinks Mixdoos",
+      "handle": "mixdoos",
+      "url": "https://upfront.nl/products/mixdoos",
+      "product_type": "mix",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Mixdoos_EiwitDrinks_PP_LoadingFrame_v1.png?v=1777453653",
+      "variants": [
+        {
+          "id": 57432274108799,
+          "title": "Mixdoos",
+          "price": 12.0,
+          "available": true,
+          "sku": "RDDRMX-1"
+        }
+      ]
+    },
     {
       "id": 15777907900799,
       "title": "Eiwit IJskoffie",
@@ -72,7 +106,7 @@
         {
           "id": 57890623750527,
           "title": "Puur",
-          "price": 36.0,
+          "price": 37.0,
           "available": true,
           "sku": "KGWHPU-1"
         }
@@ -277,20 +311,6 @@
           "price": 3.0,
           "available": true,
           "sku": "FOG2AP-1"
-        },
-        {
-          "id": 57446439453055,
-          "title": "Chocolade doosje",
-          "price": 3.0,
-          "available": false,
-          "sku": "FOG2CH-1"
-        },
-        {
-          "id": 57446439485823,
-          "title": "Honing doosje",
-          "price": 3.0,
-          "available": false,
-          "sku": "FOG2HO-1"
         }
       ]
     },
@@ -305,7 +325,7 @@
         {
           "id": 57438078697855,
           "title": "Vanille",
-          "price": 38.0,
+          "price": 39.0,
           "available": true,
           "sku": "7GWCVA-1"
         }
@@ -353,21 +373,21 @@
         {
           "id": 55903707365759,
           "title": "Vanille",
-          "price": 38.0,
+          "price": 39.0,
           "available": true,
           "sku": "7GWIVA-1"
         },
         {
           "id": 55903707398527,
           "title": "Choco",
-          "price": 38.0,
+          "price": 39.0,
           "available": false,
           "sku": "7GWICA-1"
         },
         {
           "id": 55903707431295,
           "title": "Banaan",
-          "price": 38.0,
+          "price": 39.0,
           "available": false,
           "sku": "7GWIBA-1"
         }
@@ -399,7 +419,7 @@
           "id": 57755598127487,
           "title": "Brownie 2.0",
           "price": 24.0,
-          "available": false,
+          "available": true,
           "sku": "7GBOBR-1"
         },
         {
@@ -671,7 +691,7 @@
         {
           "id": 54615149347165,
           "title": "Cappuccino 700",
-          "price": 32.0,
+          "price": 38.0,
           "available": true,
           "sku": "7GWHCP-1"
         },
@@ -2238,7 +2258,7 @@
           "id": 58429666722175,
           "title": "Aardbei Citroen 1",
           "price": 2.67,
-          "available": false,
+          "available": true,
           "sku": "RDLIAC-1"
         },
         {
@@ -2613,14 +2633,14 @@
         {
           "id": 54951214121343,
           "title": "Eiwit Matcha",
-          "price": 37.0,
+          "price": 38.0,
           "available": true,
           "sku": "7GWHMA-1"
         },
         {
           "id": 55651668361599,
           "title": "Eiwit Matcha Aardbei",
-          "price": 37.0,
+          "price": 38.0,
           "available": false,
           "sku": "7GWHMB-1"
         }
