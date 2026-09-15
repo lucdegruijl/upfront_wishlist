@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T11:03:12.297195+00:00",
+  "last_updated": "2026-09-15T16:13:46.303128+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -32,7 +32,7 @@
           "id": 57432274108799,
           "title": "Mixdoos",
           "price": 12.0,
-          "available": true,
+          "available": false,
           "sku": "RDDRMX-1"
         }
       ]
@@ -880,7 +880,7 @@
           "id": 57874100420991,
           "title": "Kaneel Witte Choco",
           "price": 25.0,
-          "available": true,
+          "available": false,
           "sku": "FOC2KW-12"
         },
         {
@@ -1464,14 +1464,14 @@
       "variants": [
         {
           "id": 57434059473279,
-          "title": "Hazelnootpasta .",
+          "title": "Hazelnootpasta",
           "price": 4.5,
-          "available": false,
+          "available": true,
           "sku": "G2FBHP-1"
         },
         {
           "id": 58014765973887,
-          "title": "Hazelnootpasta",
+          "title": "Hazelnootpasta OOS",
           "price": 4.5,
           "available": false,
           "sku": "ONHPBS27-1"
@@ -1645,7 +1645,7 @@
           "id": 56483688055167,
           "title": "Puur",
           "price": 3.5,
-          "available": true,
+          "available": false,
           "sku": "ONHSPU20-1"
         }
       ]
