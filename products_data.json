@@ -1,8 +1,53 @@
 {
-  "last_updated": "2026-09-16T10:49:45.501105+00:00",
+  "last_updated": "2026-09-16T16:06:39.788358+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 15749595038079,
+      "title": "Clear Whey & Shaker 2.0",
+      "handle": "clear-whey-shaker-2-0",
+      "url": "https://upfront.nl/products/clear-whey-shaker-2-0",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Bundle_ClearWheyShaker_AardbeiCitroen-Stevia_PP_LoadingFrame_v1.png?v=1782741329",
+      "variants": [
+        {
+          "id": 57859312353663,
+          "title": "Aardbei Citroen",
+          "price": 38.0,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 57859312845183,
+          "title": "Zwarte Bes",
+          "price": 38.0,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 57859313992063,
+          "title": "Limoen Munt",
+          "price": 38.0,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 57859314057599,
+          "title": "Citrus",
+          "price": 38.0,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 57859314090367,
+          "title": "Passievrucht",
+          "price": 38.0,
+          "available": false,
+          "sku": null
+        }
+      ]
+    },
     {
       "id": 15857620222335,
       "title": "Foodstore Reguliere Box",
@@ -17,30 +62,6 @@
           "price": 25.0,
           "available": true,
           "sku": "1DFSRB-1"
-        }
-      ]
-    },
-    {
-      "id": 15777907900799,
-      "title": "Eiwit IJskoffie",
-      "handle": "eiwit-ijskoffie-2",
-      "url": "https://upfront.nl/products/eiwit-ijskoffie-2",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitIjskoffieRTD_Cappuccino_PP_LoadingFrame_v1.5_1.png?v=1783615809",
-      "variants": [
-        {
-          "id": 57939826278783,
-          "title": "Cappuccino (2st)",
-          "price": 4.5,
-          "available": false,
-          "sku": "RDI2CA-2"
-        },
-        {
-          "id": 57939826311551,
-          "title": "Cappuccino 1st",
-          "price": 2.25,
-          "available": false,
-          "sku": "RDI2CA-1"
         }
       ]
     },
@@ -2025,7 +2046,7 @@
           "id": 56067194683775,
           "title": "Shaker",
           "price": 10.0,
-          "available": false,
+          "available": true,
           "sku": "STSHTR-1"
         }
       ]
