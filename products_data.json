@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T16:06:39.788358+00:00",
+  "last_updated": "2026-09-16T20:51:27.468569+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -60,7 +60,7 @@
           "id": 58263698112895,
           "title": "Reguliere Box",
           "price": 25.0,
-          "available": true,
+          "available": false,
           "sku": "1DFSRB-1"
         }
       ]
@@ -510,7 +510,7 @@
           "id": 58219625218431,
           "title": "Witte perzik (1st)",
           "price": 2.25,
-          "available": true,
+          "available": false,
           "sku": "RDCAWP-1"
         }
       ]
@@ -2310,7 +2310,7 @@
           "id": 55908256579967,
           "title": "Pepermunt",
           "price": 6.0,
-          "available": true,
+          "available": false,
           "sku": "14CTPM-1"
         },
         {
