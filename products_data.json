@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T20:51:30.115866+00:00",
+  "last_updated": "2026-09-16T03:17:51.455024+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -485,7 +485,7 @@
           "id": 58015111774591,
           "title": "Witte Perzik (12st)",
           "price": 24.0,
-          "available": true,
+          "available": false,
           "sku": "RDCAWP-12"
         },
         {
