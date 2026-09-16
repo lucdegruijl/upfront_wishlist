@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T03:17:51.455024+00:00",
+  "last_updated": "2026-09-16T10:49:45.501105+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -17,23 +17,6 @@
           "price": 25.0,
           "available": true,
           "sku": "1DFSRB-1"
-        }
-      ]
-    },
-    {
-      "id": 15657344958847,
-      "title": "Eiwit Drinks Mixdoos",
-      "handle": "mixdoos",
-      "url": "https://upfront.nl/products/mixdoos",
-      "product_type": "mix",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Mixdoos_EiwitDrinks_PP_LoadingFrame_v1.png?v=1777453653",
-      "variants": [
-        {
-          "id": 57432274108799,
-          "title": "Mixdoos",
-          "price": 12.0,
-          "available": false,
-          "sku": "RDDRMX-1"
         }
       ]
     },
@@ -56,7 +39,7 @@
           "id": 57939826311551,
           "title": "Cappuccino 1st",
           "price": 2.25,
-          "available": true,
+          "available": false,
           "sku": "RDI2CA-1"
         }
       ]
@@ -478,7 +461,7 @@
           "id": 58015111741823,
           "title": "Witte Perzik (2st)",
           "price": 4.5,
-          "available": true,
+          "available": false,
           "sku": "RDCAWP-2"
         },
         {
