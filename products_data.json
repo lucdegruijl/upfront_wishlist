@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T10:56:24.748776+00:00",
+  "last_updated": "2026-09-17T16:13:19.560086+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -804,14 +804,14 @@
           "id": 57124783194495,
           "title": "Framboos Witte Choco",
           "price": 25.0,
-          "available": false,
+          "available": true,
           "sku": "FOCBFW-12"
         },
         {
           "id": 57124783227263,
           "title": "Framboos Witte Choco 1st",
           "price": 2.08,
-          "available": false,
+          "available": true,
           "sku": "FOCBFW-1"
         },
         {
@@ -888,14 +888,14 @@
           "id": 58267840545151,
           "title": "Vanille Kaneel 1st",
           "price": 2.08,
-          "available": false,
+          "available": true,
           "sku": "FOCBVK-1"
         },
         {
           "id": 58267840577919,
           "title": "Vanille Kaneel",
           "price": 20.0,
-          "available": false,
+          "available": true,
           "sku": "FOCBVK-12"
         }
       ]
@@ -1065,7 +1065,7 @@
           "id": 57432178524543,
           "title": "Appel",
           "price": 22.0,
-          "available": false,
+          "available": true,
           "sku": "3PE2AP-1"
         },
         {
@@ -1316,7 +1316,7 @@
           "id": 56951367238015,
           "title": "Speculaas",
           "price": 10.0,
-          "available": false,
+          "available": true,
           "sku": "KGOASP-1"
         },
         {
