@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T03:09:36.486892+00:00",
+  "last_updated": "2026-09-18T10:33:08.266245+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -29,7 +29,7 @@
           "id": 57859313992063,
           "title": "Limoen Munt",
           "price": 38.0,
-          "available": true,
+          "available": false,
           "sku": null
         },
         {
@@ -1089,7 +1089,7 @@
           "id": 56705464369535,
           "title": "Limoen Munt",
           "price": 38.0,
-          "available": true,
+          "available": false,
           "sku": "P7CCLM-1"
         },
         {
