@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T15:20:47.458626+00:00",
+  "last_updated": "2026-09-19T20:01:12.648469+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -895,7 +895,7 @@
           "id": 58267840577919,
           "title": "Vanille Kaneel",
           "price": 20.0,
-          "available": false,
+          "available": true,
           "sku": "FOCBVK-12"
         }
       ]
