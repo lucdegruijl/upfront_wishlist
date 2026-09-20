@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T03:21:50.969270+00:00",
+  "last_updated": "2026-09-20T10:36:18.511861+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -895,7 +895,7 @@
           "id": 58267840577919,
           "title": "Vanille Kaneel",
           "price": 20.0,
-          "available": true,
+          "available": false,
           "sku": "FOCBVK-12"
         }
       ]
@@ -2203,14 +2203,14 @@
           "id": 57432298258815,
           "title": "Zwarte Bes 6",
           "price": 16.0,
-          "available": true,
+          "available": false,
           "sku": "RDLIZB-6"
         },
         {
           "id": 57432298291583,
           "title": "Zwarte Bes 1",
           "price": 2.67,
-          "available": true,
+          "available": false,
           "sku": "RDLIZB-1"
         },
         {
