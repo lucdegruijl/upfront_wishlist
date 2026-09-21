@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T03:17:00.051642+00:00",
+  "last_updated": "2026-09-21T11:58:52.331485+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -1134,7 +1134,7 @@
           "id": 56627973882239,
           "title": "Magnesium",
           "price": 14.0,
-          "available": false,
+          "available": true,
           "sku": "GFSUMP-1"
         }
       ]
@@ -1953,7 +1953,7 @@
           "id": 57866573087103,
           "title": "Perzik 50g",
           "price": 2.17,
-          "available": false,
+          "available": true,
           "sku": "FOGLPE-1"
         },
         {
@@ -1967,7 +1967,7 @@
           "id": 58015187829119,
           "title": "Appel 50g",
           "price": 2.17,
-          "available": false,
+          "available": true,
           "sku": "F2GLAP-1"
         },
         {
@@ -2399,30 +2399,6 @@
           "price": 2.0,
           "available": true,
           "sku": "G5LSCG-1"
-        }
-      ]
-    },
-    {
-      "id": 15006660755839,
-      "title": "Eiwit Kokoswater",
-      "handle": "eiwit-kokoswater",
-      "url": "https://upfront.nl/products/eiwit-kokoswater",
-      "product_type": "Protein",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_Kokoswater_v2_0000.png?v=1758716886",
-      "variants": [
-        {
-          "id": 55481098076543,
-          "title": "Kokos / 700",
-          "price": 22.0,
-          "available": false,
-          "sku": "P7EKKO-1"
-        },
-        {
-          "id": 56431402549631,
-          "title": "Kokos / 300",
-          "price": 22.0,
-          "available": false,
-          "sku": "3GEKKO-1"
         }
       ]
     },
