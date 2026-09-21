@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T11:58:52.331485+00:00",
+  "last_updated": "2026-09-21T18:09:34.829312+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -766,14 +766,14 @@
           "id": 57504915521919,
           "title": "Kokos",
           "price": 25.0,
-          "available": false,
+          "available": true,
           "sku": "FOCRKO-12"
         },
         {
           "id": 57504915554687,
           "title": "Kokos 1st",
           "price": 2.08,
-          "available": false,
+          "available": true,
           "sku": "FOCRKO-1"
         },
         {
@@ -1429,7 +1429,7 @@
           "id": 56844299534719,
           "title": "60st",
           "price": 15.0,
-          "available": false,
+          "available": true,
           "sku": "GFSUAM-1"
         },
         {
@@ -1960,7 +1960,7 @@
           "id": 57866573119871,
           "title": "Perzik doosje",
           "price": 26.0,
-          "available": false,
+          "available": true,
           "sku": "FOGLPE-12"
         },
         {
@@ -1974,7 +1974,7 @@
           "id": 58015187861887,
           "title": "Appel doosje",
           "price": 26.0,
-          "available": false,
+          "available": true,
           "sku": "F2GLAP-12"
         }
       ]
