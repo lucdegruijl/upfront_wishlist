@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T10:57:02.127525+00:00",
+  "last_updated": "2026-09-22T16:15:32.704511+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -874,14 +874,14 @@
           "id": 58014768955775,
           "title": "Aardbei Yoghurt 2.0",
           "price": 25.0,
-          "available": false,
+          "available": true,
           "sku": "F2CBAY-12"
         },
         {
           "id": 58014768988543,
           "title": "Aardbei Yoghurt 1st 2.0",
           "price": 2.08,
-          "available": false,
+          "available": true,
           "sku": "F2CBAY-1"
         },
         {
@@ -1632,7 +1632,7 @@
           "id": 56483688055167,
           "title": "Puur",
           "price": 3.5,
-          "available": false,
+          "available": true,
           "sku": "ONHSPU20-1"
         }
       ]
@@ -2861,7 +2861,7 @@
           "id": 55727226028415,
           "title": "Framboos Witte Choco",
           "price": 19.0,
-          "available": true,
+          "available": false,
           "sku": "KGOAFW-1"
         },
         {
