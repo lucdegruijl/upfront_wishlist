@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T03:16:29.882172+00:00",
+  "last_updated": "2026-09-22T10:57:02.127525+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -867,7 +867,7 @@
           "id": 57874100420991,
           "title": "Kaneel Witte Choco",
           "price": 25.0,
-          "available": false,
+          "available": true,
           "sku": "FOC2KW-12"
         },
         {
@@ -1429,7 +1429,7 @@
           "id": 56844299534719,
           "title": "60st",
           "price": 15.0,
-          "available": true,
+          "available": false,
           "sku": "GFSUAM-1"
         },
         {
@@ -2252,7 +2252,7 @@
           "id": 58429666754943,
           "title": "Aardbei Citroen 6",
           "price": 16.0,
-          "available": false,
+          "available": true,
           "sku": "RDLIAC-6"
         }
       ]
@@ -2493,21 +2493,21 @@
         {
           "id": 57432218009983,
           "title": "6-pack Banaan",
-          "price": 12.0,
+          "price": 14.0,
           "available": true,
           "sku": "RDWHBA-6"
         },
         {
           "id": 57555601162623,
           "title": "6-pack Aardbei",
-          "price": 12.0,
+          "price": 14.0,
           "available": true,
           "sku": "RDWHAA-6"
         },
         {
           "id": 57555601195391,
           "title": "6-pack Vanille",
-          "price": 12.0,
+          "price": 14.0,
           "available": true,
           "sku": "RDWHVA-6"
         }
