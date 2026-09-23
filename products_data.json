@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T03:16:55.019347+00:00",
+  "last_updated": "2026-09-23T10:45:14.767245+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -96,30 +96,6 @@
           "price": 37.0,
           "available": true,
           "sku": "KGWHPU-1"
-        }
-      ]
-    },
-    {
-      "id": 15674523582847,
-      "title": "Fiber Soda",
-      "handle": "fiber-soda",
-      "url": "https://upfront.nl/products/fiber-soda",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_FiberSoda_LimoenGember_PP_LoadingFrame_v1_3a624cde-ce37-4221-b48a-c933fff2a448.png?v=1785257661",
-      "variants": [
-        {
-          "id": 57504959725951,
-          "title": "Limoen Gember",
-          "price": 8.5,
-          "available": true,
-          "sku": "RDFSGL-4"
-        },
-        {
-          "id": 57504959758719,
-          "title": "Mango Passievrucht",
-          "price": 8.5,
-          "available": true,
-          "sku": "RDFSMP-4"
         }
       ]
     },
@@ -451,41 +427,48 @@
           "id": 58015094833535,
           "title": "Aardbei Yuzu (2st)",
           "price": 4.5,
-          "available": false,
+          "available": true,
           "sku": "RDCAAA-2"
         },
         {
           "id": 58015094866303,
           "title": "Aardbei Yuzu (12st)",
-          "price": 24.0,
-          "available": false,
+          "price": 26.0,
+          "available": true,
           "sku": "RDCAAA-12"
         },
         {
           "id": 58015111741823,
           "title": "Witte Perzik (2st)",
           "price": 4.5,
-          "available": false,
+          "available": true,
           "sku": "RDCAWP-2"
         },
         {
           "id": 58015111774591,
           "title": "Witte Perzik (12st)",
-          "price": 24.0,
-          "available": false,
+          "price": 26.0,
+          "available": true,
           "sku": "RDCAWP-12"
+        },
+        {
+          "id": 58497238237567,
+          "title": "Mango (1st)",
+          "price": 2.25,
+          "available": false,
+          "sku": "B5CAMA-1"
         },
         {
           "id": 58106934231423,
           "title": "Mango (2st)",
-          "price": 4.0,
+          "price": 4.5,
           "available": false,
           "sku": "B5CAMA-2"
         },
         {
           "id": 58106934264191,
           "title": "Mango (12st)",
-          "price": 24.0,
+          "price": 26.0,
           "available": false,
           "sku": "B5CAMA-12"
         },
@@ -493,32 +476,8 @@
           "id": 58219625218431,
           "title": "Witte perzik (1st)",
           "price": 2.25,
-          "available": false,
+          "available": true,
           "sku": "RDCAWP-1"
-        }
-      ]
-    },
-    {
-      "id": 15621127373183,
-      "title": "Fiber Blend",
-      "handle": "fiber-blend",
-      "url": "https://upfront.nl/products/fiber-blend",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_FiberBlend_Sachet_Puur_PP_LoadingFrame_v2.png?v=1776245105",
-      "variants": [
-        {
-          "id": 57262532133247,
-          "title": "Puur",
-          "price": 35.0,
-          "available": true,
-          "sku": "FOFBPU-1"
-        },
-        {
-          "id": 57262532166015,
-          "title": "Sinaasappel",
-          "price": 35.0,
-          "available": true,
-          "sku": "FOFBSA-1"
         }
       ]
     },
@@ -1429,7 +1388,7 @@
           "id": 56844299534719,
           "title": "60st",
           "price": 15.0,
-          "available": false,
+          "available": true,
           "sku": "GFSUAM-1"
         },
         {
@@ -1455,13 +1414,6 @@
           "price": 4.5,
           "available": false,
           "sku": "G2FBHP-1"
-        },
-        {
-          "id": 58014765973887,
-          "title": "Hazelnootpasta OOS",
-          "price": 4.5,
-          "available": false,
-          "sku": "ONHPBS27-1"
         }
       ]
     },
@@ -2231,14 +2183,14 @@
           "id": 57504940163455,
           "title": "Passievrucht 1",
           "price": 2.67,
-          "available": true,
+          "available": false,
           "sku": "RDLIPA-1"
         },
         {
           "id": 57504940196223,
           "title": "Passievrucht 6",
           "price": 16.0,
-          "available": true,
+          "available": false,
           "sku": "RDLIPA-6"
         },
         {
