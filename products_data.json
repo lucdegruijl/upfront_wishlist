@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-09-23T10:45:14.767245+00:00",
+  "last_updated": "2026-09-23T16:04:55.017011+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 15469854261631,
+      "title": "Eiwit Oats 300g",
+      "handle": "eiwit-oats",
+      "url": "https://upfront.nl/products/eiwit-oats",
+      "product_type": "Meals",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/nw_EiwitOats_Chocolade_300g_Still_v2.png?v=1767398249",
+      "variants": [
+        {
+          "id": 56645937987967,
+          "title": "Chocolade",
+          "price": 3.0,
+          "available": true,
+          "sku": "3DOACH-1"
+        }
+      ]
+    },
     {
       "id": 15749595038079,
       "title": "Clear Whey & Shaker 2.0",
@@ -272,7 +289,7 @@
           "id": 57446439420287,
           "title": "Appel Kaneel doosje",
           "price": 3.0,
-          "available": true,
+          "available": false,
           "sku": "FOG2AP-1"
         }
       ]
@@ -389,7 +406,7 @@
           "id": 58014739988863,
           "title": "Kers Choco 2.0",
           "price": 24.0,
-          "available": true,
+          "available": false,
           "sku": "7GB2KC-1"
         }
       ]
@@ -455,7 +472,7 @@
           "id": 58497238237567,
           "title": "Mango (1st)",
           "price": 2.25,
-          "available": false,
+          "available": true,
           "sku": "B5CAMA-1"
         },
         {
@@ -2141,7 +2158,7 @@
           "id": 55558364070271,
           "title": "Lychee 6",
           "price": 16.0,
-          "available": false,
+          "available": true,
           "sku": "RDLILY-6"
         },
         {
@@ -2155,14 +2172,14 @@
           "id": 57432298258815,
           "title": "Zwarte Bes 6",
           "price": 16.0,
-          "available": false,
+          "available": true,
           "sku": "RDLIZB-6"
         },
         {
           "id": 57432298291583,
           "title": "Zwarte Bes 1",
           "price": 2.67,
-          "available": false,
+          "available": true,
           "sku": "RDLIZB-1"
         },
         {
@@ -2183,14 +2200,14 @@
           "id": 57504940163455,
           "title": "Passievrucht 1",
           "price": 2.67,
-          "available": false,
+          "available": true,
           "sku": "RDLIPA-1"
         },
         {
           "id": 57504940196223,
           "title": "Passievrucht 6",
           "price": 16.0,
-          "available": false,
+          "available": true,
           "sku": "RDLIPA-6"
         },
         {
