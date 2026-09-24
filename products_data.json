@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-09-24T03:06:36.039448+00:00",
+  "last_updated": "2026-09-24T11:05:41.059905+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 15796860289407,
+      "title": "Gel Try-Out Box",
+      "handle": "gel-mixdoos",
+      "url": "https://upfront.nl/products/gel-mixdoos",
+      "product_type": "mix",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_GelsMixdoos_PP_LoadingFrame_v3.png?v=1790234469",
+      "variants": [
+        {
+          "id": 58015217385855,
+          "title": "Gel Try-Out Box",
+          "price": 28.0,
+          "available": true,
+          "sku": "FOGLMX-1"
+        }
+      ]
+    },
     {
       "id": 15469854261631,
       "title": "Eiwit Oats 300g",
@@ -17,6 +34,30 @@
           "price": 3.0,
           "available": true,
           "sku": "3DOACH-1"
+        }
+      ]
+    },
+    {
+      "id": 15674524139903,
+      "title": "Electrolytes RTD",
+      "handle": "electrolytes-rtd",
+      "url": "https://upfront.nl/products/electrolytes-rtd",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_ElectrolytesRTD_MangoPassievrucht_PP_LoadingFrame_v1.png?v=1789735862",
+      "variants": [
+        {
+          "id": 58455967662463,
+          "title": "Mango Passievrucht 4",
+          "price": 7.5,
+          "available": true,
+          "sku": "RDELMP-4"
+        },
+        {
+          "id": 58455975231871,
+          "title": "Citrus 4",
+          "price": 7.5,
+          "available": true,
+          "sku": "RDE2CI-4"
         }
       ]
     },
@@ -1125,14 +1166,14 @@
       "variants": [
         {
           "id": 56617510076799,
-          "title": "Maple Syrup",
+          "title": "Maple Syrup 1",
           "price": 2.42,
           "available": true,
           "sku": "FOGNES-1"
         },
         {
           "id": 56617510109567,
-          "title": "Maple Syrup doosje",
+          "title": "Maple Syrup",
           "price": 29.0,
           "available": true,
           "sku": "FOGNES-12"
@@ -1149,42 +1190,42 @@
       "variants": [
         {
           "id": 56617513288063,
-          "title": "Appel",
+          "title": "Appel 1",
           "price": 2.33,
           "available": true,
           "sku": "FOGPAP-1"
         },
         {
           "id": 56617513320831,
-          "title": "Appel doosje",
+          "title": "Appel",
           "price": 28.0,
           "available": true,
           "sku": "FOGPAP-12"
         },
         {
           "id": 56617513353599,
-          "title": "Limoen Munt (ice)",
+          "title": "Limoen Munt (ice) 1",
           "price": 2.33,
           "available": true,
           "sku": "FOGPLM-1"
         },
         {
           "id": 56617513386367,
-          "title": "Limoen Munt (ice) doosje",
+          "title": "Limoen Munt (ice)",
           "price": 28.0,
           "available": true,
           "sku": "FOGPLM-12"
         },
         {
           "id": 56617513419135,
-          "title": "Citrus (cafeïne)",
+          "title": "Citrus (cafeïne) 1",
           "price": 2.33,
           "available": true,
           "sku": "FOGPCI-1"
         },
         {
           "id": 56617513451903,
-          "title": "Citrus (cafeïne) doosje",
+          "title": "Citrus (cafeïne)",
           "price": 28.0,
           "available": true,
           "sku": "FOGPCI-12"
@@ -1927,7 +1968,7 @@
         },
         {
           "id": 57866573119871,
-          "title": "Perzik doosje",
+          "title": "Perzik",
           "price": 26.0,
           "available": true,
           "sku": "FOGLPE-12"
@@ -1941,7 +1982,7 @@
         },
         {
           "id": 58015187861887,
-          "title": "Appel doosje",
+          "title": "Appel",
           "price": 26.0,
           "available": true,
           "sku": "F2GLAP-12"
@@ -2501,7 +2542,7 @@
           "id": 55112139309439,
           "title": "Aardbei Citroen",
           "price": 35.0,
-          "available": true,
+          "available": false,
           "sku": "5GCOAC-1"
         }
       ]
