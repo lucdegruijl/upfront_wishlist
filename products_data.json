@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T11:05:41.059905+00:00",
+  "last_updated": "2026-09-24T16:29:07.040848+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -462,80 +462,59 @@
       "variants": [
         {
           "id": 57374957961599,
-          "title": "Zwarte Bes (2st)",
+          "title": "Zwarte Bes",
           "price": 4.5,
           "available": true,
           "sku": "RDCAZB-2"
         },
         {
-          "id": 57375268700543,
-          "title": "Zwarte Bes (1st)",
-          "price": 2.25,
-          "available": true,
-          "sku": "RDCAZB-1"
-        },
-        {
           "id": 57438246568319,
-          "title": "Zwarte Bes (12st)",
-          "price": 24.0,
+          "title": "Zwarte Bes 12",
+          "price": 26.0,
           "available": true,
           "sku": "RDCAZB-12"
         },
         {
           "id": 58015094833535,
-          "title": "Aardbei Yuzu (2st)",
+          "title": "Aardbei Yuzu",
           "price": 4.5,
           "available": true,
           "sku": "RDCAAA-2"
         },
         {
           "id": 58015094866303,
-          "title": "Aardbei Yuzu (12st)",
+          "title": "Aardbei Yuzu 12",
           "price": 26.0,
           "available": true,
           "sku": "RDCAAA-12"
         },
         {
           "id": 58015111741823,
-          "title": "Witte Perzik (2st)",
+          "title": "Witte Perzik",
           "price": 4.5,
           "available": true,
           "sku": "RDCAWP-2"
         },
         {
           "id": 58015111774591,
-          "title": "Witte Perzik (12st)",
+          "title": "Witte Perzik 12",
           "price": 26.0,
           "available": true,
           "sku": "RDCAWP-12"
         },
         {
-          "id": 58497238237567,
-          "title": "Mango (1st)",
-          "price": 2.25,
-          "available": true,
-          "sku": "B5CAMA-1"
-        },
-        {
           "id": 58106934231423,
-          "title": "Mango (2st)",
+          "title": "Mango",
           "price": 4.5,
-          "available": false,
+          "available": true,
           "sku": "B5CAMA-2"
         },
         {
           "id": 58106934264191,
-          "title": "Mango (12st)",
+          "title": "Mango 12",
           "price": 26.0,
-          "available": false,
-          "sku": "B5CAMA-12"
-        },
-        {
-          "id": 58219625218431,
-          "title": "Witte perzik (1st)",
-          "price": 2.25,
           "available": true,
-          "sku": "RDCAWP-1"
+          "sku": "B5CAMA-12"
         }
       ]
     },
@@ -2542,7 +2521,7 @@
           "id": 55112139309439,
           "title": "Aardbei Citroen",
           "price": 35.0,
-          "available": false,
+          "available": true,
           "sku": "5GCOAC-1"
         }
       ]
