@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T21:07:47.056002+00:00",
+  "last_updated": "2026-09-25T03:23:31.981049+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -73,7 +73,7 @@
           "id": 57859312353663,
           "title": "Aardbei Citroen",
           "price": 38.0,
-          "available": true,
+          "available": false,
           "sku": null
         },
         {
@@ -1092,7 +1092,7 @@
           "id": 56705464402303,
           "title": "Aardbei Citroen",
           "price": 38.0,
-          "available": true,
+          "available": false,
           "sku": "P7CCAC-1"
         },
         {
