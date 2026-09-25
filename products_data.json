@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T11:07:06.914379+00:00",
+  "last_updated": "2026-09-25T16:30:44.030459+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -101,7 +101,7 @@
           "id": 57859314090367,
           "title": "Passievrucht",
           "price": 38.0,
-          "available": false,
+          "available": true,
           "sku": null
         }
       ]
@@ -169,7 +169,7 @@
           "id": 57736516075903,
           "title": "Vanille",
           "price": 29.0,
-          "available": false,
+          "available": true,
           "sku": "7GVFVA-1"
         },
         {
@@ -1106,7 +1106,7 @@
           "id": 57554876858751,
           "title": "Passievrucht",
           "price": 38.0,
-          "available": false,
+          "available": true,
           "sku": "P7CCPV-1"
         },
         {
@@ -2892,7 +2892,7 @@
           "id": 57343794315647,
           "title": "Framboos Cacao (V)",
           "price": 19.0,
-          "available": true,
+          "available": false,
           "sku": "KGVOFC-1"
         },
         {
