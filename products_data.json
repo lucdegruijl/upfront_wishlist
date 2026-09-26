@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T03:28:41.021563+00:00",
+  "last_updated": "2026-09-26T10:48:00.076681+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -2521,7 +2521,7 @@
           "id": 55112139309439,
           "title": "Aardbei Citroen",
           "price": 35.0,
-          "available": true,
+          "available": false,
           "sku": "5GCOAC-1"
         }
       ]
