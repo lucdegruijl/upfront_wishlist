@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T03:37:40.106211+00:00",
+  "last_updated": "2026-09-27T11:23:03.843313+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -80,7 +80,7 @@
           "id": 57859312845183,
           "title": "Zwarte Bes",
           "price": 38.0,
-          "available": true,
+          "available": false,
           "sku": null
         },
         {
@@ -907,7 +907,7 @@
         {
           "id": 57124887888255,
           "title": "Pistache Framboos",
-          "price": 15.0,
+          "price": 12.0,
           "available": true,
           "sku": "F2BAPF-12"
         },
@@ -1113,7 +1113,7 @@
           "id": 57554884985215,
           "title": "Zwarte Bes",
           "price": 38.0,
-          "available": true,
+          "available": false,
           "sku": "P7CCZB-1"
         }
       ]
