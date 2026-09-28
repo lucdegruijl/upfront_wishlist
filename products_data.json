@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T03:36:01.420209+00:00",
+  "last_updated": "2026-09-28T12:53:15.317737+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -274,30 +274,6 @@
           "price": 29.0,
           "available": true,
           "sku": "GFSUPM-1"
-        }
-      ]
-    },
-    {
-      "id": 15717912576383,
-      "title": "Baked Oats 2.1kg",
-      "handle": "baked-oats-3-pack",
-      "url": "https://upfront.nl/products/baked-oats-3-pack",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_OatsBaked_BlauweBes_PP_LoadingFrame_v1.png?v=1773384433",
-      "variants": [
-        {
-          "id": 57736612807039,
-          "title": "Blauwe Bes",
-          "price": 50.0,
-          "available": true,
-          "sku": null
-        },
-        {
-          "id": 57736612839807,
-          "title": "Banaan Choco Chip",
-          "price": 50.0,
-          "available": false,
-          "sku": null
         }
       ]
     },
@@ -2728,7 +2704,7 @@
           "id": 54886063112575,
           "title": "Grapefruit",
           "price": 9.0,
-          "available": false,
+          "available": true,
           "sku": "D1ELGF-1"
         },
         {
@@ -2786,6 +2762,13 @@
           "price": 9.0,
           "available": true,
           "sku": "D1E2CI-1"
+        },
+        {
+          "id": 58279981285759,
+          "title": "Watermeloen",
+          "price": 9.0,
+          "available": true,
+          "sku": "D1ELWM-1"
         }
       ]
     },
@@ -2898,7 +2881,7 @@
         {
           "id": 57438090396031,
           "title": "Açai",
-          "price": 10.0,
+          "price": 19.0,
           "available": true,
           "sku": "KGOAAC-1"
         },
