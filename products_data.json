@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T12:53:15.317737+00:00",
+  "last_updated": "2026-09-28T22:55:24.366591+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -2196,14 +2196,14 @@
           "id": 57504940163455,
           "title": "Passievrucht 1",
           "price": 2.67,
-          "available": true,
+          "available": false,
           "sku": "RDLIPA-1"
         },
         {
           "id": 57504940196223,
           "title": "Passievrucht 6",
           "price": 16.0,
-          "available": true,
+          "available": false,
           "sku": "RDLIPA-6"
         },
         {
