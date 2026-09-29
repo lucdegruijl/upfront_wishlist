@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T04:11:20.434655+00:00",
+  "last_updated": "2026-09-29T12:06:45.854684+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -17,23 +17,6 @@
           "price": 28.0,
           "available": true,
           "sku": "FOGLMX-1"
-        }
-      ]
-    },
-    {
-      "id": 15469854261631,
-      "title": "Eiwit Oats 300g",
-      "handle": "eiwit-oats",
-      "url": "https://upfront.nl/products/eiwit-oats",
-      "product_type": "Meals",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/nw_EiwitOats_Chocolade_300g_Still_v2.png?v=1767398249",
-      "variants": [
-        {
-          "id": 56645937987967,
-          "title": "Chocolade",
-          "price": 3.0,
-          "available": true,
-          "sku": "3DOACH-1"
         }
       ]
     },
@@ -120,23 +103,6 @@
           "price": 35.0,
           "available": true,
           "sku": "1DFSOB-1"
-        }
-      ]
-    },
-    {
-      "id": 15479768187263,
-      "title": "Eiwit Kokoswater 300g",
-      "handle": "eiwit-kokoswater-300g",
-      "url": "https://upfront.nl/products/eiwit-kokoswater-300g",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/IMG_9536.png?v=1767537725",
-      "variants": [
-        {
-          "id": 56676165943679,
-          "title": "Kokos",
-          "price": 13.0,
-          "available": true,
-          "sku": "3GEKKO-1"
         }
       ]
     },
@@ -883,7 +849,7 @@
         {
           "id": 57124887888255,
           "title": "Pistache Framboos",
-          "price": 12.0,
+          "price": 25.0,
           "available": true,
           "sku": "F2BAPF-12"
         },
@@ -1266,58 +1232,6 @@
           "price": 9.5,
           "available": true,
           "sku": "ONKOBN45-1"
-        }
-      ]
-    },
-    {
-      "id": 15551534662015,
-      "title": "Oats",
-      "handle": "oats2-0",
-      "url": "https://upfront.nl/products/oats2-0",
-      "product_type": "Protein",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Oats_Chocolade_PP_LoadingFrame_v1_3e4567ba-552d-40de-a62d-b83b72858b39.png?v=1771249953",
-      "variants": [
-        {
-          "id": 56951367205247,
-          "title": "Appel Kaneel",
-          "price": 13.0,
-          "available": false,
-          "sku": "KGOAAK-1"
-        },
-        {
-          "id": 56951367238015,
-          "title": "Speculaas",
-          "price": 10.0,
-          "available": false,
-          "sku": "KGOASP-1"
-        },
-        {
-          "id": 56951367500159,
-          "title": "Chocolade",
-          "price": 10.0,
-          "available": false,
-          "sku": "KGOACZ-1"
-        },
-        {
-          "id": 56951367926143,
-          "title": "Pistache Framboos",
-          "price": 10.0,
-          "available": false,
-          "sku": "KGOAPF-1"
-        },
-        {
-          "id": 56967134740863,
-          "title": "Vanille",
-          "price": 16.0,
-          "available": false,
-          "sku": null
-        },
-        {
-          "id": 57917645095295,
-          "title": "Chocolade 300gr",
-          "price": 10.4,
-          "available": false,
-          "sku": "3GOACZ-1"
         }
       ]
     },
