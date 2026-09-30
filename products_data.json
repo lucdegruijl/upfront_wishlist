@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T03:56:39.175143+00:00",
+  "last_updated": "2026-09-30T11:54:22.868545+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -375,14 +375,14 @@
           "id": 56748437373311,
           "title": "Banaan Choco Chip",
           "price": 19.0,
-          "available": false,
+          "available": true,
           "sku": "7GBOBC-1"
         },
         {
           "id": 57755598127487,
           "title": "Brownie 2.0",
           "price": 24.0,
-          "available": false,
+          "available": true,
           "sku": "7GBOBR-1"
         },
         {
