@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T11:54:22.868545+00:00",
+  "last_updated": "2026-09-30T17:35:41.622295+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -272,7 +272,7 @@
           "id": 57446439420287,
           "title": "Appel Kaneel doosje",
           "price": 3.0,
-          "available": false,
+          "available": true,
           "sku": "FOG2AP-1"
         }
       ]
@@ -1337,10 +1337,17 @@
       "variants": [
         {
           "id": 57434059473279,
-          "title": "Hazelnootpasta",
+          "title": "Hazelnootpasta.",
           "price": 4.5,
           "available": false,
           "sku": "G2FBHP-1"
+        },
+        {
+          "id": 58014765973887,
+          "title": "Hazelnootpasta",
+          "price": 4.5,
+          "available": true,
+          "sku": "ONHPBS27-1"
         }
       ]
     },
@@ -2747,7 +2754,7 @@
           "id": 55727226028415,
           "title": "Framboos Witte Choco",
           "price": 19.0,
-          "available": false,
+          "available": true,
           "sku": "KGOAFW-1"
         },
         {
