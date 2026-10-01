@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T12:25:17.713497+00:00",
+  "last_updated": "2026-10-01T22:19:55.803794+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -647,7 +647,7 @@
         {
           "id": 57124750131583,
           "title": "Pinda Zeezout",
-          "price": 25.0,
+          "price": 20.0,
           "available": true,
           "sku": "FOCRPZ-12"
         },
