@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T04:16:37.824899+00:00",
+  "last_updated": "2026-10-04T11:46:13.828188+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -1247,7 +1247,7 @@
           "id": 56844757369215,
           "title": "60st",
           "price": 14.0,
-          "available": true,
+          "available": false,
           "sku": "GFSUVD-1"
         }
       ]
