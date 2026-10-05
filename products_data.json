@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T04:00:43.408887+00:00",
+  "last_updated": "2026-10-05T13:34:47.197028+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -101,7 +101,7 @@
           "id": 58267331625343,
           "title": "Ontbijt Box",
           "price": 35.0,
-          "available": false,
+          "available": true,
           "sku": "1DFSOB-1"
         }
       ]
