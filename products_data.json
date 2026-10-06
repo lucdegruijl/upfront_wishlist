@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T12:44:10.014549+00:00",
+  "last_updated": "2026-10-06T22:19:06.110828+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -337,7 +337,7 @@
           "id": 55903707365759,
           "title": "Vanille",
           "price": 39.0,
-          "available": true,
+          "available": false,
           "sku": "7GWIVA-1"
         },
         {
