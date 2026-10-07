@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T12:37:55.683518+00:00",
+  "last_updated": "2026-10-07T22:41:04.586946+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -1240,7 +1240,7 @@
           "id": 56459934925183,
           "title": "Koffiebonen",
           "price": 9.5,
-          "available": true,
+          "available": false,
           "sku": "ONKOBN45-1"
         }
       ]
@@ -2597,7 +2597,7 @@
           "id": 55558458245503,
           "title": "Lychee Yuzu",
           "price": 30.0,
-          "available": true,
+          "available": false,
           "sku": "P7CWLY-1"
         },
         {
