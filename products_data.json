@@ -1,8 +1,56 @@
 {
-  "last_updated": "2026-10-07T04:15:55.425813+00:00",
+  "last_updated": "2026-10-07T12:37:55.683518+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 15621127373183,
+      "title": "Fiber Blend",
+      "handle": "fiber-blend",
+      "url": "https://upfront.nl/products/fiber-blend",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_FiberBlend_Sachet_Puur_PP_LoadingFrame_v2.png?v=1776245105",
+      "variants": [
+        {
+          "id": 57262532133247,
+          "title": "Puur",
+          "price": 35.0,
+          "available": true,
+          "sku": "FOFBPU-1"
+        },
+        {
+          "id": 57262532166015,
+          "title": "Sinaasappel",
+          "price": 35.0,
+          "available": true,
+          "sku": "FOFBSA-1"
+        }
+      ]
+    },
+    {
+      "id": 15674523582847,
+      "title": "Fiber Soda",
+      "handle": "fiber-soda",
+      "url": "https://upfront.nl/products/fiber-soda",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_FiberSoda_LimoenGember_PP_LoadingFrame_v1_3a624cde-ce37-4221-b48a-c933fff2a448.png?v=1785257661",
+      "variants": [
+        {
+          "id": 57504959725951,
+          "title": "Limoen Gember",
+          "price": 8.5,
+          "available": true,
+          "sku": "RDFSGL-4"
+        },
+        {
+          "id": 57504959758719,
+          "title": "Mango Passievrucht",
+          "price": 8.5,
+          "available": true,
+          "sku": "RDFSMP-4"
+        }
+      ]
+    },
     {
       "id": 15796860289407,
       "title": "Gel Try-Out Box",
@@ -155,13 +203,6 @@
       "product_type": "Sport Supplements",
       "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_PreRun_Aardbei_00000_d03bfb5d-6fe9-42ae-b3dd-20a9f4774339.png?v=1758198475",
       "variants": [
-        {
-          "id": 55112117715327,
-          "title": "Sinaasappel",
-          "price": 8.0,
-          "available": false,
-          "sku": "D7PRSI-1"
-        },
         {
           "id": 55112117748095,
           "title": "Aardbei",
@@ -322,37 +363,6 @@
           "price": 20.0,
           "available": true,
           "sku": "RDIJMA-12"
-        }
-      ]
-    },
-    {
-      "id": 15245084131711,
-      "title": "Whey Isolaat",
-      "handle": "whey-isolaat",
-      "url": "https://upfront.nl/products/whey-isolaat",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitIsolaat_Vanille_PP_LoadingFrame_v2.png?v=1786000366",
-      "variants": [
-        {
-          "id": 55903707365759,
-          "title": "Vanille",
-          "price": 39.0,
-          "available": false,
-          "sku": "7GWIVA-1"
-        },
-        {
-          "id": 55903707398527,
-          "title": "Choco",
-          "price": 39.0,
-          "available": false,
-          "sku": "7GWICA-1"
-        },
-        {
-          "id": 55903707431295,
-          "title": "Banaan",
-          "price": 39.0,
-          "available": false,
-          "sku": "7GWIBA-1"
         }
       ]
     },
@@ -2072,6 +2082,13 @@
           "sku": "RDLICM-6"
         },
         {
+          "id": 55558364037503,
+          "title": "Lychee 1",
+          "price": 2.67,
+          "available": true,
+          "sku": "RDLILY-1"
+        },
+        {
           "id": 55558364070271,
           "title": "Lychee 6",
           "price": 16.0,
@@ -2207,7 +2224,7 @@
           "id": 55569800003967,
           "title": "Citroen",
           "price": 3.0,
-          "available": true,
+          "available": false,
           "sku": "14CTCI-1"
         },
         {
@@ -2373,14 +2390,14 @@
           "id": 57432217977215,
           "title": "Banaan 1st",
           "price": 2.0,
-          "available": true,
+          "available": false,
           "sku": "RDWHBA-1"
         },
         {
           "id": 57432218009983,
           "title": "6-pack Banaan",
           "price": 14.0,
-          "available": true,
+          "available": false,
           "sku": "RDWHBA-6"
         },
         {
