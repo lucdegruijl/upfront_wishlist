@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T04:28:00.659390+00:00",
+  "last_updated": "2026-10-08T12:47:51.757992+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -392,7 +392,7 @@
           "id": 57755598127487,
           "title": "Brownie 2.0",
           "price": 24.0,
-          "available": true,
+          "available": false,
           "sku": "7GBOBR-1"
         },
         {
@@ -1257,7 +1257,7 @@
           "id": 56844757369215,
           "title": "60st",
           "price": 14.0,
-          "available": false,
+          "available": true,
           "sku": "GFSUVD-1"
         }
       ]
@@ -2390,14 +2390,14 @@
           "id": 57432217977215,
           "title": "Banaan 1st",
           "price": 2.0,
-          "available": false,
+          "available": true,
           "sku": "RDWHBA-1"
         },
         {
           "id": 57432218009983,
           "title": "6-pack Banaan",
           "price": 14.0,
-          "available": false,
+          "available": true,
           "sku": "RDWHBA-6"
         },
         {
