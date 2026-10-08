@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T12:47:51.757992+00:00",
+  "last_updated": "2026-10-08T22:52:13.910794+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -149,7 +149,7 @@
           "id": 58267331625343,
           "title": "Ontbijt Box",
           "price": 35.0,
-          "available": true,
+          "available": false,
           "sku": "1DFSOB-1"
         }
       ]
@@ -346,7 +346,7 @@
         {
           "id": 57431986143615,
           "title": "Matcha (2st)",
-          "price": 4.5,
+          "price": 2.3,
           "available": true,
           "sku": "RDIJMA-2"
         },
