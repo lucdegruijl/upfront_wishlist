@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T04:17:29.243615+00:00",
+  "last_updated": "2026-10-10T11:53:45.421071+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -375,7 +375,7 @@
           "id": 57755598127487,
           "title": "Brownie 2.0",
           "price": 24.0,
-          "available": false,
+          "available": true,
           "sku": "7GBOBR-1"
         },
         {
