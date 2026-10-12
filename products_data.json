@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-10-12T04:17:29.164754+00:00",
+  "last_updated": "2026-10-12T14:23:59.369205+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 15722254238079,
+      "title": "Electrolytes Mixdoos",
+      "handle": "electrolytes-mixdoos",
+      "url": "https://upfront.nl/products/electrolytes-mixdoos",
+      "product_type": "mix",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Electrolytes2.0_Mixdoos_PP_LoadingFrame_v1.png?v=1791792721",
+      "variants": [
+        {
+          "id": 57755718877567,
+          "title": "Mixdoos 30st",
+          "price": 22.0,
+          "available": true,
+          "sku": "D3ELMX-1"
+        }
+      ]
+    },
     {
       "id": 15621127373183,
       "title": "Fiber Blend",
@@ -661,8 +678,8 @@
         {
           "id": 57124750229887,
           "title": "Framboos (V)",
-          "price": 15.0,
-          "available": false,
+          "price": 25.0,
+          "available": true,
           "sku": "FOCRVF-12"
         },
         {
@@ -690,7 +707,7 @@
           "id": 57124750360959,
           "title": "Framboos (V) 1st",
           "price": 2.08,
-          "available": false,
+          "available": true,
           "sku": "FOCRVF-1"
         },
         {
@@ -798,7 +815,7 @@
           "id": 57874100420991,
           "title": "Kaneel Witte Choco",
           "price": 25.0,
-          "available": true,
+          "available": false,
           "sku": "FOC2KW-12"
         },
         {
@@ -870,7 +887,7 @@
         {
           "id": 57124888019327,
           "title": "Pecan Maple (V)",
-          "price": 25.0,
+          "price": 20.0,
           "available": true,
           "sku": "FOVBPM-12"
         },
@@ -884,7 +901,7 @@
         {
           "id": 57124888084863,
           "title": "Choco Chip (V)",
-          "price": 25.0,
+          "price": 20.0,
           "available": true,
           "sku": "FOVBCC-12"
         },
@@ -1350,7 +1367,7 @@
       "handle": "chiapudding",
       "url": "https://upfront.nl/products/chiapudding",
       "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Chiapudding_CacaoFramboos_PP_LoadingFrame_v2_95c60738-aa51-4a16-b25d-d8ce1fd6e2cf.png?v=1782634978",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Chiapudding_KiwiKokos_PP_LoadingFrame_v2_bcd3793b-00f5-4837-8c8e-a8291e4895f5.png?v=1782635000",
       "variants": [
         {
           "id": 56762197082495,
@@ -1511,7 +1528,7 @@
           "id": 56483688055167,
           "title": "Puur",
           "price": 3.5,
-          "available": true,
+          "available": false,
           "sku": "ONHSPU20-1"
         }
       ]
