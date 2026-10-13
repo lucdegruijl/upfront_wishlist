@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T00:07:22.267841+00:00",
+  "last_updated": "2026-10-13T13:33:05.677857+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -887,7 +887,7 @@
         {
           "id": 57124888019327,
           "title": "Pecan Maple (V)",
-          "price": 20.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOVBPM-12"
         },
