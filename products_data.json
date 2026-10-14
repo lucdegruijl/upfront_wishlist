@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T11:09:45.120325+00:00",
+  "last_updated": "2026-10-14T16:30:41.220405+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -121,7 +121,7 @@
           "id": 57859312353663,
           "title": "Aardbei Citroen",
           "price": 38.0,
-          "available": false,
+          "available": true,
           "sku": null
         },
         {
@@ -135,7 +135,7 @@
           "id": 57859313992063,
           "title": "Limoen Munt",
           "price": 38.0,
-          "available": false,
+          "available": true,
           "sku": null
         },
         {
@@ -165,7 +165,7 @@
         {
           "id": 57890623750527,
           "title": "Puur",
-          "price": 37.0,
+          "price": 39.0,
           "available": true,
           "sku": "KGWHPU-1"
         }
@@ -223,28 +223,28 @@
         {
           "id": 54959783444863,
           "title": "Vanille",
-          "price": 11.0,
+          "price": 9.0,
           "available": true,
           "sku": "P1F2VA-1"
         },
         {
           "id": 57504949666175,
           "title": "Speculoos",
-          "price": 11.0,
+          "price": 9.0,
           "available": true,
           "sku": "P1F2SP-1"
         },
         {
           "id": 57504949698943,
           "title": "Passievrucht Perzik [ARCHIVED]",
-          "price": 11.0,
+          "price": 9.0,
           "available": false,
           "sku": "P1F2PP-1"
         },
         {
           "id": 57755692302719,
           "title": "Passievrucht Perzik",
-          "price": 11.0,
+          "price": 9.0,
           "available": true,
           "sku": "P1FPPP-1"
         }
@@ -1037,14 +1037,14 @@
           "id": 56705464369535,
           "title": "Limoen Munt",
           "price": 38.0,
-          "available": false,
+          "available": true,
           "sku": "P7CCLM-1"
         },
         {
           "id": 56705464402303,
           "title": "Aardbei Citroen",
           "price": 38.0,
-          "available": false,
+          "available": true,
           "sku": "P7CCAC-1"
         },
         {
@@ -1081,7 +1081,7 @@
         {
           "id": 56627973882239,
           "title": "Magnesium",
-          "price": 14.0,
+          "price": 15.0,
           "available": true,
           "sku": "GFSUMP-1"
         }
@@ -1273,7 +1273,7 @@
         {
           "id": 56844742525311,
           "title": "30st",
-          "price": 19.0,
+          "price": 15.0,
           "available": true,
           "sku": "GFSUO3-1"
         }
@@ -1451,35 +1451,35 @@
         {
           "id": 56335524921727,
           "title": "Zure Kers",
-          "price": 27.0,
+          "price": 29.0,
           "available": true,
           "sku": "P3PUZK-1"
         },
         {
           "id": 56335524954495,
           "title": "Zwarte Bes",
-          "price": 27.0,
+          "price": 29.0,
           "available": true,
           "sku": "P3PUZB-1"
         },
         {
           "id": 56619685380479,
           "title": "Citrus",
-          "price": 27.0,
+          "price": 29.0,
           "available": true,
           "sku": "P3PUCI-1"
         },
         {
           "id": 57366956376447,
           "title": "Mango Chili",
-          "price": 27.0,
+          "price": 29.0,
           "available": true,
           "sku": "P3PUMC-1"
         },
         {
           "id": 57755734507903,
           "title": "Aardbei Yuzu",
-          "price": 27.0,
+          "price": 29.0,
           "available": true,
           "sku": "35PPUAA-1"
         }
@@ -1900,7 +1900,7 @@
         {
           "id": 48831390810461,
           "title": "Citroen",
-          "price": 11.0,
+          "price": 12.0,
           "available": true,
           "sku": "P4IDCI-1"
         },
@@ -2195,8 +2195,8 @@
         {
           "id": 55908256579967,
           "title": "Pepermunt",
-          "price": 6.0,
-          "available": false,
+          "price": 5.0,
+          "available": true,
           "sku": "14CTPM-1"
         },
         {
@@ -2230,7 +2230,7 @@
         {
           "id": 55569800036735,
           "title": "Pepermunt 16",
-          "price": 6.0,
+          "price": 5.0,
           "available": false,
           "sku": "14CTPM-3"
         }
@@ -2248,7 +2248,7 @@
           "id": 55558061425023,
           "title": "Groene Appel",
           "price": 29.0,
-          "available": false,
+          "available": true,
           "sku": "P3P3GA-1"
         },
         {
@@ -2427,14 +2427,14 @@
         {
           "id": 55112139342207,
           "title": "100% Collageen",
-          "price": 35.0,
+          "price": 27.0,
           "available": true,
           "sku": "5GCOPU-1"
         },
         {
           "id": 55112139309439,
           "title": "Aardbei Citroen",
-          "price": 35.0,
+          "price": 27.0,
           "available": false,
           "sku": "5GCOAC-1"
         }
@@ -2475,7 +2475,7 @@
         {
           "id": 54673350689117,
           "title": "L-Glutamine",
-          "price": 15.0,
+          "price": 19.0,
           "available": true,
           "sku": "P5SUGM-1"
         }
