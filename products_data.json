@@ -1,8 +1,32 @@
 {
-  "last_updated": "2026-10-15T03:09:18.492607+00:00",
+  "last_updated": "2026-10-15T10:50:38.311122+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 15874843935103,
+      "title": "Eiwit Limonade Sparkling",
+      "handle": "eiwit-limonade-sparkling",
+      "url": "https://upfront.nl/products/eiwit-limonade-sparkling",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitLimondeSparklingR2D_Bloedsinaasappel_PP_LoadingFrame_v1.png?v=1788443941",
+      "variants": [
+        {
+          "id": 58497201176959,
+          "title": "Bloedsinaasappel 4",
+          "price": 11.5,
+          "available": true,
+          "sku": "RDLSBS-4"
+        },
+        {
+          "id": 58497201209727,
+          "title": "Citrus 4",
+          "price": 11.5,
+          "available": true,
+          "sku": "RDLSCI-4"
+        }
+      ]
+    },
     {
       "id": 15722254238079,
       "title": "Electrolytes Mixdoos",
@@ -536,7 +560,7 @@
         {
           "id": 57257923379583,
           "title": "Mango 30st",
-          "price": 18.0,
+          "price": 15.0,
           "available": true,
           "sku": "3PCRMA-1"
         }
@@ -1418,7 +1442,7 @@
           "id": 56778183049599,
           "title": "Cranberry doosje",
           "price": 18.0,
-          "available": true,
+          "available": false,
           "sku": "FOEBCB-12"
         }
       ]
@@ -2075,11 +2099,25 @@
       "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitLimonadeR2D_LimoenMunt_PP_LoadingFrame_v1_71472c44-f883-42ce-9f5c-9d5360acc19f.png?v=1777453531",
       "variants": [
         {
+          "id": 54919240581503,
+          "title": "Granaatappel Vlierbloesem 6",
+          "price": 14.0,
+          "available": true,
+          "sku": "RDLISE-6"
+        },
+        {
           "id": 54919240614271,
           "title": "Citroen Munt 6",
           "price": 15.0,
           "available": false,
           "sku": "RDLICM-6"
+        },
+        {
+          "id": 54919240647039,
+          "title": "Appel Kiwi 6",
+          "price": 14.0,
+          "available": true,
+          "sku": "RDLIAK-6"
         },
         {
           "id": 55558364037503,
@@ -2091,7 +2129,7 @@
         {
           "id": 55558364070271,
           "title": "Lychee 6",
-          "price": 16.0,
+          "price": 14.0,
           "available": true,
           "sku": "RDLILY-6"
         },
