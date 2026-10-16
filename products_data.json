@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T20:55:14.125221+00:00",
+  "last_updated": "2026-10-16T03:05:47.458293+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -1466,7 +1466,7 @@
           "id": 56778183049599,
           "title": "Cranberry doosje",
           "price": 18.0,
-          "available": true,
+          "available": false,
           "sku": "FOEBCB-12"
         }
       ]
