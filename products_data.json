@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T03:05:47.458293+00:00",
+  "last_updated": "2026-10-16T10:40:49.482664+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -190,7 +190,7 @@
           "id": 57859314057599,
           "title": "Citrus",
           "price": 38.0,
-          "available": true,
+          "available": false,
           "sku": null
         },
         {
@@ -1099,7 +1099,7 @@
           "id": 57554875122047,
           "title": "Citrus",
           "price": 38.0,
-          "available": true,
+          "available": false,
           "sku": "P7CCCI-1"
         },
         {
