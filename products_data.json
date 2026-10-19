@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T12:06:16.433534+00:00",
+  "last_updated": "2026-10-19T21:59:04.274159+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -337,7 +337,7 @@
           "id": 57446439420287,
           "title": "Appel Kaneel doosje",
           "price": 3.0,
-          "available": true,
+          "available": false,
           "sku": "FOG2AP-1"
         }
       ]
@@ -999,7 +999,7 @@
           "id": 55299502080383,
           "title": "Choco doosje",
           "price": 3.75,
-          "available": true,
+          "available": false,
           "sku": "3DGRCH-1"
         }
       ]
