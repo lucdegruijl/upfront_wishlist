@@ -1,32 +1,8 @@
 {
-  "last_updated": "2026-10-19T03:13:02.672588+00:00",
+  "last_updated": "2026-10-19T12:06:16.433534+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
-    {
-      "id": 15777907900799,
-      "title": "Eiwit IJskoffie",
-      "handle": "eiwit-ijskoffie-2",
-      "url": "https://upfront.nl/products/eiwit-ijskoffie-2",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitIjskoffieRTD_Cappuccino_PP_LoadingFrame_v1.5_1.png?v=1783615809",
-      "variants": [
-        {
-          "id": 57939826278783,
-          "title": "Cappuccino (2st)",
-          "price": 4.5,
-          "available": true,
-          "sku": "RDI2CA-2"
-        },
-        {
-          "id": 57939826311551,
-          "title": "Cappuccino 1st",
-          "price": 2.25,
-          "available": true,
-          "sku": "RDI2CA-1"
-        }
-      ]
-    },
     {
       "id": 15874843935103,
       "title": "Eiwit Limonade Sparkling",
@@ -447,7 +423,7 @@
           "id": 58014739988863,
           "title": "Kers Choco 2.0",
           "price": 24.0,
-          "available": false,
+          "available": true,
           "sku": "7GB2KC-1"
         }
       ]
@@ -863,7 +839,7 @@
           "id": 57874100420991,
           "title": "Kaneel Witte Choco",
           "price": 25.0,
-          "available": false,
+          "available": true,
           "sku": "FOC2KW-12"
         },
         {
@@ -1466,7 +1442,7 @@
           "id": 56778183049599,
           "title": "Cranberry doosje",
           "price": 18.0,
-          "available": false,
+          "available": true,
           "sku": "FOEBCB-12"
         }
       ]
