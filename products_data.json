@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-10-20T03:22:03.406097+00:00",
+  "last_updated": "2026-10-20T10:55:06.343351+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 16026139132287,
+      "title": "Overnight Oats 300g",
+      "handle": "overnight-oats-300g",
+      "url": "https://upfront.nl/products/overnight-oats-300g",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_OvernightOats_300g_MangoKokos_3GFBRB-1_PP_LoadingFrame_v1.png?v=1792488945",
+      "variants": [
+        {
+          "id": 58883507650943,
+          "title": "Mango Kokos",
+          "price": 3.0,
+          "available": false,
+          "sku": "3GOOMK-1"
+        }
+      ]
+    },
+    {
+      "id": 16026136019327,
+      "title": "Eiwit Rijstpudding 300g",
+      "handle": "eiwit-rijstpudding-300g",
+      "url": "https://upfront.nl/products/eiwit-rijstpudding-300g",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Rijstpudding_300g_Banaan_3GOOMK-1_PP_LoadingFrame_v1.png?v=1792488822",
+      "variants": [
+        {
+          "id": 58883476488575,
+          "title": "Banaan",
+          "price": 3.0,
+          "available": false,
+          "sku": "3GFBRB-1"
+        }
+      ]
+    },
     {
       "id": 15874843935103,
       "title": "Eiwit Limonade Sparkling",
@@ -563,6 +597,13 @@
           "price": 15.0,
           "available": true,
           "sku": "3PCRMA-1"
+        },
+        {
+          "id": 57311690490239,
+          "title": "Mango 10st",
+          "price": 7.0,
+          "available": true,
+          "sku": "1PCRMA-1"
         }
       ]
     },
@@ -2595,13 +2636,6 @@
           "price": 13.0,
           "available": false,
           "sku": "2GCWMJ-1"
-        },
-        {
-          "id": 55266351677823,
-          "title": "Zwarte Bes",
-          "price": 37.0,
-          "available": false,
-          "sku": "P7CWZB-1"
         },
         {
           "id": 55270336889215,
