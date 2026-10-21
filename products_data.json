@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T03:16:45.538764+00:00",
+  "last_updated": "2026-10-21T11:09:15.275635+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -32,7 +32,7 @@
           "id": 56951367500159,
           "title": "Chocolade",
           "price": 10.0,
-          "available": true,
+          "available": false,
           "sku": "KGOACZ-1"
         },
         {
@@ -63,8 +63,15 @@
           "id": 58883507650943,
           "title": "Mango Kokos",
           "price": 3.0,
-          "available": true,
+          "available": false,
           "sku": "3GOOMK-1"
+        },
+        {
+          "id": 58900578763135,
+          "title": "Aardbei Yoghurt",
+          "price": 3.0,
+          "available": false,
+          "sku": "3GOOAY-1"
         }
       ]
     },
@@ -80,7 +87,7 @@
           "id": 58883476488575,
           "title": "Banaan",
           "price": 3.0,
-          "available": true,
+          "available": false,
           "sku": "3GFBRB-1"
         }
       ]
@@ -363,30 +370,6 @@
       ]
     },
     {
-      "id": 15658768040319,
-      "title": "Eiwit Oats Cup",
-      "handle": "eiwit-oats-cup",
-      "url": "https://upfront.nl/products/eiwit-oats-cup",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_OatsRTE_Chocolade_PP_LoadingFrame_v1.png?v=1778240706",
-      "variants": [
-        {
-          "id": 57437332865407,
-          "title": "Chocolade 1",
-          "price": 1.0,
-          "available": false,
-          "sku": "CUOACZ-1"
-        },
-        {
-          "id": 57437332898175,
-          "title": "Appel Kaneel 1",
-          "price": 1.0,
-          "available": false,
-          "sku": "CUOAAK-1"
-        }
-      ]
-    },
-    {
       "id": 15659009737087,
       "title": "Overnight Oats Cup",
       "handle": "overnight-oats-cup",
@@ -398,14 +381,14 @@
           "id": 57438263607679,
           "title": "Aardbei Yoghurt 1",
           "price": 1.0,
-          "available": false,
+          "available": true,
           "sku": "CUOOAY-1"
         },
         {
           "id": 57438263640447,
           "title": "Mango Kokos 1",
           "price": 1.0,
-          "available": false,
+          "available": true,
           "sku": "CUOOMK-1"
         }
       ]
@@ -422,7 +405,7 @@
           "id": 57442857845119,
           "title": "Banaan 1",
           "price": 1.0,
-          "available": false,
+          "available": true,
           "sku": "CUFBRB-1"
         }
       ]
@@ -487,8 +470,15 @@
           "id": 56748437340543,
           "title": "Blauwe Bes",
           "price": 15.0,
-          "available": true,
+          "available": false,
           "sku": "7GBOBB-1"
+        },
+        {
+          "id": 56748437373311,
+          "title": "Banaan Choco Chip",
+          "price": 15.0,
+          "available": false,
+          "sku": "7GBOBC-1"
         },
         {
           "id": 57755598094719,
@@ -501,14 +491,14 @@
           "id": 57755598127487,
           "title": "Brownie 2.0",
           "price": 15.0,
-          "available": true,
+          "available": false,
           "sku": "7GBOBR-1"
         },
         {
           "id": 58014739988863,
           "title": "Kers Choco 2.0",
           "price": 15.0,
-          "available": true,
+          "available": false,
           "sku": "7GB2KC-1"
         }
       ]
@@ -593,13 +583,6 @@
           "price": 5.5,
           "available": true,
           "sku": "ONBEHO47-1"
-        },
-        {
-          "id": 58015521603967,
-          "title": "Honing 350g",
-          "price": 5.0,
-          "available": true,
-          "sku": "ONHOBS35-1"
         }
       ]
     },
@@ -865,7 +848,7 @@
           "id": 58446770405759,
           "title": "Kruidnoot",
           "price": 15.0,
-          "available": true,
+          "available": false,
           "sku": "FOCRKN-12"
         },
         {
@@ -952,7 +935,7 @@
           "id": 57874100420991,
           "title": "Kaneel Witte Choco",
           "price": 15.0,
-          "available": true,
+          "available": false,
           "sku": "FOC2KW-12"
         },
         {
@@ -1081,7 +1064,7 @@
           "id": 58446759985535,
           "title": "Pepernoot",
           "price": 15.0,
-          "available": true,
+          "available": false,
           "sku": "F2BAPN-12"
         },
         {
@@ -1391,7 +1374,7 @@
           "id": 56459934925183,
           "title": "Koffiebonen",
           "price": 9.5,
-          "available": true,
+          "available": false,
           "sku": "ONKOBN45-1"
         }
       ]
@@ -1408,7 +1391,7 @@
           "id": 56844757369215,
           "title": "60st",
           "price": 14.0,
-          "available": true,
+          "available": false,
           "sku": "GFSUVD-1"
         }
       ]
@@ -1586,7 +1569,7 @@
           "id": 56455585104255,
           "title": "Olijfolie",
           "price": 8.0,
-          "available": true,
+          "available": false,
           "sku": "SMOLBS50-1"
         }
       ]
@@ -1650,13 +1633,6 @@
           "price": 6.0,
           "available": true,
           "sku": "ONPKBS62-1"
-        },
-        {
-          "id": 49600231801181,
-          "title": "500g",
-          "price": 6.0,
-          "available": true,
-          "sku": "G5FBPK-1"
         },
         {
           "id": 53013975433565,
@@ -2351,7 +2327,7 @@
           "id": 55591755481471,
           "title": "Banaan",
           "price": 15.0,
-          "available": true,
+          "available": false,
           "sku": "KGFBRB-1"
         }
       ]
