@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T11:09:15.275635+00:00",
+  "last_updated": "2026-10-21T16:35:52.311950+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -60,17 +60,10 @@
       "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_OvernightOats_300g_MangoKokos_3GFBRB-1_PP_LoadingFrame_v1.png?v=1792488945",
       "variants": [
         {
-          "id": 58883507650943,
-          "title": "Mango Kokos",
-          "price": 3.0,
-          "available": false,
-          "sku": "3GOOMK-1"
-        },
-        {
           "id": 58900578763135,
           "title": "Aardbei Yoghurt",
           "price": 3.0,
-          "available": false,
+          "available": true,
           "sku": "3GOOAY-1"
         }
       ]
@@ -484,7 +477,7 @@
           "id": 57755598094719,
           "title": "Banaan Choco Chip 2.0",
           "price": 15.0,
-          "available": true,
+          "available": false,
           "sku": "7GB2BC-1"
         },
         {
@@ -630,7 +623,7 @@
       "handle": "creatine-sticks",
       "url": "https://upfront.nl/products/creatine-sticks",
       "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_CreatineSticks_Mango_PP_LoadingFrame_v1_c532ccc8-e5e5-417e-8fd0-2a05cdc0111a.png?v=1774972944",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_CreatineSticks_10st_Mango_1PCRMA-1_PP_LoadingFrame_v1_fc33dff4-dd0e-4680-a09c-7091546e47e8.png?v=1789125561",
       "variants": [
         {
           "id": 57257923379583,
@@ -2912,7 +2905,7 @@
           "id": 55993735741823,
           "title": "Geroosterde Pecan",
           "price": 15.0,
-          "available": true,
+          "available": false,
           "sku": "KGOAGP-1"
         },
         {
