@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T03:15:07.672304+00:00",
+  "last_updated": "2026-10-22T11:08:43.316262+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -573,7 +573,7 @@
         {
           "id": 58653410623871,
           "title": "Honing",
-          "price": 5.5,
+          "price": 5.0,
           "available": true,
           "sku": "ONBEHO47-1"
         }
