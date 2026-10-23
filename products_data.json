@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-10-23T03:20:43.019542+00:00",
+  "last_updated": "2026-10-23T10:59:30.695573+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 16031743672703,
+      "title": "Bestseller Bundel Creatine",
+      "handle": "bestseller-bundel-creatine",
+      "url": "https://upfront.nl/products/bestseller-bundel-creatine",
+      "product_type": "mix",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Bundle_October_CP_Still_v1_1.jpg?v=1792739109",
+      "variants": [
+        {
+          "id": 58906574651775,
+          "title": "Default Title",
+          "price": 39.0,
+          "available": true,
+          "sku": null
+        }
+      ]
+    },
+    {
+      "id": 16032221167999,
+      "title": "Bestseller Bundel Honing",
+      "handle": "bestseller-bundel-honing",
+      "url": "https://upfront.nl/products/bestseller-bundel-honing",
+      "product_type": "mix",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Bundle_October_PP_LoadingFrame_v2.png?v=1792739021",
+      "variants": [
+        {
+          "id": 58909198025087,
+          "title": "Default Title",
+          "price": 35.0,
+          "available": true,
+          "sku": null
+        }
+      ]
+    },
     {
       "id": 6597120753726,
       "title": "Eiwitreep Mixdoos",
@@ -2313,7 +2347,7 @@
           "id": 55558471876991,
           "title": "Vanille",
           "price": 24.0,
-          "available": true,
+          "available": false,
           "sku": "KGFBRV-1"
         },
         {
