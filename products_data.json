@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T16:26:53.115887+00:00",
+  "last_updated": "2026-10-23T20:58:09.664863+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -114,7 +114,7 @@
           "id": 58900578763135,
           "title": "Aardbei Yoghurt",
           "price": 3.0,
-          "available": true,
+          "available": false,
           "sku": "3GOOAY-1"
         }
       ]
@@ -3067,7 +3067,7 @@
           "id": 39479179051070,
           "title": "Vanille",
           "price": 39.0,
-          "available": true,
+          "available": false,
           "sku": "KGWHVA-1"
         },
         {
