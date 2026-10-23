@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-10-23T10:59:30.695573+00:00",
+  "last_updated": "2026-10-23T16:26:53.115887+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 15777907900799,
+      "title": "Eiwit IJskoffie",
+      "handle": "eiwit-ijskoffie-drink",
+      "url": "https://upfront.nl/products/eiwit-ijskoffie-drink",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitIjskoffieRTD_Cappuccino_RDI3CA-1_PP_LoadingFrame_v2.png?v=1792755906",
+      "variants": [
+        {
+          "id": 58446244905343,
+          "title": "Cappuccino",
+          "price": 4.5,
+          "available": true,
+          "sku": "RDI3CA-2"
+        }
+      ]
+    },
     {
       "id": 16031743672703,
       "title": "Bestseller Bundel Creatine",
