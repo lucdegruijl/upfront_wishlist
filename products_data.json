@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T03:14:51.127357+00:00",
+  "last_updated": "2026-10-24T10:16:21.870222+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -2956,7 +2956,7 @@
           "id": 55993735741823,
           "title": "Geroosterde Pecan",
           "price": 15.0,
-          "available": false,
+          "available": true,
           "sku": "KGOAGP-1"
         },
         {
