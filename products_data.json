@@ -1,8 +1,32 @@
 {
-  "last_updated": "2026-10-26T03:10:09.734280+00:00",
+  "last_updated": "2026-10-26T12:14:28.336979+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 14954546332031,
+      "title": "Statiegeld",
+      "handle": "statiegeld",
+      "url": "https://upfront.nl/products/statiegeld",
+      "product_type": "fee rule",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/statiegeldfles-logo-trans-zwart.png?v=1748729594",
+      "variants": [
+        {
+          "id": 55136069517695,
+          "title": "Statiegeld per flesje",
+          "price": 0.15,
+          "available": false,
+          "sku": "STATIEGELD-1"
+        },
+        {
+          "id": 55136283525503,
+          "title": "Statiegeld per 6",
+          "price": 0.9,
+          "available": false,
+          "sku": "STATIEGELD-6"
+        }
+      ]
+    },
     {
       "id": 15777907900799,
       "title": "Eiwit IJskoffie",
@@ -449,7 +473,7 @@
           "id": 57442857845119,
           "title": "Banaan 1",
           "price": 1.0,
-          "available": true,
+          "available": false,
           "sku": "CUFBRB-1"
         }
       ]
@@ -2953,6 +2977,13 @@
           "sku": "KGOAFW-1"
         },
         {
+          "id": 58446822539647,
+          "title": "Stroopwafel",
+          "price": 15.0,
+          "available": true,
+          "sku": "KGOASW-1"
+        },
+        {
           "id": 55993735741823,
           "title": "Geroosterde Pecan",
           "price": 15.0,
@@ -3021,13 +3052,6 @@
           "price": 15.0,
           "available": false,
           "sku": "KGO2BK-1"
-        },
-        {
-          "id": 58446822539647,
-          "title": "Stroopwafel",
-          "price": 15.0,
-          "available": true,
-          "sku": "KGOASW-1"
         }
       ]
     },
