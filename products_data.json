@@ -1,29 +1,53 @@
 {
-  "last_updated": "2026-10-26T12:14:28.336979+00:00",
+  "last_updated": "2026-10-26T22:16:41.577111+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
     {
-      "id": 14954546332031,
+      "id": 16040953938303,
       "title": "Statiegeld",
-      "handle": "statiegeld",
-      "url": "https://upfront.nl/products/statiegeld",
-      "product_type": "fee rule",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/statiegeldfles-logo-trans-zwart.png?v=1748729594",
+      "handle": "statiegeld-automatisch",
+      "url": "https://upfront.nl/products/statiegeld-automatisch",
+      "product_type": "statiegeld",
+      "image": null,
       "variants": [
         {
-          "id": 55136069517695,
-          "title": "Statiegeld per flesje",
+          "id": 58966497165695,
+          "title": "Blikje",
           "price": 0.15,
-          "available": false,
-          "sku": "STATIEGELD-1"
+          "available": true,
+          "sku": "STATIEGELD-BLIK"
         },
         {
-          "id": 55136283525503,
-          "title": "Statiegeld per 6",
-          "price": 0.9,
-          "available": false,
-          "sku": "STATIEGELD-6"
+          "id": 58966497198463,
+          "title": "PET-fles klein",
+          "price": 0.15,
+          "available": true,
+          "sku": "STATIEGELD-PET-KLEIN"
+        },
+        {
+          "id": 58966497231231,
+          "title": "PET-fles groot",
+          "price": 0.25,
+          "available": true,
+          "sku": "STATIEGELD-PET-GROOT"
+        }
+      ]
+    },
+    {
+      "id": 16040954200447,
+      "title": "TEST statiegeld 6-pack (niet verkopen)",
+      "handle": "test-statiegeld-6-pack",
+      "url": "https://upfront.nl/products/test-statiegeld-6-pack",
+      "product_type": "test",
+      "image": null,
+      "variants": [
+        {
+          "id": 58966501097855,
+          "title": "Default Title",
+          "price": 5.0,
+          "available": true,
+          "sku": "TEST-STATIEGELD-6"
         }
       ]
     },
@@ -552,7 +576,7 @@
           "id": 57755598094719,
           "title": "Banaan Choco Chip 2.0",
           "price": 15.0,
-          "available": false,
+          "available": true,
           "sku": "7GB2BC-1"
         },
         {
@@ -2980,7 +3004,7 @@
           "id": 58446822539647,
           "title": "Stroopwafel",
           "price": 15.0,
-          "available": true,
+          "available": false,
           "sku": "KGOASW-1"
         },
         {
