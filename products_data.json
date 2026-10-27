@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T11:35:04.918115+00:00",
+  "last_updated": "2026-10-27T17:27:45.517186+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -556,7 +556,7 @@
       "handle": "oats-baked",
       "url": "https://upfront.nl/products/oats-baked",
       "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_OatsBaked_Brownie_PP_LoadingFrame_v2_1.png?v=1786344119",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_OatsBaked_BanaanChoco_PP_LoadingFrame_v1.png?v=1773384433",
       "variants": [
         {
           "id": 56748437340543,
@@ -571,6 +571,13 @@
           "price": 15.0,
           "available": false,
           "sku": "7GBOBC-1"
+        },
+        {
+          "id": 57755598094719,
+          "title": "Banaan Choco Chip 2.0",
+          "price": 15.0,
+          "available": true,
+          "sku": "7GB2BC-1"
         },
         {
           "id": 57755598127487,
