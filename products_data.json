@@ -1,25 +1,8 @@
 {
-  "last_updated": "2026-10-29T12:16:42.072546+00:00",
+  "last_updated": "2026-10-29T22:25:15.448840+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
-    {
-      "id": 16044329369983,
-      "title": "Honing (DE)",
-      "handle": "honing-de",
-      "url": "https://upfront.nl/products/honing-de",
-      "product_type": "",
-      "image": null,
-      "variants": [
-        {
-          "id": 58991059468671,
-          "title": "475g",
-          "price": 0.0,
-          "available": false,
-          "sku": "ONHOBD35-1"
-        }
-      ]
-    },
     {
       "id": 16040953938303,
       "title": "Statiegeld",
@@ -147,23 +130,6 @@
           "price": 3.0,
           "available": false,
           "sku": "3GOOAY-1"
-        }
-      ]
-    },
-    {
-      "id": 16026136019327,
-      "title": "Eiwit Rijstpudding 300g",
-      "handle": "eiwit-rijstpudding-300g",
-      "url": "https://upfront.nl/products/eiwit-rijstpudding-300g",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Rijstpudding_300g_Banaan_3GOOMK-1_PP_LoadingFrame_v1.png?v=1792488822",
-      "variants": [
-        {
-          "id": 58883476488575,
-          "title": "Banaan",
-          "price": 3.0,
-          "available": false,
-          "sku": "3GFBRB-1"
         }
       ]
     },
@@ -3105,7 +3071,7 @@
           "id": 39976722464830,
           "title": "Chocolade",
           "price": 39.0,
-          "available": true,
+          "available": false,
           "sku": "KGWHCA-1"
         },
         {
