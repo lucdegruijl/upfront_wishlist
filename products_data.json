@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T22:09:40.225302+00:00",
+  "last_updated": "2026-10-29T04:20:22.853807+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -86,40 +86,6 @@
       ]
     },
     {
-      "id": 16031743672703,
-      "title": "Bestseller Bundel Creatine",
-      "handle": "bestseller-bundel-creatine",
-      "url": "https://upfront.nl/products/bestseller-bundel-creatine",
-      "product_type": "mix",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Bundle_October_CP_Still_v1_1.jpg?v=1792739109",
-      "variants": [
-        {
-          "id": 58906574651775,
-          "title": "Default Title",
-          "price": 39.0,
-          "available": true,
-          "sku": null
-        }
-      ]
-    },
-    {
-      "id": 16032221167999,
-      "title": "Bestseller Bundel Honing",
-      "handle": "bestseller-bundel-honing",
-      "url": "https://upfront.nl/products/bestseller-bundel-honing",
-      "product_type": "mix",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Bundle_October_PP_LoadingFrame_v2.png?v=1792739021",
-      "variants": [
-        {
-          "id": 58909198025087,
-          "title": "Default Title",
-          "price": 35.0,
-          "available": true,
-          "sku": null
-        }
-      ]
-    },
-    {
       "id": 6597120753726,
       "title": "Eiwitreep Mixdoos",
       "handle": "protein-bars-mixdoos",
@@ -130,7 +96,7 @@
         {
           "id": 58445355975039,
           "title": "Mixdoos",
-          "price": 15.0,
+          "price": 26.0,
           "available": true,
           "sku": "FOBAMX-1"
         }
@@ -578,35 +544,35 @@
         {
           "id": 56748437340543,
           "title": "Blauwe Bes",
-          "price": 15.0,
+          "price": 19.0,
           "available": false,
           "sku": "7GBOBB-1"
         },
         {
           "id": 56748437373311,
           "title": "Banaan Choco Chip",
-          "price": 15.0,
+          "price": 19.0,
           "available": false,
           "sku": "7GBOBC-1"
         },
         {
           "id": 57755598094719,
           "title": "Banaan Choco Chip 2.0",
-          "price": 15.0,
+          "price": 24.0,
           "available": false,
           "sku": "7GB2BC-1"
         },
         {
           "id": 57755598127487,
           "title": "Brownie 2.0",
-          "price": 15.0,
+          "price": 24.0,
           "available": false,
           "sku": "7GBOBR-1"
         },
         {
           "id": 58014739988863,
           "title": "Kers Choco 2.0",
-          "price": 15.0,
+          "price": 24.0,
           "available": false,
           "sku": "7GB2KC-1"
         }
@@ -872,28 +838,28 @@
         {
           "id": 57124750131583,
           "title": "Pinda Zeezout",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOCRPZ-12"
         },
         {
           "id": 57124750164351,
           "title": "Hazelnoot",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOCRCH-12"
         },
         {
           "id": 57124750197119,
           "title": "Pistache",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOCRPI-12"
         },
         {
           "id": 57124750229887,
           "title": "Framboos (V)",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOCRVF-12"
         },
@@ -928,7 +894,7 @@
         {
           "id": 57504915521919,
           "title": "Kokos",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOCRKO-12"
         },
@@ -942,7 +908,7 @@
         {
           "id": 57874146165119,
           "title": "Bananenmelk",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOCRBM-12"
         },
@@ -956,7 +922,7 @@
         {
           "id": 58446770405759,
           "title": "Kruidnoot",
-          "price": 15.0,
+          "price": 25.0,
           "available": false,
           "sku": "FOCRKN-12"
         },
@@ -980,7 +946,7 @@
         {
           "id": 57124783194495,
           "title": "Framboos Witte Choco",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOCBFW-12"
         },
@@ -994,7 +960,7 @@
         {
           "id": 57124783260031,
           "title": "Matcha Witte Choco",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOCBMW-12"
         },
@@ -1008,7 +974,7 @@
         {
           "id": 57124783325567,
           "title": "Mango Yoghurt",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOCBMY-12"
         },
@@ -1022,7 +988,7 @@
         {
           "id": 57124783391103,
           "title": "Bosvruchten Honing",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOCBBH-12"
         },
@@ -1036,21 +1002,21 @@
         {
           "id": 57504916996479,
           "title": "Aardbei Yoghurt",
-          "price": 15.0,
+          "price": 25.0,
           "available": false,
           "sku": "FOCBAY-12"
         },
         {
           "id": 57874100420991,
           "title": "Kaneel Witte Choco",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOC2KW-12"
         },
         {
           "id": 58014768955775,
           "title": "Aardbei Yoghurt 2.0",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "F2CBAY-12"
         },
@@ -1071,7 +1037,7 @@
         {
           "id": 58267840577919,
           "title": "Vanille Kaneel",
-          "price": 15.0,
+          "price": 25.0,
           "available": false,
           "sku": "FOCBVK-12"
         }
@@ -1088,7 +1054,7 @@
         {
           "id": 57124887888255,
           "title": "Pistache Framboos",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "F2BAPF-12"
         },
@@ -1102,7 +1068,7 @@
         {
           "id": 57124887953791,
           "title": "Appel Kaneel",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "F2BAAK-12"
         },
@@ -1116,7 +1082,7 @@
         {
           "id": 57124888019327,
           "title": "Pecan Maple (V)",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOVBPM-12"
         },
@@ -1130,7 +1096,7 @@
         {
           "id": 57124888084863,
           "title": "Choco Chip (V)",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOVBCC-12"
         },
@@ -1144,7 +1110,7 @@
         {
           "id": 57504914178431,
           "title": "Banaan Pindakaas",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "F2BABP-12"
         },
@@ -1158,7 +1124,7 @@
         {
           "id": 57874079711615,
           "title": "Matcha Mango",
-          "price": 15.0,
+          "price": 25.0,
           "available": true,
           "sku": "FOBAMM-12"
         },
@@ -1172,7 +1138,7 @@
         {
           "id": 58446759985535,
           "title": "Pepernoot",
-          "price": 15.0,
+          "price": 25.0,
           "available": false,
           "sku": "F2BAPN-12"
         },
@@ -1615,35 +1581,35 @@
         {
           "id": 56762197082495,
           "title": "Mango Passievrucht (V)",
-          "price": 15.0,
+          "price": 17.0,
           "available": true,
           "sku": "7GCPMP-1"
         },
         {
           "id": 56762197115263,
           "title": "Framboos (V)",
-          "price": 15.0,
+          "price": 17.0,
           "available": true,
           "sku": "7GCPFR-1"
         },
         {
           "id": 57094897566079,
           "title": "Matcha Aardbei (V)",
-          "price": 15.0,
+          "price": 17.0,
           "available": true,
           "sku": "7GCPMA-1"
         },
         {
           "id": 57735566328191,
           "title": "Cacao Framboos",
-          "price": 15.0,
+          "price": 17.0,
           "available": true,
           "sku": "7GCPCF-1"
         },
         {
           "id": 57735574716799,
           "title": "Kiwi Kokos",
-          "price": 15.0,
+          "price": 17.0,
           "available": true,
           "sku": "7GCPKK-1"
         }
@@ -1660,7 +1626,7 @@
         {
           "id": 56778183049599,
           "title": "Cranberry doosje",
-          "price": 15.0,
+          "price": 18.0,
           "available": true,
           "sku": "FOEBCB-12"
         }
@@ -2435,7 +2401,7 @@
         {
           "id": 55591755481471,
           "title": "Banaan",
-          "price": 15.0,
+          "price": 24.0,
           "available": false,
           "sku": "KGFBRB-1"
         }
@@ -3013,21 +2979,21 @@
         {
           "id": 55727226028415,
           "title": "Framboos Witte Choco",
-          "price": 15.0,
+          "price": 19.0,
           "available": true,
           "sku": "KGOAFW-1"
         },
         {
           "id": 58446822539647,
           "title": "Stroopwafel",
-          "price": 15.0,
+          "price": 19.0,
           "available": false,
           "sku": "KGOASW-1"
         },
         {
           "id": 55993735741823,
           "title": "Geroosterde Pecan",
-          "price": 15.0,
+          "price": 19.0,
           "available": true,
           "sku": "KGOAGP-1"
         },
@@ -3041,56 +3007,56 @@
         {
           "id": 56889305825663,
           "title": "Appel Kaneel",
-          "price": 15.0,
+          "price": 19.0,
           "available": true,
           "sku": "KGOAAKOU-1"
         },
         {
           "id": 56889305858431,
           "title": "Chocolade",
-          "price": 15.0,
+          "price": 19.0,
           "available": true,
           "sku": "KGOACZOU-1"
         },
         {
           "id": 57276951429503,
           "title": "Speculaas",
-          "price": 15.0,
+          "price": 19.0,
           "available": true,
           "sku": "KGOASPOU-1"
         },
         {
           "id": 57343794315647,
           "title": "Framboos Cacao (V)",
-          "price": 15.0,
+          "price": 19.0,
           "available": true,
           "sku": "KGVOFC-1"
         },
         {
           "id": 57438090396031,
           "title": "Açai",
-          "price": 15.0,
+          "price": 19.0,
           "available": true,
           "sku": "KGOAAC-1"
         },
         {
           "id": 57504923189631,
           "title": "Carrot Cake",
-          "price": 15.0,
+          "price": 19.0,
           "available": true,
           "sku": "KGO2CC-1"
         },
         {
           "id": 57774553203071,
           "title": "Matcha Witte Choco",
-          "price": 15.0,
+          "price": 19.0,
           "available": true,
           "sku": "KGOAMW-1"
         },
         {
           "id": 58446821654911,
           "title": "Banaan Karamel",
-          "price": 15.0,
+          "price": 19.0,
           "available": false,
           "sku": "KGO2BK-1"
         }
