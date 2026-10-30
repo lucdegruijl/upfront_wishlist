@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T04:20:36.242297+00:00",
+  "last_updated": "2026-10-30T12:07:02.502205+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -130,30 +130,6 @@
           "price": 3.0,
           "available": false,
           "sku": "3GOOAY-1"
-        }
-      ]
-    },
-    {
-      "id": 15874843935103,
-      "title": "Eiwit Limonade Sparkling",
-      "handle": "eiwit-limonade-sparkling",
-      "url": "https://upfront.nl/products/eiwit-limonade-sparkling",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitLimondeSparklingR2D_Bloedsinaasappel_PP_LoadingFrame_v1.png?v=1788443941",
-      "variants": [
-        {
-          "id": 58497201176959,
-          "title": "Bloedsinaasappel 4",
-          "price": 11.5,
-          "available": true,
-          "sku": "RDLSBS-4"
-        },
-        {
-          "id": 58497201209727,
-          "title": "Citrus 4",
-          "price": 11.5,
-          "available": true,
-          "sku": "RDLSCI-4"
         }
       ]
     },
@@ -3064,7 +3040,7 @@
           "id": 39479179051070,
           "title": "Vanille",
           "price": 39.0,
-          "available": true,
+          "available": false,
           "sku": "KGWHVA-1"
         },
         {
