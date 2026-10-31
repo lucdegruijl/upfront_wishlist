@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T03:59:50.889226+00:00",
+  "last_updated": "2026-10-31T11:40:19.265326+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -152,7 +152,7 @@
           "id": 58900578763135,
           "title": "Aardbei Yoghurt",
           "price": 3.0,
-          "available": true,
+          "available": false,
           "sku": "3GOOAY-1"
         }
       ]
@@ -511,7 +511,7 @@
           "id": 56748437340543,
           "title": "Blauwe Bes",
           "price": 19.0,
-          "available": true,
+          "available": false,
           "sku": "7GBOBB-1"
         },
         {
@@ -1349,14 +1349,14 @@
         {
           "id": 56189337141631,
           "title": "Aardbei",
-          "price": 9.0,
+          "price": 18.0,
           "available": true,
           "sku": "P3PEAA-1"
         },
         {
           "id": 56189337174399,
           "title": "Zwarte Bes",
-          "price": 9.0,
+          "price": 18.0,
           "available": true,
           "sku": "P3PEZB-1"
         }
@@ -1373,14 +1373,14 @@
         {
           "id": 56189203743103,
           "title": "Appel-Peer",
-          "price": 7.0,
+          "price": 14.0,
           "available": true,
           "sku": "D6IEAP-1"
         },
         {
           "id": 56189203775871,
           "title": "Sinaasappel",
-          "price": 7.0,
+          "price": 14.0,
           "available": true,
           "sku": "D6IESI-1"
         }
