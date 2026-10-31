@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T11:40:19.265326+00:00",
+  "last_updated": "2026-10-31T16:48:18.224055+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -1610,7 +1610,7 @@
           "id": 56455585104255,
           "title": "Olijfolie",
           "price": 8.0,
-          "available": true,
+          "available": false,
           "sku": "SMOLBS50-1"
         }
       ]
@@ -2960,7 +2960,7 @@
           "id": 58446822539647,
           "title": "Stroopwafel",
           "price": 19.0,
-          "available": true,
+          "available": false,
           "sku": "KGOASW-1"
         },
         {
