@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-11-02T04:22:29.571762+00:00",
+  "last_updated": "2026-11-02T14:44:27.525716+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 15796921368959,
+      "title": "Probiotica",
+      "handle": "probiotica",
+      "url": "https://upfront.nl/products/probiotica",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Vitamins_Biotica_PP_LoadingFrame_v1.png?v=1785939037",
+      "variants": [
+        {
+          "id": 58015533498751,
+          "title": "Puur",
+          "price": 15.0,
+          "available": true,
+          "sku": "GFSUPR-1"
+        }
+      ]
+    },
     {
       "id": 15874843935103,
       "title": "Eiwit Limonade Sparkling",
@@ -137,23 +154,6 @@
           "price": 10.4,
           "available": false,
           "sku": "3GOACZ-1"
-        }
-      ]
-    },
-    {
-      "id": 16026139132287,
-      "title": "Overnight Oats 300g",
-      "handle": "overnight-oats-300g",
-      "url": "https://upfront.nl/products/overnight-oats-300g",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_OvernightOats_300g_MangoKokos_3GFBRB-1_PP_LoadingFrame_v1.png?v=1792488945",
-      "variants": [
-        {
-          "id": 58900578763135,
-          "title": "Aardbei Yoghurt",
-          "price": 3.0,
-          "available": false,
-          "sku": "3GOOAY-1"
         }
       ]
     },
@@ -371,7 +371,7 @@
           "id": 56455623704959,
           "title": "Dadels",
           "price": 8.0,
-          "available": false,
+          "available": true,
           "sku": "SNMDBS25-1"
         }
       ]
@@ -387,7 +387,7 @@
         {
           "id": 57504924926335,
           "title": "Magnesium PRO",
-          "price": 29.0,
+          "price": 25.0,
           "available": true,
           "sku": "GFSUPM-1"
         }
@@ -539,7 +539,7 @@
           "id": 58014739988863,
           "title": "Kers Choco 2.0",
           "price": 24.0,
-          "available": true,
+          "available": false,
           "sku": "7GB2KC-1"
         }
       ]
@@ -1256,7 +1256,7 @@
         {
           "id": 56627973882239,
           "title": "Magnesium",
-          "price": 15.0,
+          "price": 11.0,
           "available": true,
           "sku": "GFSUMP-1"
         }
@@ -1431,7 +1431,7 @@
         {
           "id": 56844757369215,
           "title": "60st",
-          "price": 14.0,
+          "price": 10.0,
           "available": true,
           "sku": "GFSUVD-1"
         }
@@ -1448,7 +1448,7 @@
         {
           "id": 56844742525311,
           "title": "30st",
-          "price": 15.0,
+          "price": 11.0,
           "available": true,
           "sku": "GFSUO3-1"
         }
@@ -1465,7 +1465,7 @@
         {
           "id": 56844289671551,
           "title": "60st",
-          "price": 14.0,
+          "price": 10.0,
           "available": true,
           "sku": "GFSUIJ-1"
         }
@@ -1482,7 +1482,7 @@
         {
           "id": 56844283412863,
           "title": "60st",
-          "price": 14.0,
+          "price": 10.0,
           "available": true,
           "sku": "GFSUZI-1"
         }
@@ -1506,7 +1506,7 @@
         {
           "id": 57736237220223,
           "title": "80st",
-          "price": 18.0,
+          "price": 14.0,
           "available": true,
           "sku": "GFS2AM-1"
         }
@@ -1595,23 +1595,6 @@
           "price": 18.0,
           "available": true,
           "sku": "FOEBCB-12"
-        }
-      ]
-    },
-    {
-      "id": 15411646398847,
-      "title": "Olijfolie",
-      "handle": "supermarkt-olijfolie",
-      "url": "https://upfront.nl/products/supermarkt-olijfolie",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/WebsiteRender_Olijfolie_Still_v2.png?v=1764324798",
-      "variants": [
-        {
-          "id": 56455585104255,
-          "title": "Olijfolie",
-          "price": 8.0,
-          "available": false,
-          "sku": "SMOLBS50-1"
         }
       ]
     },
