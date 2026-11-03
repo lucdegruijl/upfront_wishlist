@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T00:29:00.376297+00:00",
+  "last_updated": "2026-11-03T13:37:23.634672+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -14,7 +14,7 @@
         {
           "id": 58015533498751,
           "title": "Puur",
-          "price": 15.0,
+          "price": 11.0,
           "available": true,
           "sku": "GFSUPR-1"
         }
@@ -120,7 +120,7 @@
         {
           "id": 58445355975039,
           "title": "Mixdoos",
-          "price": 26.0,
+          "price": 20.0,
           "available": true,
           "sku": "FOBAMX-1"
         }
@@ -518,7 +518,7 @@
           "id": 56748437373311,
           "title": "Banaan Choco Chip",
           "price": 19.0,
-          "available": true,
+          "available": false,
           "sku": "7GBOBC-1"
         },
         {
@@ -624,44 +624,6 @@
           "price": 5.0,
           "available": true,
           "sku": "ONHOBS35-1"
-        }
-      ]
-    },
-    {
-      "id": 15621335056767,
-      "title": "Performance Tee",
-      "handle": "performance-tee",
-      "url": "https://upfront.nl/products/performance-tee",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Tee_PP_LoadingFrame_v1.png?v=1775552688",
-      "variants": [
-        {
-          "id": 57263947874687,
-          "title": "S",
-          "price": 35.0,
-          "available": false,
-          "sku": "TSKLZS-1"
-        },
-        {
-          "id": 57263947907455,
-          "title": "M",
-          "price": 45.0,
-          "available": false,
-          "sku": "TSKLZM-1"
-        },
-        {
-          "id": 57263947940223,
-          "title": "L",
-          "price": 45.0,
-          "available": false,
-          "sku": "TSKLZL-1"
-        },
-        {
-          "id": 57263947972991,
-          "title": "XL",
-          "price": 45.0,
-          "available": false,
-          "sku": "TSKLZX-1"
         }
       ]
     },
@@ -774,7 +736,7 @@
           "id": 54615149347165,
           "title": "Cappuccino 700",
           "price": 38.0,
-          "available": true,
+          "available": false,
           "sku": "7GWHCP-1"
         },
         {
@@ -889,14 +851,14 @@
           "id": 58446770405759,
           "title": "Kruidnoot",
           "price": 27.0,
-          "available": true,
+          "available": false,
           "sku": "FOCRKN-12"
         },
         {
           "id": 58446770438527,
           "title": "Kruidnoot 1st",
           "price": 2.08,
-          "available": true,
+          "available": false,
           "sku": "FOCRKN-1"
         }
       ]
@@ -1105,7 +1067,7 @@
           "id": 58446759985535,
           "title": "Pepernoot",
           "price": 26.0,
-          "available": true,
+          "available": false,
           "sku": "F2BAPN-12"
         },
         {
