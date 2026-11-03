@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T14:44:27.525716+00:00",
+  "last_updated": "2026-11-03T00:29:00.376297+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -371,7 +371,7 @@
           "id": 56455623704959,
           "title": "Dadels",
           "price": 8.0,
-          "available": true,
+          "available": false,
           "sku": "SNMDBS25-1"
         }
       ]
@@ -532,7 +532,7 @@
           "id": 57755598127487,
           "title": "Brownie 2.0",
           "price": 24.0,
-          "available": true,
+          "available": false,
           "sku": "7GBOBR-1"
         },
         {
@@ -639,7 +639,7 @@
           "id": 57263947874687,
           "title": "S",
           "price": 35.0,
-          "available": true,
+          "available": false,
           "sku": "TSKLZS-1"
         },
         {
