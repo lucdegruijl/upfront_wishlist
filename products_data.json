@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T13:37:23.634672+00:00",
+  "last_updated": "2026-11-03T22:53:24.726277+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -138,7 +138,7 @@
           "id": 56951367500159,
           "title": "Chocolade",
           "price": 10.0,
-          "available": true,
+          "available": false,
           "sku": "KGOACZ-1"
         },
         {
@@ -677,7 +677,7 @@
           "id": 56466054775167,
           "title": "Beef Jerky doosje",
           "price": 17.5,
-          "available": false,
+          "available": true,
           "sku": "SNGVRN40-5"
         },
         {
@@ -1074,7 +1074,7 @@
           "id": 58446760018303,
           "title": "Pepernoot 1st",
           "price": 2.08,
-          "available": true,
+          "available": false,
           "sku": "F2BAPN-1"
         }
       ]
@@ -2524,14 +2524,14 @@
           "id": 57432217977215,
           "title": "Banaan 1st",
           "price": 2.0,
-          "available": false,
+          "available": true,
           "sku": "RDWHBA-1"
         },
         {
           "id": 57432218009983,
           "title": "6-pack Banaan",
           "price": 14.0,
-          "available": false,
+          "available": true,
           "sku": "RDWHBA-6"
         },
         {
@@ -2975,7 +2975,7 @@
           "id": 58446821654911,
           "title": "Banaan Karamel",
           "price": 19.0,
-          "available": true,
+          "available": false,
           "sku": "KGO2BK-1"
         }
       ]
@@ -3016,7 +3016,7 @@
           "id": 39479179051070,
           "title": "Vanille",
           "price": 39.0,
-          "available": false,
+          "available": true,
           "sku": "KGWHVA-1"
         },
         {
