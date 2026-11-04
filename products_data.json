@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T04:48:45.288710+00:00",
+  "last_updated": "2026-11-04T13:46:06.107566+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -480,21 +480,21 @@
           "id": 57431986143615,
           "title": "Matcha (2st)",
           "price": 2.3,
-          "available": true,
+          "available": false,
           "sku": "RDIJMA-2"
         },
         {
           "id": 57434424869247,
           "title": "Matcha 1st",
           "price": 2.25,
-          "available": true,
+          "available": false,
           "sku": "RDIJMA-1"
         },
         {
           "id": 57438242505087,
           "title": "Matcha (12st)",
           "price": 20.0,
-          "available": true,
+          "available": false,
           "sku": "RDIJMA-12"
         }
       ]
@@ -525,14 +525,14 @@
           "id": 57755598094719,
           "title": "Banaan Choco Chip 2.0",
           "price": 24.0,
-          "available": false,
+          "available": true,
           "sku": "7GB2BC-1"
         },
         {
           "id": 57755598127487,
           "title": "Brownie 2.0",
           "price": 24.0,
-          "available": false,
+          "available": true,
           "sku": "7GBOBR-1"
         },
         {
@@ -766,21 +766,21 @@
         {
           "id": 57124750131583,
           "title": "Pinda Zeezout",
-          "price": 27.0,
+          "price": 12.0,
           "available": true,
           "sku": "FOCRPZ-12"
         },
         {
           "id": 57124750164351,
           "title": "Hazelnoot",
-          "price": 27.0,
+          "price": 12.0,
           "available": true,
           "sku": "FOCRCH-12"
         },
         {
           "id": 57124750197119,
           "title": "Pistache",
-          "price": 27.0,
+          "price": 12.0,
           "available": true,
           "sku": "FOCRPI-12"
         },
@@ -851,14 +851,14 @@
           "id": 58446770405759,
           "title": "Kruidnoot",
           "price": 27.0,
-          "available": false,
+          "available": true,
           "sku": "FOCRKN-12"
         },
         {
           "id": 58446770438527,
           "title": "Kruidnoot 1st",
           "price": 2.08,
-          "available": false,
+          "available": true,
           "sku": "FOCRKN-1"
         }
       ]
@@ -996,7 +996,7 @@
         {
           "id": 57124887953791,
           "title": "Appel Kaneel",
-          "price": 26.0,
+          "price": 12.0,
           "available": true,
           "sku": "F2BAAK-12"
         },
@@ -1074,7 +1074,7 @@
           "id": 58446760018303,
           "title": "Pepernoot 1st",
           "price": 2.08,
-          "available": false,
+          "available": true,
           "sku": "F2BAPN-1"
         }
       ]
@@ -2434,7 +2434,7 @@
           "id": 55514490732927,
           "title": "Citroen Grapefruit",
           "price": 2.0,
-          "available": true,
+          "available": false,
           "sku": "G5LSCG-1"
         }
       ]
