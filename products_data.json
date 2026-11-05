@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T13:58:12.369433+00:00",
+  "last_updated": "2026-11-05T23:15:03.781559+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -460,7 +460,7 @@
           "id": 57438078697855,
           "title": "Vanille",
           "price": 39.0,
-          "available": true,
+          "available": false,
           "sku": "7GWCVA-1"
         }
       ]
@@ -2875,7 +2875,7 @@
           "id": 39479179051070,
           "title": "Vanille",
           "price": 39.0,
-          "available": true,
+          "available": false,
           "sku": "KGWHVA-1"
         },
         {
