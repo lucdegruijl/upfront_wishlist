@@ -1,8 +1,39 @@
 {
-  "last_updated": "2026-11-05T05:03:51.415143+00:00",
+  "last_updated": "2026-11-05T13:58:12.369433+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 8671786500445,
+      "title": "CreaTabs",
+      "handle": "creatabs",
+      "url": "https://upfront.nl/products/creatabs",
+      "product_type": "Sport Supplements",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_CreaTabsPack_Pepermunt_v2_00000.png?v=1756991992",
+      "variants": [
+        {
+          "id": 55908256579967,
+          "title": "Pepermunt",
+          "price": 5.0,
+          "available": false,
+          "sku": "14CTPM-1"
+        },
+        {
+          "id": 51018177511773,
+          "title": "Citroen 105",
+          "price": 15.0,
+          "available": false,
+          "sku": "21SUCT-5"
+        },
+        {
+          "id": 55569800036735,
+          "title": "Pepermunt 16",
+          "price": 5.0,
+          "available": false,
+          "sku": "14CTPM-3"
+        }
+      ]
+    },
     {
       "id": 15796921368959,
       "title": "Probiotica",
@@ -72,23 +103,6 @@
           "price": 0.25,
           "available": true,
           "sku": "STATIEGELD-PET-GROOT"
-        }
-      ]
-    },
-    {
-      "id": 16040954200447,
-      "title": "TEST statiegeld 6-pack (niet verkopen)",
-      "handle": "test-statiegeld-6-pack",
-      "url": "https://upfront.nl/products/test-statiegeld-6-pack",
-      "product_type": "test",
-      "image": null,
-      "variants": [
-        {
-          "id": 58966501097855,
-          "title": "Default Title",
-          "price": 5.0,
-          "available": true,
-          "sku": "TEST-STATIEGELD-6"
         }
       ]
     },
@@ -360,23 +374,6 @@
       ]
     },
     {
-      "id": 15411183845759,
-      "title": "Medjoul Dadels",
-      "handle": "dadels",
-      "url": "https://upfront.nl/products/dadels",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/CollectionPage_v2-WebsiteRender_MedjoulDadels_Still_v1.jpg?v=1763996613",
-      "variants": [
-        {
-          "id": 56455623704959,
-          "title": "Dadels",
-          "price": 8.0,
-          "available": false,
-          "sku": "SNMDBS25-1"
-        }
-      ]
-    },
-    {
       "id": 15674518503807,
       "title": "Magnesium PRO",
       "handle": "magnesium-pro",
@@ -465,82 +462,6 @@
           "price": 39.0,
           "available": true,
           "sku": "7GWCVA-1"
-        }
-      ]
-    },
-    {
-      "id": 15657281683839,
-      "title": "Eiwit Matcha",
-      "handle": "eiwit-matcha-1",
-      "url": "https://upfront.nl/products/eiwit-matcha-1",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitMatchaRTD_MatchaLatte_PP_LoadingFrame_v1.png?v=1777450893",
-      "variants": [
-        {
-          "id": 57431986143615,
-          "title": "Matcha (2st)",
-          "price": 2.3,
-          "available": false,
-          "sku": "RDIJMA-2"
-        },
-        {
-          "id": 57434424869247,
-          "title": "Matcha 1st",
-          "price": 2.25,
-          "available": false,
-          "sku": "RDIJMA-1"
-        },
-        {
-          "id": 57438242505087,
-          "title": "Matcha (12st)",
-          "price": 20.0,
-          "available": false,
-          "sku": "RDIJMA-12"
-        }
-      ]
-    },
-    {
-      "id": 15495022870911,
-      "title": "Baked Oats",
-      "handle": "oats-baked",
-      "url": "https://upfront.nl/products/oats-baked",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_OatsBaked_BanaanChoco_PP_LoadingFrame_v1.png?v=1773384433",
-      "variants": [
-        {
-          "id": 56748437340543,
-          "title": "Blauwe Bes",
-          "price": 19.0,
-          "available": false,
-          "sku": "7GBOBB-1"
-        },
-        {
-          "id": 56748437373311,
-          "title": "Banaan Choco Chip",
-          "price": 19.0,
-          "available": false,
-          "sku": "7GBOBC-1"
-        },
-        {
-          "id": 57755598094719,
-          "title": "Banaan Choco Chip 2.0",
-          "price": 24.0,
-          "available": false,
-          "sku": "7GB2BC-1"
-        },
-        {
-          "id": 57755598127487,
-          "title": "Brownie 2.0",
-          "price": 24.0,
-          "available": false,
-          "sku": "7GBOBR-1"
-        },
-        {
-          "id": 58014739988863,
-          "title": "Kers Choco 2.0",
-          "price": 24.0,
-          "available": false,
-          "sku": "7GB2KC-1"
         }
       ]
     },
@@ -2326,51 +2247,6 @@
       ]
     },
     {
-      "id": 8671786500445,
-      "title": "CreaTabs",
-      "handle": "creatabs",
-      "url": "https://upfront.nl/products/creatabs",
-      "product_type": "Sport Supplements",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_CreaTabsPack_Pepermunt_v2_00000.png?v=1756991992",
-      "variants": [
-        {
-          "id": 55908256579967,
-          "title": "Pepermunt",
-          "price": 5.0,
-          "available": false,
-          "sku": "14CTPM-1"
-        },
-        {
-          "id": 48831568249181,
-          "title": "Citroen 21",
-          "price": 6.0,
-          "available": false,
-          "sku": "21SUCT-1"
-        },
-        {
-          "id": 49136151036253,
-          "title": "Citroen 126",
-          "price": 15.0,
-          "available": false,
-          "sku": "21SUCT-6"
-        },
-        {
-          "id": 51018177511773,
-          "title": "Citroen 105",
-          "price": 15.0,
-          "available": false,
-          "sku": "21SUCT-5"
-        },
-        {
-          "id": 55569800036735,
-          "title": "Pepermunt 16",
-          "price": 5.0,
-          "available": false,
-          "sku": "14CTPM-3"
-        }
-      ]
-    },
-    {
       "id": 15124756169087,
       "title": "Pre PRO 3.0",
       "handle": "pre-pro-3-0",
@@ -2419,23 +2295,6 @@
           "price": 29.0,
           "available": true,
           "sku": "35PP3AA-1"
-        }
-      ]
-    },
-    {
-      "id": 15106194243967,
-      "title": "Limonadesiroop",
-      "handle": "limonadesiroop",
-      "url": "https://upfront.nl/products/limonadesiroop",
-      "product_type": "Drinks",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_Limonadesiroop_PassievruchtMunt_v1_00000.png?v=1758794618",
-      "variants": [
-        {
-          "id": 55514490732927,
-          "title": "Citroen Grapefruit",
-          "price": 2.0,
-          "available": false,
-          "sku": "G5LSCG-1"
         }
       ]
     },
