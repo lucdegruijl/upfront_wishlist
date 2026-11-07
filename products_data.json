@@ -1,8 +1,53 @@
 {
-  "last_updated": "2026-11-07T12:26:25.052949+00:00",
+  "last_updated": "2026-11-07T21:25:58.106713+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 15495022870911,
+      "title": "Baked Oats",
+      "handle": "oats-baked",
+      "url": "https://upfront.nl/products/oats-baked",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_OatsBaked_BanaanChoco_PP_LoadingFrame_v1.png?v=1773384433",
+      "variants": [
+        {
+          "id": 56748437340543,
+          "title": "Blauwe Bes",
+          "price": 19.0,
+          "available": false,
+          "sku": "7GBOBB-1"
+        },
+        {
+          "id": 56748437373311,
+          "title": "Banaan Choco Chip",
+          "price": 19.0,
+          "available": false,
+          "sku": "7GBOBC-1"
+        },
+        {
+          "id": 57755598094719,
+          "title": "Banaan Choco Chip 2.0",
+          "price": 24.0,
+          "available": false,
+          "sku": "7GB2BC-1"
+        },
+        {
+          "id": 57755598127487,
+          "title": "Brownie 2.0",
+          "price": 24.0,
+          "available": false,
+          "sku": "7GBOBR-1"
+        },
+        {
+          "id": 58014739988863,
+          "title": "Kers Choco 2.0",
+          "price": 24.0,
+          "available": false,
+          "sku": "7GB2KC-1"
+        }
+      ]
+    },
     {
       "id": 8671786500445,
       "title": "CreaTabs",
