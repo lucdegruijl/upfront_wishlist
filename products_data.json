@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T04:37:36.701708+00:00",
+  "last_updated": "2026-11-09T15:08:38.988834+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -29,7 +29,7 @@
           "id": 57755598094719,
           "title": "Banaan Choco Chip 2.0",
           "price": 24.0,
-          "available": false,
+          "available": true,
           "sku": "7GB2BC-1"
         },
         {
@@ -740,7 +740,7 @@
           "id": 57124750164351,
           "title": "Hazelnoot",
           "price": 12.0,
-          "available": false,
+          "available": true,
           "sku": "FOCRCH-12"
         },
         {
@@ -768,7 +768,7 @@
           "id": 57124750295423,
           "title": "Hazelnoot 1st",
           "price": 2.08,
-          "available": false,
+          "available": true,
           "sku": "FOCRCH-1"
         },
         {
@@ -1078,7 +1078,7 @@
           "id": 55299502080383,
           "title": "Choco doosje",
           "price": 3.75,
-          "available": false,
+          "available": true,
           "sku": "3DGRCH-1"
         }
       ]
@@ -1161,7 +1161,7 @@
           "id": 57554876858751,
           "title": "Passievrucht",
           "price": 38.0,
-          "available": false,
+          "available": true,
           "sku": "P7CCPV-1"
         },
         {
@@ -1537,35 +1537,35 @@
         {
           "id": 56335524921727,
           "title": "Zure Kers",
-          "price": 29.0,
+          "price": 22.0,
           "available": true,
           "sku": "P3PUZK-1"
         },
         {
           "id": 56335524954495,
           "title": "Zwarte Bes",
-          "price": 29.0,
+          "price": 22.0,
           "available": true,
           "sku": "P3PUZB-1"
         },
         {
           "id": 56619685380479,
           "title": "Citrus",
-          "price": 29.0,
+          "price": 22.0,
           "available": true,
           "sku": "P3PUCI-1"
         },
         {
           "id": 57366956376447,
           "title": "Mango Chili",
-          "price": 29.0,
+          "price": 22.0,
           "available": true,
           "sku": "P3PUMC-1"
         },
         {
           "id": 57755734507903,
           "title": "Aardbei Yuzu",
-          "price": 29.0,
+          "price": 22.0,
           "available": true,
           "sku": "35PPUAA-1"
         }
@@ -2302,42 +2302,42 @@
         {
           "id": 55558061425023,
           "title": "Groene Appel",
-          "price": 29.0,
+          "price": 22.0,
           "available": true,
           "sku": "P3P3GA-1"
         },
         {
           "id": 55558061457791,
           "title": "Zwarte Bes",
-          "price": 29.0,
+          "price": 22.0,
           "available": true,
           "sku": "P3P3ZB-1"
         },
         {
           "id": 55753036300671,
           "title": "Citrus",
-          "price": 29.0,
+          "price": 22.0,
           "available": true,
           "sku": "P3P3CI-1"
         },
         {
           "id": 56064189628799,
           "title": "Zure Kers",
-          "price": 29.0,
+          "price": 22.0,
           "available": true,
           "sku": "P3P3ZK-1"
         },
         {
           "id": 57374961467775,
           "title": "Mango Chili",
-          "price": 29.0,
+          "price": 22.0,
           "available": true,
           "sku": "P3P3MC-1"
         },
         {
           "id": 57755731165567,
           "title": "Aardbei Yuzu",
-          "price": 29.0,
+          "price": 22.0,
           "available": true,
           "sku": "35PP3AA-1"
         }
@@ -2879,7 +2879,7 @@
           "id": 58446821654911,
           "title": "Banaan Karamel",
           "price": 19.0,
-          "available": false,
+          "available": true,
           "sku": "KGO2BK-1"
         }
       ]
@@ -2919,28 +2919,28 @@
         {
           "id": 39479179051070,
           "title": "Vanille",
-          "price": 39.0,
+          "price": 33.0,
           "available": true,
           "sku": "KGWHVA-1"
         },
         {
           "id": 39976722464830,
           "title": "Chocolade",
-          "price": 39.0,
+          "price": 33.0,
           "available": true,
           "sku": "KGWHCA-1"
         },
         {
           "id": 40009264201790,
           "title": "Banaan",
-          "price": 39.0,
+          "price": 33.0,
           "available": true,
           "sku": "KGWHBA-1"
         },
         {
           "id": 40009265807422,
           "title": "Aardbei",
-          "price": 39.0,
+          "price": 33.0,
           "available": true,
           "sku": "KGWHAA-1"
         },
