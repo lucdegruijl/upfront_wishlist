@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T01:10:03.366733+00:00",
+  "last_updated": "2026-11-10T14:18:33.822893+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -45,6 +45,13 @@
           "price": 24.0,
           "available": false,
           "sku": "7GB2KC-1"
+        },
+        {
+          "id": 58015198839167,
+          "title": "Blauwe Bes 2.0",
+          "price": 24.0,
+          "available": true,
+          "sku": "7GB2BB-1"
         }
       ]
     },
@@ -463,14 +470,14 @@
         {
           "id": 57438263607679,
           "title": "Aardbei Yoghurt 1",
-          "price": 1.0,
+          "price": 2.0,
           "available": true,
           "sku": "CUOOAY-1"
         },
         {
           "id": 57438263640447,
           "title": "Mango Kokos 1",
-          "price": 1.0,
+          "price": 2.0,
           "available": true,
           "sku": "CUOOMK-1"
         }
@@ -487,7 +494,7 @@
         {
           "id": 57442857845119,
           "title": "Banaan 1",
-          "price": 1.0,
+          "price": 2.0,
           "available": true,
           "sku": "CUFBRB-1"
         }
@@ -740,7 +747,7 @@
           "id": 57124750164351,
           "title": "Hazelnoot",
           "price": 12.0,
-          "available": false,
+          "available": true,
           "sku": "FOCRCH-12"
         },
         {
@@ -768,7 +775,7 @@
           "id": 57124750295423,
           "title": "Hazelnoot 1st",
           "price": 2.08,
-          "available": false,
+          "available": true,
           "sku": "FOCRCH-1"
         },
         {
@@ -1168,7 +1175,7 @@
           "id": 57554884985215,
           "title": "Zwarte Bes",
           "price": 38.0,
-          "available": false,
+          "available": true,
           "sku": "P7CCZB-1"
         }
       ]
@@ -1435,7 +1442,7 @@
           "id": 57736237220223,
           "title": "80st",
           "price": 14.0,
-          "available": false,
+          "available": true,
           "sku": "GFS2AM-1"
         }
       ]
@@ -2907,7 +2914,7 @@
       "handle": "whey",
       "url": "https://upfront.nl/products/whey",
       "product_type": "Protein",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_WheyMilkshake_Banaan_v2.png?v=1760801897",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_WheyMilkshake_Vanille.png?v=1758624215",
       "variants": [
         {
           "id": 53433362612573,
