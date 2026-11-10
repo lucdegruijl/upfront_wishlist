@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T14:18:33.822893+00:00",
+  "last_updated": "2026-11-10T22:49:21.787544+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -454,7 +454,7 @@
           "id": 57732224287103,
           "title": "Flakes",
           "price": 4.5,
-          "available": true,
+          "available": false,
           "sku": "SMZZFL18-1"
         }
       ]
@@ -760,7 +760,7 @@
         {
           "id": 57124750229887,
           "title": "Framboos (V)",
-          "price": 27.0,
+          "price": 12.0,
           "available": true,
           "sku": "FOCRVF-12"
         },
@@ -2941,7 +2941,7 @@
           "id": 40009264201790,
           "title": "Banaan",
           "price": 33.0,
-          "available": true,
+          "available": false,
           "sku": "KGWHBA-1"
         },
         {
