@@ -1,8 +1,32 @@
 {
-  "last_updated": "2026-11-11T04:40:34.129933+00:00",
+  "last_updated": "2026-11-11T13:31:52.556124+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 16073063661951,
+      "title": "Cream of Rice",
+      "handle": "cream-of-rice",
+      "url": "https://upfront.nl/products/cream-of-rice",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_CreamOfRice_Chocolade_P1CRBC_PP_LoadingFrame_v1.png?v=1794384089",
+      "variants": [
+        {
+          "id": 59150864351615,
+          "title": "Chocolade",
+          "price": 14.0,
+          "available": true,
+          "sku": "P1CRCH-1"
+        },
+        {
+          "id": 59150864384383,
+          "title": "Vanille Kaneel",
+          "price": 14.0,
+          "available": false,
+          "sku": "P1CRVK-1"
+        }
+      ]
+    },
     {
       "id": 15495022870911,
       "title": "Baked Oats",
@@ -170,7 +194,7 @@
           "id": 58446244905343,
           "title": "Cappuccino",
           "price": 4.5,
-          "available": true,
+          "available": false,
           "sku": "RDI3CA-2"
         }
       ]
@@ -439,23 +463,6 @@
           "price": 25.0,
           "available": true,
           "sku": "GFSUPM-1"
-        }
-      ]
-    },
-    {
-      "id": 15710630576511,
-      "title": "Keltisch Zeezout",
-      "handle": "keltisch-zeezout",
-      "url": "https://upfront.nl/products/keltisch-zeezout",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/SWebsite_ZeezoutFlakes_PP_LoadingFrame_v1.png?v=1781197296",
-      "variants": [
-        {
-          "id": 57732224287103,
-          "title": "Flakes",
-          "price": 4.5,
-          "available": false,
-          "sku": "SMZZFL18-1"
         }
       ]
     },
@@ -746,7 +753,7 @@
         {
           "id": 57124750164351,
           "title": "Hazelnoot",
-          "price": 12.0,
+          "price": 18.0,
           "available": true,
           "sku": "FOCRCH-12"
         },
@@ -955,7 +962,7 @@
         {
           "id": 57124887888255,
           "title": "Pistache Framboos",
-          "price": 26.0,
+          "price": 18.0,
           "available": true,
           "sku": "F2BAPF-12"
         },
@@ -983,7 +990,7 @@
         {
           "id": 57124888019327,
           "title": "Pecan Maple (V)",
-          "price": 26.0,
+          "price": 12.0,
           "available": true,
           "sku": "FOVBPM-12"
         },
@@ -997,7 +1004,7 @@
         {
           "id": 57124888084863,
           "title": "Choco Chip (V)",
-          "price": 26.0,
+          "price": 12.0,
           "available": true,
           "sku": "FOVBCC-12"
         },
@@ -1025,7 +1032,7 @@
         {
           "id": 57874079711615,
           "title": "Matcha Mango",
-          "price": 26.0,
+          "price": 18.0,
           "available": true,
           "sku": "FOBAMM-12"
         },
@@ -1071,7 +1078,7 @@
           "id": 55299505717631,
           "title": "Naturel doosje",
           "price": 3.75,
-          "available": false,
+          "available": true,
           "sku": "3DGRBA-1"
         },
         {
