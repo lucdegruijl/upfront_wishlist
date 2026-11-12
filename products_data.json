@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T00:01:40.213379+00:00",
+  "last_updated": "2026-11-12T14:36:28.260898+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -228,7 +228,7 @@
           "id": 56951367500159,
           "title": "Chocolade",
           "price": 10.0,
-          "available": false,
+          "available": true,
           "sku": "KGOACZ-1"
         },
         {
@@ -1054,7 +1054,7 @@
           "id": 58446760018303,
           "title": "Pepernoot 1st",
           "price": 2.08,
-          "available": false,
+          "available": true,
           "sku": "F2BAPN-1"
         }
       ]
@@ -2185,7 +2185,7 @@
           "id": 54919240581503,
           "title": "Granaatappel Vlierbloesem 6",
           "price": 14.0,
-          "available": true,
+          "available": false,
           "sku": "RDLISE-6"
         },
         {
@@ -2482,13 +2482,6 @@
           "price": 27.0,
           "available": true,
           "sku": "5GCOPU-1"
-        },
-        {
-          "id": 55112139309439,
-          "title": "Aardbei Citroen",
-          "price": 27.0,
-          "available": false,
-          "sku": "5GCOAC-1"
         }
       ]
     },
