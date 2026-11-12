@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T13:31:52.556124+00:00",
+  "last_updated": "2026-11-12T00:01:40.213379+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -91,7 +91,7 @@
           "id": 55908256579967,
           "title": "Pepermunt",
           "price": 5.0,
-          "available": false,
+          "available": true,
           "sku": "14CTPM-1"
         },
         {
@@ -194,7 +194,7 @@
           "id": 58446244905343,
           "title": "Cappuccino",
           "price": 4.5,
-          "available": false,
+          "available": true,
           "sku": "RDI3CA-2"
         }
       ]
@@ -2262,7 +2262,7 @@
           "id": 57504940196223,
           "title": "Passievrucht 6",
           "price": 16.0,
-          "available": false,
+          "available": true,
           "sku": "RDLIPA-6"
         },
         {
