@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T14:36:28.260898+00:00",
+  "last_updated": "2026-11-12T23:12:08.186716+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -2941,7 +2941,7 @@
           "id": 40009264201790,
           "title": "Banaan",
           "price": 33.0,
-          "available": false,
+          "available": true,
           "sku": "KGWHBA-1"
         },
         {
