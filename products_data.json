@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-11-13T05:00:20.023569+00:00",
+  "last_updated": "2026-11-13T13:54:09.206244+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 15657281683839,
+      "title": "Eiwit Matcha",
+      "handle": "eiwit-matcha-1",
+      "url": "https://upfront.nl/products/eiwit-matcha-1",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_EiwitMatchaRTD_MatchaLatte_PP_LoadingFrame_v1.png?v=1777450893",
+      "variants": [
+        {
+          "id": 58446814806399,
+          "title": "Matcha Latte Kokos",
+          "price": 4.5,
+          "available": true,
+          "sku": "RDI2MA-2"
+        }
+      ]
+    },
     {
       "id": 16073063661951,
       "title": "Cream of Rice",
@@ -729,7 +746,7 @@
         {
           "id": 54713569870173,
           "title": "Cappuccino 300",
-          "price": 16.0,
+          "price": 19.0,
           "available": true,
           "sku": "3GWHCP-1"
         }
@@ -1054,7 +1071,7 @@
           "id": 58446760018303,
           "title": "Pepernoot 1st",
           "price": 2.08,
-          "available": true,
+          "available": false,
           "sku": "F2BAPN-1"
         }
       ]
@@ -1130,7 +1147,7 @@
           "id": 57432178524543,
           "title": "Appel",
           "price": 22.0,
-          "available": true,
+          "available": false,
           "sku": "3PE2AP-1"
         },
         {
