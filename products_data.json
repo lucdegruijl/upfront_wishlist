@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T04:53:45.478796+00:00",
+  "last_updated": "2026-11-14T12:56:58.282066+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -2965,7 +2965,7 @@
           "id": 40009265807422,
           "title": "Aardbei",
           "price": 33.0,
-          "available": true,
+          "available": false,
           "sku": "KGWHAA-1"
         },
         {
