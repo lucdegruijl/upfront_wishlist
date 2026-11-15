@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T04:46:25.462430+00:00",
+  "last_updated": "2026-11-15T13:25:28.877607+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -2479,7 +2479,7 @@
         {
           "id": 57555601195391,
           "title": "6-pack Vanille",
-          "price": 14.0,
+          "price": 8.4,
           "available": true,
           "sku": "RDWHVA-6"
         }
