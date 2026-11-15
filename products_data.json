@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T13:25:28.877607+00:00",
+  "last_updated": "2026-11-15T22:27:43.515453+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -1374,7 +1374,7 @@
           "id": 56459934925183,
           "title": "Koffiebonen",
           "price": 9.5,
-          "available": true,
+          "available": false,
           "sku": "ONKOBN45-1"
         }
       ]
