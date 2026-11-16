@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T04:43:16.663098+00:00",
+  "last_updated": "2026-11-16T14:45:18.102915+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -408,6 +408,13 @@
           "price": 29.0,
           "available": true,
           "sku": "7GVFCH-1"
+        },
+        {
+          "id": 59206007849343,
+          "title": "Speculaas",
+          "price": 29.0,
+          "available": true,
+          "sku": "7GVFSP-1"
         }
       ]
     },
