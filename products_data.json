@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T01:33:50.463431+00:00",
+  "last_updated": "2026-11-17T15:28:55.970620+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -63,7 +63,7 @@
           "id": 56748437373311,
           "title": "Banaan Choco Chip",
           "price": 19.0,
-          "available": false,
+          "available": true,
           "sku": "7GBOBC-1"
         },
         {
@@ -382,7 +382,7 @@
           "id": 57890623750527,
           "title": "Puur",
           "price": 39.0,
-          "available": true,
+          "available": false,
           "sku": "KGWHPU-1"
         }
       ]
@@ -1078,7 +1078,7 @@
           "id": 58446760018303,
           "title": "Pepernoot 1st",
           "price": 2.08,
-          "available": false,
+          "available": true,
           "sku": "F2BAPN-1"
         }
       ]
@@ -1366,23 +1366,6 @@
           "price": 7.5,
           "available": true,
           "sku": "ONKOCL20-1"
-        }
-      ]
-    },
-    {
-      "id": 15411102515583,
-      "title": "Koffiebonen",
-      "handle": "koffiebonen",
-      "url": "https://upfront.nl/products/koffiebonen",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/CollectionPage_v2-WebsiteRender_KoffieBonen_Still_v1.jpg?v=1763996587",
-      "variants": [
-        {
-          "id": 56459934925183,
-          "title": "Koffiebonen",
-          "price": 9.5,
-          "available": false,
-          "sku": "ONKOBN45-1"
         }
       ]
     },
