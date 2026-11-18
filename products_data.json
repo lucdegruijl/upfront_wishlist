@@ -1,8 +1,73 @@
 {
-  "last_updated": "2026-11-18T15:04:45.032488+00:00",
+  "last_updated": "2026-11-18T23:52:24.893579+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
+    {
+      "id": 15658771349887,
+      "title": "Chiapudding Cup",
+      "handle": "chiapudding-cup",
+      "url": "https://upfront.nl/products/chiapudding-cup",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_ChiapuddingRTE_Framboos_PP_LoadingFrame_v1.png?v=1778240463",
+      "variants": [
+        {
+          "id": 57437337190783,
+          "title": "Framboos 1",
+          "price": 2.0,
+          "available": true,
+          "sku": "CUCPFR-1"
+        },
+        {
+          "id": 57437337223551,
+          "title": "Mango Passievrucht 1",
+          "price": 2.0,
+          "available": true,
+          "sku": "CUCPMP-1"
+        }
+      ]
+    },
+    {
+      "id": 15892651934079,
+      "title": "Kerstbal",
+      "handle": "kerstbal",
+      "url": "https://upfront.nl/products/kerstbal",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Kerstbal_STGBKB-1_PP_LoadingFrame_v1.png?v=1794995509",
+      "variants": [
+        {
+          "id": 58446627963263,
+          "title": "Kerstbal",
+          "price": 99.0,
+          "available": false,
+          "sku": "STGBKB-1"
+        }
+      ]
+    },
+    {
+      "id": 16077513425279,
+      "title": "Kerst Giftbox",
+      "handle": "giftbox-kerst-12",
+      "url": "https://upfront.nl/products/giftbox-kerst-12",
+      "product_type": "mix",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_AdventBox_B2C_PP_LoadingPage_v2_1.png?v=1794845931",
+      "variants": [
+        {
+          "id": 59169721418111,
+          "title": "Kerst Giftbox",
+          "price": 30.0,
+          "available": true,
+          "sku": "GIFTTS-1"
+        },
+        {
+          "id": 59169721450879,
+          "title": "Kerst Giftbox L",
+          "price": 50.0,
+          "available": false,
+          "sku": "GIFTTL-1"
+        }
+      ]
+    },
     {
       "id": 16026136019327,
       "title": "Eiwit Rijstpudding 300g",
@@ -262,7 +327,7 @@
           "id": 56951367500159,
           "title": "Chocolade",
           "price": 10.0,
-          "available": true,
+          "available": false,
           "sku": "KGOACZ-1"
         },
         {
@@ -504,6 +569,30 @@
           "price": 25.0,
           "available": true,
           "sku": "GFSUPM-1"
+        }
+      ]
+    },
+    {
+      "id": 15658768040319,
+      "title": "Eiwit Oats Cup",
+      "handle": "eiwit-oats-cup",
+      "url": "https://upfront.nl/products/eiwit-oats-cup",
+      "product_type": "",
+      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_OatsRTE_Chocolade_PP_LoadingFrame_v1.png?v=1778240706",
+      "variants": [
+        {
+          "id": 57437332865407,
+          "title": "Chocolade 1",
+          "price": 2.0,
+          "available": true,
+          "sku": "CUOACZ-1"
+        },
+        {
+          "id": 57437332898175,
+          "title": "Appel Kaneel 1",
+          "price": 2.0,
+          "available": true,
+          "sku": "CUOAAK-1"
         }
       ]
     },
