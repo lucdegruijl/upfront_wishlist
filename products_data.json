@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T05:52:31.177107+00:00",
+  "last_updated": "2026-11-19T15:13:56.102400+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -24,23 +24,6 @@
           "price": 2.0,
           "available": true,
           "sku": "CUCPMP-1"
-        }
-      ]
-    },
-    {
-      "id": 15892651934079,
-      "title": "Kerstbal",
-      "handle": "kerstbal",
-      "url": "https://upfront.nl/products/kerstbal",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_Kerstbal_STGBKB-1_PP_LoadingFrame_v1.png?v=1794995509",
-      "variants": [
-        {
-          "id": 58446627963263,
-          "title": "Kerstbal",
-          "price": 99.0,
-          "available": false,
-          "sku": "STGBKB-1"
         }
       ]
     },
