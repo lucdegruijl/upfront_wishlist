@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T05:36:10.522470+00:00",
+  "last_updated": "2026-11-21T14:11:28.262948+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -130,13 +130,6 @@
           "price": 24.0,
           "available": true,
           "sku": "7GBOBR-1"
-        },
-        {
-          "id": 58014739988863,
-          "title": "Kers Choco",
-          "price": 24.0,
-          "available": false,
-          "sku": "7GB2KC-1"
         },
         {
           "id": 58015198839167,
