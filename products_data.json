@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T14:00:41.883012+00:00",
+  "last_updated": "2026-11-22T23:13:14.145798+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -2274,7 +2274,7 @@
           "id": 54919240647039,
           "title": "Appel Kiwi 6",
           "price": 14.0,
-          "available": true,
+          "available": false,
           "sku": "RDLIAK-6"
         },
         {
