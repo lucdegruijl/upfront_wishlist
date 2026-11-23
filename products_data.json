@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T05:43:33.687366+00:00",
+  "last_updated": "2026-11-23T17:22:08.293511+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -118,18 +118,18 @@
       "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_OatsBaked_BanaanChoco_PP_LoadingFrame_v1.png?v=1773384433",
       "variants": [
         {
-          "id": 57755598094719,
-          "title": "Banaan Choco Chip",
-          "price": 24.0,
-          "available": true,
-          "sku": "7GB2BC-1"
-        },
-        {
           "id": 57755598127487,
           "title": "Brownie",
           "price": 24.0,
           "available": true,
           "sku": "7GBOBR-1"
+        },
+        {
+          "id": 57755598094719,
+          "title": "Banaan Choco Chip",
+          "price": 24.0,
+          "available": true,
+          "sku": "7GB2BC-1"
         },
         {
           "id": 58015198839167,
@@ -336,14 +336,14 @@
         {
           "id": 57262532133247,
           "title": "Puur",
-          "price": 16.5,
+          "price": 35.0,
           "available": true,
           "sku": "FOFBPU-1"
         },
         {
           "id": 57262532166015,
           "title": "Sinaasappel",
-          "price": 16.5,
+          "price": 35.0,
           "available": true,
           "sku": "FOFBSA-1"
         }
@@ -555,30 +555,6 @@
           "price": 2.0,
           "available": true,
           "sku": "CUOAAK-1"
-        }
-      ]
-    },
-    {
-      "id": 15659009737087,
-      "title": "Overnight Oats Cup",
-      "handle": "overnight-oats-cup",
-      "url": "https://upfront.nl/products/overnight-oats-cup",
-      "product_type": "",
-      "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/Website_OatsOvernightRTE_AardbeiYoghurt_PP_LoadingFrame_v1.png?v=1778240845",
-      "variants": [
-        {
-          "id": 57438263607679,
-          "title": "Aardbei Yoghurt 1",
-          "price": 2.0,
-          "available": true,
-          "sku": "CUOOAY-1"
-        },
-        {
-          "id": 57438263640447,
-          "title": "Mango Kokos 1",
-          "price": 2.0,
-          "available": true,
-          "sku": "CUOOMK-1"
         }
       ]
     },
@@ -923,14 +899,14 @@
           "id": 58446770405759,
           "title": "Kruidnoot",
           "price": 27.0,
-          "available": false,
+          "available": true,
           "sku": "FOCRKN-12"
         },
         {
           "id": 58446770438527,
           "title": "Kruidnoot 1st",
           "price": 2.08,
-          "available": false,
+          "available": true,
           "sku": "FOCRKN-1"
         }
       ]
@@ -1139,7 +1115,7 @@
           "id": 58446759985535,
           "title": "Pepernoot",
           "price": 26.0,
-          "available": false,
+          "available": true,
           "sku": "F2BAPN-12"
         },
         {
@@ -2274,7 +2250,7 @@
           "id": 54919240647039,
           "title": "Appel Kiwi 6",
           "price": 14.0,
-          "available": false,
+          "available": true,
           "sku": "RDLIAK-6"
         },
         {
