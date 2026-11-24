@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T03:47:52.473759+00:00",
+  "last_updated": "2026-11-24T16:56:49.962089+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -41,13 +41,6 @@
           "price": 30.0,
           "available": true,
           "sku": "GIFTTS-1"
-        },
-        {
-          "id": 59169721450879,
-          "title": "Kerst Giftbox L",
-          "price": 50.0,
-          "available": false,
-          "sku": "GIFTTL-1"
         }
       ]
     },
@@ -182,7 +175,7 @@
         {
           "id": 58015533498751,
           "title": "Puur",
-          "price": 11.0,
+          "price": 15.0,
           "available": true,
           "sku": "GFSUPR-1"
         }
@@ -528,7 +521,7 @@
         {
           "id": 57504924926335,
           "title": "Magnesium PRO",
-          "price": 25.0,
+          "price": 29.0,
           "available": true,
           "sku": "GFSUPM-1"
         }
@@ -864,7 +857,7 @@
           "id": 57124750360959,
           "title": "Framboos (V) 1st",
           "price": 2.08,
-          "available": false,
+          "available": true,
           "sku": "FOCRVF-1"
         },
         {
@@ -1266,7 +1259,7 @@
         {
           "id": 56627973882239,
           "title": "Magnesium",
-          "price": 11.0,
+          "price": 15.0,
           "available": true,
           "sku": "GFSUMP-1"
         }
@@ -1424,7 +1417,7 @@
         {
           "id": 56844757369215,
           "title": "60st",
-          "price": 10.0,
+          "price": 14.0,
           "available": true,
           "sku": "GFSUVD-1"
         }
@@ -1441,7 +1434,7 @@
         {
           "id": 56844742525311,
           "title": "30st",
-          "price": 11.0,
+          "price": 15.0,
           "available": true,
           "sku": "GFSUO3-1"
         }
@@ -1458,7 +1451,7 @@
         {
           "id": 56844289671551,
           "title": "60st",
-          "price": 10.0,
+          "price": 14.0,
           "available": true,
           "sku": "GFSUIJ-1"
         }
@@ -1475,7 +1468,7 @@
         {
           "id": 56844283412863,
           "title": "60st",
-          "price": 10.0,
+          "price": 14.0,
           "available": true,
           "sku": "GFSUZI-1"
         }
@@ -1499,7 +1492,7 @@
         {
           "id": 57736237220223,
           "title": "80st",
-          "price": 14.0,
+          "price": 18.0,
           "available": true,
           "sku": "GFS2AM-1"
         }
