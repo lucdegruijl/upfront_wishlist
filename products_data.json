@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T01:53:55.012961+00:00",
+  "last_updated": "2026-11-25T16:46:12.444247+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -829,7 +829,7 @@
           "id": 57124750229887,
           "title": "Framboos (V)",
           "price": 12.0,
-          "available": false,
+          "available": true,
           "sku": "FOCRVF-12"
         },
         {
@@ -1059,7 +1059,7 @@
           "id": 57124888052095,
           "title": "Pecan Maple (V) 1st",
           "price": 2.08,
-          "available": true,
+          "available": false,
           "sku": "FOVBPM-1"
         },
         {
@@ -2268,13 +2268,6 @@
           "sku": "RDLICM-1"
         },
         {
-          "id": 57432298258815,
-          "title": "Zwarte Bes 6",
-          "price": 16.0,
-          "available": true,
-          "sku": "RDLIZB-6"
-        },
-        {
           "id": 57432298291583,
           "title": "Zwarte Bes 1",
           "price": 2.67,
@@ -2308,20 +2301,6 @@
           "price": 16.0,
           "available": true,
           "sku": "RDLIPA-6"
-        },
-        {
-          "id": 58429666722175,
-          "title": "Aardbei Citroen 1",
-          "price": 2.67,
-          "available": true,
-          "sku": "RDLIAC-1"
-        },
-        {
-          "id": 58429666754943,
-          "title": "Aardbei Citroen 6",
-          "price": 16.0,
-          "available": true,
-          "sku": "RDLIAC-6"
         }
       ]
     },
@@ -2700,7 +2679,7 @@
           "id": 55902969004415,
           "title": "Zwarte bes 300",
           "price": 18.0,
-          "available": false,
+          "available": true,
           "sku": "3GCWZB-1"
         },
         {
