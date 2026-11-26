@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T01:32:28.479034+00:00",
+  "last_updated": "2026-11-26T16:21:54.396298+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -815,7 +815,7 @@
           "id": 57124750164351,
           "title": "Hazelnoot",
           "price": 18.0,
-          "available": false,
+          "available": true,
           "sku": "FOCRCH-12"
         },
         {
@@ -1052,14 +1052,14 @@
           "id": 57124888019327,
           "title": "Pecan Maple (V)",
           "price": 12.0,
-          "available": false,
+          "available": true,
           "sku": "FOVBPM-12"
         },
         {
           "id": 57124888052095,
           "title": "Pecan Maple (V) 1st",
           "price": 2.08,
-          "available": false,
+          "available": true,
           "sku": "FOVBPM-1"
         },
         {
@@ -1595,35 +1595,35 @@
         {
           "id": 56335524921727,
           "title": "Zure Kers",
-          "price": 22.0,
+          "price": 27.0,
           "available": true,
           "sku": "P3PUZK-1"
         },
         {
           "id": 56335524954495,
           "title": "Zwarte Bes",
-          "price": 22.0,
+          "price": 27.0,
           "available": true,
           "sku": "P3PUZB-1"
         },
         {
           "id": 56619685380479,
           "title": "Citrus",
-          "price": 22.0,
+          "price": 27.0,
           "available": true,
           "sku": "P3PUCI-1"
         },
         {
           "id": 57366956376447,
           "title": "Mango Chili",
-          "price": 22.0,
+          "price": 27.0,
           "available": true,
           "sku": "P3PUMC-1"
         },
         {
           "id": 57755734507903,
           "title": "Aardbei Yuzu",
-          "price": 22.0,
+          "price": 27.0,
           "available": true,
           "sku": "35PPUAA-1"
         }
@@ -2229,7 +2229,7 @@
           "id": 54919240581503,
           "title": "Granaatappel Vlierbloesem 6",
           "price": 14.0,
-          "available": false,
+          "available": true,
           "sku": "RDLISE-6"
         },
         {
@@ -2339,42 +2339,42 @@
         {
           "id": 55558061425023,
           "title": "Groene Appel",
-          "price": 22.0,
+          "price": 29.0,
           "available": true,
           "sku": "P3P3GA-1"
         },
         {
           "id": 55558061457791,
           "title": "Zwarte Bes",
-          "price": 22.0,
+          "price": 29.0,
           "available": true,
           "sku": "P3P3ZB-1"
         },
         {
           "id": 55753036300671,
           "title": "Citrus",
-          "price": 22.0,
+          "price": 29.0,
           "available": true,
           "sku": "P3P3CI-1"
         },
         {
           "id": 56064189628799,
           "title": "Zure Kers",
-          "price": 22.0,
+          "price": 29.0,
           "available": true,
           "sku": "P3P3ZK-1"
         },
         {
           "id": 57374961467775,
           "title": "Mango Chili",
-          "price": 22.0,
+          "price": 29.0,
           "available": true,
           "sku": "P3P3MC-1"
         },
         {
           "id": 57755731165567,
           "title": "Aardbei Yuzu",
-          "price": 22.0,
+          "price": 29.0,
           "available": true,
           "sku": "35PP3AA-1"
         }
@@ -2694,8 +2694,8 @@
     {
       "id": 9017941360989,
       "title": "Electrolytes (10st)",
-      "handle": "hydro-sticks",
-      "url": "https://upfront.nl/products/hydro-sticks",
+      "handle": "electrolytes-10",
+      "url": "https://upfront.nl/products/electrolytes-10",
       "product_type": "Sachets",
       "image": "https://cdn.shopify.com/s/files/1/0254/4667/8590/files/LoadingFrame_Electrolytes_Grapefruit_v2_00000.png?v=1774272328",
       "variants": [
