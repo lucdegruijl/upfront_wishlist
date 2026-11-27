@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T16:21:54.396298+00:00",
+  "last_updated": "2026-11-27T01:28:25.896745+00:00",
   "shipping_cost": 4.95,
   "free_shipping_threshold": 59.0,
   "products": [
@@ -663,7 +663,7 @@
           "id": 58015521603967,
           "title": "Honing 350g",
           "price": 5.0,
-          "available": true,
+          "available": false,
           "sku": "ONHOBS35-1"
         }
       ]
@@ -814,7 +814,7 @@
         {
           "id": 57124750164351,
           "title": "Hazelnoot",
-          "price": 18.0,
+          "price": 20.0,
           "available": true,
           "sku": "FOCRCH-12"
         },
@@ -2229,7 +2229,7 @@
           "id": 54919240581503,
           "title": "Granaatappel Vlierbloesem 6",
           "price": 14.0,
-          "available": true,
+          "available": false,
           "sku": "RDLISE-6"
         },
         {
